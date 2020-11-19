@@ -1,0 +1,15 @@
+.field-taxonomy-location-wrapper > * {
+	position: relative;
+}
+.field-taxonomy-location-wrapper .loading::before {
+	background: rgba(255, 255, 255, 0.5) url("loading.gif") no-repeat center center/25px auto;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 9;
+	width: 100%;
+	height: 100%;
+	content: '';
+}

@@ -1,0 +1,169 @@
+
+.agency-information{
+	padding:20px 0;
+	float: left;
+    width: calc(100% - 210px);
+}
+.agency-thumbnail {
+	width: 180px;
+	float: left;
+    margin-right: 30px;
+}
+.agency-thumbnail .inner-image {
+	width: 150px;
+}
+#headerimg .description{
+	margin-bottom: 20px;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+.agency-title{
+	margin:0;
+}
+.agency-detail-header .title-wrapper > * {
+    display: inline-block;
+    margin-right: 3px;
+    vertical-align: middle;
+}
+.agency-detail-header .title-wrapper .urgent {
+    background: #e44343;
+    color: #fff;
+    padding: 1px 15px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    color: #fff;
+    font-size: 14px;
+}
+.agency-information > *{
+	margin:0 0 10px;
+	display: block;
+}
+.agency-phone{
+	margin:0 0 10px;
+}
+.agency-detail-detail .list{
+	padding:0;
+	margin:0 0 20px;
+	list-style: none;
+	clear: both;
+	overflow:h;
+}
+.agency-detail-detail .list li{
+	margin-bottom: 10px;
+	width:28%;
+	float: left;
+}
+.agency-detail-detail .list .icon{
+	margin-right: 5px;
+	display: inline-block;
+	vertical-align: top;
+}
+.agency-detail-detail .list .details{
+	display: inline-block;
+	vertical-align: top;
+}
+.agency-detail-detail .list li .text{
+	font-weight: 700;
+	margin-bottom: 3px;
+	font-size: 18px;
+}
+.inner{
+	margin-bottom: 40px;
+}
+.widget-title,
+.title,
+.property-detail-description > h3{
+	font-size: 30px !important;
+	margin:0 0 10px;
+}
+.edu_stats{
+	font-size: 18px;
+	margin: 0 0 5px;
+}
+.content{
+	margin-bottom: 40px;
+	padding-left:30px;
+}
+p{
+	margin: 0 0 14px;
+}
+.edu_center{
+	color: #82b440;
+}
+.edu_center .year{
+	font-size: 14px;
+	color: #6a6a6a;
+}
+.col-xs-4 {
+    width: 33.33333%;
+    float: left;
+    padding-left: 15px;
+	padding-right: 15px;
+}
+.row::before, .row::after {
+    content: " ";
+    display: table;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+[class*="agency-detail"] {
+    margin-bottom: 30px;
+    overflow:hidden;
+    clear: both;
+}
+.agency-detail-header {
+	margin-bottom: 50px;
+}
+.agency_resume_skill .progress-box .box-title{
+	margin:0 0 10px;
+	font-size: 16px;
+	font-weight: 400;
+	color: #6a6a6a;
+}
+.agency_resume_skill .progress-box .inner{
+	background-color: #eeeeee;
+	width: 100%;
+	height: 6px;
+	border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-ms-border-radius: 6px;
+	-o-border-radius: 6px;
+	position: relative;
+}
+.agency_resume_skill .progress-box .bar-fill{
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: #82b440;
+	width: 50%;
+	height: 6px;
+	border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-ms-border-radius: 6px;
+	-o-border-radius: 6px;
+}
+.agency_resume_skill .progress-box .bar-fill .percent{
+	color: #fff;
+	font-weight: bold;
+	font-size: 12px;
+	padding:3px;
+	top: -35px;
+	right: 0;
+	-webkit-transition: all 0.4s ease-in-out 0s;
+	-o-transition: all 0.4s ease-in-out 0s;
+	transition: all 0.4s ease-in-out 0s;
+	position: absolute;
+}
+.education-item{
+	margin-bottom: 20px;
+}

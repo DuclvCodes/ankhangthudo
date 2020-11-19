@@ -1,0 +1,200 @@
+@keyframes rotate {
+     100% {
+     -webkit-transform: rotate(360deg);
+     -ms-transform: rotate(360deg);
+     -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+    }
+}
+@-webkit-keyframes rotate {
+   100% {
+    -webkit-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+     -o-transform: rotate(360deg);
+     transform: rotate(360deg);
+   }
+}
+@-webkit-keyframes scale_icon {
+  from {
+  -ms-transform: scale(0.5); /* IE 9 */
+  -webkit-transform: scale(0.5); /* Safari prior 9.0 */
+  transform: scale(0.5); /* Standard syntax */
+  }
+  to {
+     -ms-transform: scale(1); /* IE 9 */
+	  -webkit-transform: scale(1); /* Safari prior 9.0 */
+	  transform: scale(1); /* Standard syntax */
+  }
+}
+
+/* Standard syntax */
+@keyframes scale_icon {
+  from {
+    -ms-transform: scale(0.5); /* IE 9 */
+	  -webkit-transform: scale(0.5); /* Safari prior 9.0 */
+	  transform: scale(0.5); /* Standard syntax */
+  }
+  to {
+    -ms-transform: scale(1); /* IE 9 */
+	  -webkit-transform: scale(1); /* Safari prior 9.0 */
+	  transform: scale(1); /* Standard syntax */
+  }
+}
+.pw-map {
+	height: 400px;
+	width: 99%;
+	margin: 5px 1px 1px;
+	border: solid 1px #DDD;
+	box-sizing: border-box;
+}
+.pw-map img {
+	max-width: none;
+}
+.pw-map-search-wrapper{
+	position: relative;
+}
+.pw-map-search-wrapper .find-me-location {
+    position: absolute;
+    top: 16px;
+    -webkit-transition: all 0.4s ease-in-out 0s;
+    -o-transition: all 0.4s ease-in-out 0s;
+    transition: all 0.4s ease-in-out 0s;
+    right: 15px;
+    width: 16px;
+    height: 16px;
+    text-align: center;
+    line-height: 16px;
+    display: block;
+    color: rgba(153, 153, 153, 0.5);
+    cursor: pointer;
+}
+.find-me-location::before {
+    content: "\f110";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+}
+#_property_map_location-map{
+	z-index: 1;
+}
+.pw-map-search-wrapper{
+  position: relative;
+  z-index: 2;
+}
+.pw-map-search-wrapper textarea.large-text,
+.pw-map-search-wrapper input.large-text{
+	width: 100%;
+}
+.pw-map-search-wrapper .highlight{
+  font-weight: 600;
+  font-size: 13px;
+}
+.pw-map-search-wrapper .leaflet-geocode-container{
+  position:absolute;
+  top:100%;
+  left: 0;
+  width:100%;
+  z-index: 8;
+  font-size: 14px;
+}
+.pw-map-search-wrapper .leaflet-geocode-container ul{
+    list-style: none;
+    background: #fff;
+    padding:15px;
+    margin:0;
+    font-size: 11px;
+    border-radius:0 0 3px 3px;
+    border-width:0 1px 1px;
+    border-style: solid;
+    border-color: #ddd;
+}
+.pw-map-search-wrapper .leaflet-geocode-container ul li{
+    margin-bottom:7px;
+    padding-bottom:7px;
+    border-bottom:1px solid #ddd;
+}
+.pw-map-search-wrapper .leaflet-geocode-container ul li:last-child{
+  margin-bottom: 0;
+  padding:0;
+  border:0;
+}
+.pw-map-search-wrapper .find-me-location{
+  position: absolute;
+  top:8px;
+  right: 7px;
+}
+.rtl .pw-map-search-wrapper .find-me-location{
+  right: inherit;
+  left: 7px;
+}
+.find-me-location {
+  cursor: pointer;
+  width:15px;
+  height: 15px;
+  line-height: 15px;
+}
+.find-me-location.loading{
+  animation:rotate 700ms linear 0s normal none infinite running ;
+  -webkit-animation:rotate 700ms linear 0s normal none infinite running ;
+}
+.find-me-location.loading:before{
+	content: "\f110";color: #82b440;
+}
+.pw-map-search-wrapper.loading .find-me-location:before{
+	content: "\f110";color: #82b440;
+}
+.pw-map-search-wrapper.loading .find-me-location{
+  animation:rotate 700ms linear 0s normal none infinite running ;
+  -webkit-animation:rotate 700ms linear 0s normal none infinite running ;
+}
+.map-popup{
+  width: 40px;
+  height: 40px;
+  margin-top: -40px;
+  margin-left: -20px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: flex-end;
+  -webkit-align-items: flex-end;
+  position:relative;
+}
+.map-popup:before{
+  content: '';
+  position: absolute;
+  display: block;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 35px;
+  background-color:
+  #02ccad;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  margin-top: -20px;
+  -webkit-transform: rotateX(-60deg) scale(0);
+  -moz-transform: rotateX(-60deg) scale(0);
+  -ms-transform: rotateX(-60deg) scale(0);
+  -o-transform: rotateX(-60deg) scale(0);
+  transform: rotateX(-60deg) scale(0);
+  opacity: 1;
+  filter: alpha(opacity=100);
+  animation: scale_icon_map 3s ease-in-out 0s infinite normal;
+  -webkit-animation: scale_icon_map 3s ease-in-out 0s infinite normal;
+}
+.map-popup .icon-wrapper {
+    font-size: 38px;
+    line-height: 1;
+    width: 40px;
+    height: 40px;
+    color: #02ccad;
+}
+.map-popup .icon-wrapper::before {
+  content: "\f117";
+  font-family: Flaticon;
+  font-style: normal;
+}

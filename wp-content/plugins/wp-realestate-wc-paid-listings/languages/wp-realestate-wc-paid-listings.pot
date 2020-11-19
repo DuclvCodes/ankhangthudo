@@ -1,0 +1,718 @@
+# Copyright (C) 2016 WP RealEstate - WooCommerce Paid Listings
+# This file is distributed under the same license as the WP RealEstate - WooCommerce Paid Listings package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP RealEstate - WooCommerce Paid Listings 2.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-realestate-wc-paid-listings\n"
+"POT-Creation-Date: 2020-06-25 09:10:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-product-type-package.php:70
+#: includes/post-types/class-post-type-property_package.php:58
+msgid "Property Package"
+msgstr ""
+
+#: includes/class-product-type-package.php:72
+msgid "Property Package Subscription"
+msgstr ""
+
+#: includes/class-product-type-package.php:140
+msgid "Subscription Type"
+msgstr ""
+
+#: includes/class-product-type-package.php:141
+msgid "Choose how subscriptions affect this package"
+msgstr ""
+
+#: includes/class-product-type-package.php:145
+msgid "Link the subscription to the package (renew listing limit every subscription term)"
+msgstr ""
+
+#: includes/class-product-type-package.php:146
+msgid "Link the subscription to posted listings (renew posted listings every subscription term)"
+msgstr ""
+
+#: includes/class-product-type-package.php:154
+msgid "Feature Properties?"
+msgstr ""
+
+#: includes/class-product-type-package.php:155
+#: includes/post-types/class-post-type-property_package.php:136
+msgid "Feature this listing - it will be styled differently and sticky."
+msgstr ""
+
+#: includes/class-product-type-package.php:159
+msgid "Properties Limit"
+msgstr ""
+
+#: includes/class-product-type-package.php:161
+msgid "The number of listings a user can post with this package"
+msgstr ""
+
+#: includes/class-product-type-package.php:166
+msgid "Properties Duration (Days)"
+msgstr ""
+
+#: includes/class-product-type-package.php:168
+msgid "The number of days that the listings will be active"
+msgstr ""
+
+#: includes/class-submit-form.php:139
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+#: includes/class-submit-form.php:162 includes/class-submit-form.php:165
+#: includes/class-submit-form.php:170
+msgid "Invalid Package"
+msgstr ""
+
+#: includes/class-submit-form.php:176
+msgid "You already have this subscription."
+msgstr ""
+
+#: includes/class-wc-cart.php:103 includes/class-wc-cart.php:115
+msgid "Property Listing"
+msgstr ""
+
+#: includes/class-wc-order.php:38
+msgid "%s has been submitted successfully and will be visible once approved."
+msgstr ""
+
+#: includes/class-wc-order.php:42
+msgid "%s has been submitted successfully and will be visible once payment has been confirmed."
+msgstr ""
+
+#: includes/class-wc-order.php:45
+msgid "%s has been submitted successfully."
+msgstr ""
+
+#: includes/class-wc-order.php:52
+msgid "View Property"
+msgstr ""
+
+#: includes/class-wc-order.php:54
+msgid "View Dashboard"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:29
+#: includes/post-types/class-post-type-property_package.php:30
+msgid "User Package"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:31
+#: includes/post-types/class-post-type-property_package.php:32
+msgid "Add New Package"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:33
+msgid "Edit Package"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:34
+msgid "New Package"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:35
+#: includes/post-types/class-post-type-property_package.php:41
+msgid "User Packages"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:36
+msgid "View Package"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:37
+msgid "Search Package"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:38
+msgid "No Packages found"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:39
+msgid "No Packages found in Trash"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:63
+#: templates/choose-package-form.php:27
+msgid "Choose a package"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:77
+msgid "Choose package type"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:80
+msgid "General Options"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:88
+msgid "Order Id"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:93
+msgid "User id"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:98
+#: includes/post-types/class-post-type-property_package.php:177
+msgid "Package Type"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:109
+msgid "Property Package Options"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:117
+msgid "Package"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:123
+msgid "Package Count"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:133
+msgid "Featured Properties"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:139
+msgid "Property duration"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:147
+msgid "The number of days that the properties will be active"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:150
+msgid "Properties limit"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:158
+msgid "The number of properties a user can post with this package"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:176
+msgid "Title"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:178
+msgid "Author"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:179
+msgid "Date"
+msgstr ""
+
+#: includes/post-types/class-post-type-property_package.php:216
+msgid "All package types"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: libraries/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libraries/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libraries/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libraries/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:393
+#: libraries/class-tgm-plugin-activation.php:920
+#: libraries/class-tgm-plugin-activation.php:2626
+#: libraries/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:394
+#: libraries/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:395
+#: libraries/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: libraries/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:1027
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:1027
+#: libraries/class-tgm-plugin-activation.php:1030
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:1030
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:1214
+#: libraries/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: libraries/class-tgm-plugin-activation.php:2075
+msgid "TGMPA v%s"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: libraries/class-tgm-plugin-activation.php:2435
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: libraries/class-tgm-plugin-activation.php:2481
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: libraries/class-tgm-plugin-activation.php:2485
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: libraries/class-tgm-plugin-activation.php:2489
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: libraries/class-tgm-plugin-activation.php:2493
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libraries/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: libraries/class-tgm-plugin-activation.php:2696
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: libraries/class-tgm-plugin-activation.php:2701
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: libraries/class-tgm-plugin-activation.php:2707
+msgid "Activate %2$s"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: libraries/class-tgm-plugin-activation.php:3591
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: libraries/class-tgm-plugin-activation.php:3594
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:3596
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3600
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3602
+#: libraries/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3602
+#: libraries/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: libraries/class-tgm-plugin-activation.php:3605
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3608
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:3610
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: libraries/class-tgm-plugin-activation.php:3613
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: libraries/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: libraries/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:77
+msgid "More information about %s"
+msgstr ""
+
+#: libraries/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: libraries/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:213
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: libraries/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:215
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: libraries/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:217
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: libraries/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:223
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: libraries/plugin-update-checker/Puc/v4p9/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#: templates/choose-package-form.php:35
+msgid "Sorry, you can't post a listing."
+msgstr ""
+
+#: templates/packages.php:8
+msgid "Packages"
+msgstr ""
+
+#: templates/packages.php:23
+msgid "Free"
+msgstr ""
+
+#: templates/packages.php:31
+msgid "Get Started"
+msgstr ""
+
+#: templates/user-packages.php:7
+msgid "Your Packages"
+msgstr ""
+
+#: templates/user-packages.php:24
+msgid "%s property posted out of %d"
+msgid_plural "%s properties posted out of %d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/user-packages.php:30
+msgid "%s property posted"
+msgid_plural "%s properties posted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/user-packages.php:38
+msgid "listed for %s day"
+msgid_plural "listed for %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/user-packages.php:45
+msgid "Featured Property: %s"
+msgstr ""
+
+#: templates/user-packages.php:45
+msgid "Yes"
+msgstr ""
+
+#: templates/user-packages.php:45
+msgid "No"
+msgstr ""
+
+#: templates/user-packages.php:50
+msgid "Add Listing"
+msgstr ""
+
+#: wp-realestate-wc-paid-listings.php:125
+msgctxt "post status"
+msgid "Pending Payment"
+msgstr ""
+
+#: wp-realestate-wc-paid-listings.php:130
+msgid "Pending Payment <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Payment <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+#. Plugin Name of the plugin/theme
+msgid "WP RealEstate - WooCommerce Paid Listings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://apusthemes.com/wp-realestate-wc-paid-listings/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add paid listing functionality via WooCommerce"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Habq"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://apusthemes.com"
+msgstr ""

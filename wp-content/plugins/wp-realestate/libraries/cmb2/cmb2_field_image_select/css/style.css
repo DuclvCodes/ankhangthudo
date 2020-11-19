@@ -1,0 +1,21 @@
+.image-select-wrapper .image-select-item {
+	display: inline-block;
+	margin: 0;
+    display: inline-block;
+    padding: 2px 2px;
+    padding-left: 0;
+}
+
+.image-select-wrapper .image-select-item input {
+	display: none;
+}
+
+.image-select-wrapper .image-select-item img {
+	border-width: 4px;
+    border-style: solid;
+    border-color: #d9d9d9;
+}
+
+.image-select-wrapper .image-select-item .selected img {
+    border-color: #0073aa;
+}

@@ -1,0 +1,4606 @@
+# Copyright (C) 2016 WP RealEstate
+# This file is distributed under the same license as the WP RealEstate package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP RealEstate 1.2.12\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-realestate\n"
+"POT-Creation-Date: 2020-08-21 08:17:27+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/admin/class-permalink-settings.php:24
+msgid "Property base"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:31
+msgid "Property type base"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:38
+msgid "Property location base"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:45
+msgid "Property amenity base"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:52
+msgid "Property status base"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:59
+msgid "Property label base"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:66
+msgid "Property material base"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:74
+msgid "Property archive page"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:83
+msgid "Agent base"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:90
+msgid "Agent category base"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:97
+msgid "Agent location base"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:104
+msgid "Agent archive page"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:113
+msgid "Agency base"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:120
+msgid "Agency category base"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:127
+msgid "Agency location base"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:134
+msgid "Agency archive page"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:144
+msgid "property"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:151
+msgid "property-amenity"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:158
+msgid "property-status"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:165
+msgid "property-label"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:172
+msgid "property-material"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:179
+msgid "property-type"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:186
+msgid "property-location"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:193
+msgid "properties"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:201
+msgid "agent"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:208
+msgid "agent-category"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:215
+msgid "agent-location"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:222
+msgid "agents"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:230
+msgid "agency"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:237
+msgid "agency-category"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:244
+msgid "agency-location"
+msgstr ""
+
+#: includes/admin/class-permalink-settings.php:251
+msgid "agencies"
+msgstr ""
+
+#: includes/admin/class-settings.php:64
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:84 includes/class-abstract-form.php:124
+#: includes/custom-fields/class-custom-fields.php:64
+msgid "General"
+msgstr ""
+
+#: includes/admin/class-settings.php:85 includes/admin/class-settings.php:519
+#: includes/admin/class-settings.php:526
+msgid "Property Submission"
+msgstr ""
+
+#: includes/admin/class-settings.php:86 includes/admin/class-settings.php:588
+msgid "Pages"
+msgstr ""
+
+#: includes/admin/class-settings.php:87
+msgid "Compare Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:88 includes/admin/class-settings.php:761
+msgid "Review Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:89 includes/admin/class-settings.php:929
+msgid "Social API"
+msgstr ""
+
+#: includes/admin/class-settings.php:90
+msgid "Yelp | Walk Score API"
+msgstr ""
+
+#: includes/admin/class-settings.php:91 includes/admin/class-settings.php:1187
+msgid "Email Notification"
+msgstr ""
+
+#: includes/admin/class-settings.php:155 includes/admin/class-settings.php:425
+msgid "All Countries"
+msgstr ""
+
+#: includes/admin/class-settings.php:162 includes/admin/class-settings.php:169
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:176
+msgid "Number properties per page"
+msgstr ""
+
+#: includes/admin/class-settings.php:177
+msgid "Number of properties to display per page."
+msgstr ""
+
+#: includes/admin/class-settings.php:183
+msgid "Number agents per page"
+msgstr ""
+
+#: includes/admin/class-settings.php:184
+msgid "Number of agents to display per page."
+msgstr ""
+
+#: includes/admin/class-settings.php:190
+msgid "Number agencies per page"
+msgstr ""
+
+#: includes/admin/class-settings.php:191
+msgid "Number of agencies to display per page."
+msgstr ""
+
+#: includes/admin/class-settings.php:197
+msgid "User Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:204
+msgid "Moderate New User"
+msgstr ""
+
+#: includes/admin/class-settings.php:205
+msgid "Require admin approval of all new users"
+msgstr ""
+
+#: includes/admin/class-settings.php:209
+msgid "Auto Approve"
+msgstr ""
+
+#: includes/admin/class-settings.php:210
+msgid "Email Approve"
+msgstr ""
+
+#: includes/admin/class-settings.php:211
+msgid "Administrator Approve"
+msgstr ""
+
+#: includes/admin/class-settings.php:220
+msgid "Currency Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:229
+msgid "Currency Symbol"
+msgstr ""
+
+#: includes/admin/class-settings.php:230
+msgid "Enter your Currency Symbol. Default $"
+msgstr ""
+
+#: includes/admin/class-settings.php:236
+msgid "Currency Code"
+msgstr ""
+
+#: includes/admin/class-settings.php:237
+msgid "Enter your Currency Code. Default USD"
+msgstr ""
+
+#: includes/admin/class-settings.php:243
+msgid "Currency Position"
+msgstr ""
+
+#: includes/admin/class-settings.php:248
+msgid "Before - $10"
+msgstr ""
+
+#: includes/admin/class-settings.php:249
+msgid "After - 10$"
+msgstr ""
+
+#: includes/admin/class-settings.php:258
+msgid "Decimal places"
+msgstr ""
+
+#: includes/admin/class-settings.php:259
+msgid "This sets the number of decimal points shown in displayed prices."
+msgstr ""
+
+#: includes/admin/class-settings.php:269
+msgid "Decimal Separator"
+msgstr ""
+
+#: includes/admin/class-settings.php:270
+msgid "The symbol (usually , or .) to separate decimal points"
+msgstr ""
+
+#: includes/admin/class-settings.php:276
+msgid "Thousands Separator"
+msgstr ""
+
+#: includes/admin/class-settings.php:277
+msgid "If you need space, enter &nbsp;"
+msgstr ""
+
+#: includes/admin/class-settings.php:282
+msgid "Measurement"
+msgstr ""
+
+#: includes/admin/class-settings.php:290
+msgid "Area Unit"
+msgstr ""
+
+#: includes/admin/class-settings.php:296
+msgid "Distance Unit"
+msgstr ""
+
+#: includes/admin/class-settings.php:302
+msgid "Search Distance unit"
+msgstr ""
+
+#: includes/admin/class-settings.php:306 includes/admin/class-settings.php:1121
+msgid "Kilometers"
+msgstr ""
+
+#: includes/admin/class-settings.php:307 includes/admin/class-settings.php:1122
+msgid "Miles"
+msgstr ""
+
+#: includes/admin/class-settings.php:317
+msgid "File Types"
+msgstr ""
+
+#: includes/admin/class-settings.php:325
+msgid "Images File Types"
+msgstr ""
+
+#: includes/admin/class-settings.php:332
+msgid "Map API Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:340
+msgid "Map Service"
+msgstr ""
+
+#: includes/admin/class-settings.php:344
+msgid "Mapbox"
+msgstr ""
+
+#: includes/admin/class-settings.php:345
+msgid "Google Maps"
+msgstr ""
+
+#: includes/admin/class-settings.php:353
+msgid "Google Map API"
+msgstr ""
+
+#: includes/admin/class-settings.php:354
+msgid "Google requires an API key to retrieve location information for property listings. Acquire an API key from the <a href=\"https://developers.google.com/maps/documentation/geocoding/get-api-key\">Google Maps API developer site.</a>"
+msgstr ""
+
+#: includes/admin/class-settings.php:360
+msgid "Google Map Type"
+msgstr ""
+
+#: includes/admin/class-settings.php:364
+msgid "ROADMAP"
+msgstr ""
+
+#: includes/admin/class-settings.php:365
+msgid "SATELLITE"
+msgstr ""
+
+#: includes/admin/class-settings.php:366
+msgid "HYBRID"
+msgstr ""
+
+#: includes/admin/class-settings.php:367
+msgid "TERRAIN"
+msgstr ""
+
+#: includes/admin/class-settings.php:376
+msgid "Google Maps Style"
+msgstr ""
+
+#: includes/admin/class-settings.php:377
+msgid "<a href=\"//snazzymaps.com/\">Get custom style</a> and paste it below. If there is nothing added, we will fallback to the Google Maps service."
+msgstr ""
+
+#: includes/admin/class-settings.php:383
+msgid "Mapbox Token"
+msgstr ""
+
+#: includes/admin/class-settings.php:384
+msgid "<a href=\"//www.mapbox.com/help/create-api-access-token/\">Get a FREE token</a> and paste it below. If there is nothing added, we will fallback to the Google Maps service."
+msgstr ""
+
+#: includes/admin/class-settings.php:390
+msgid "Mapbox Style"
+msgstr ""
+
+#: includes/admin/class-settings.php:396
+msgid "streets"
+msgstr ""
+
+#: includes/admin/class-settings.php:400
+msgid "light"
+msgstr ""
+
+#: includes/admin/class-settings.php:404
+msgid "dark"
+msgstr ""
+
+#: includes/admin/class-settings.php:408
+msgid "outdoors"
+msgstr ""
+
+#: includes/admin/class-settings.php:412
+msgid "satellite"
+msgstr ""
+
+#: includes/admin/class-settings.php:418
+msgid "Geocoder Country"
+msgstr ""
+
+#: includes/admin/class-settings.php:429
+msgid "Default maps location"
+msgstr ""
+
+#: includes/admin/class-settings.php:437
+#: libraries/cmb2/cmb2_field_map/cmb-field-map.php:47
+msgid "Latitude"
+msgstr ""
+
+#: includes/admin/class-settings.php:438
+msgid "Enter your latitude"
+msgstr ""
+
+#: includes/admin/class-settings.php:444
+#: libraries/cmb2/cmb2_field_map/cmb-field-map.php:57
+msgid "Longitude"
+msgstr ""
+
+#: includes/admin/class-settings.php:445
+msgid "Enter your longitude"
+msgstr ""
+
+#: includes/admin/class-settings.php:452
+msgid "Location Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:460
+msgid "Location Multiple Fields"
+msgstr ""
+
+#: includes/admin/class-settings.php:464 includes/class-agency-filter.php:299
+#: includes/class-agent-filter.php:300 includes/class-property-filter.php:792
+#: includes/custom-fields/class-custom-fields-display.php:71
+#: includes/custom-fields/class-custom-fields-html.php:41
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/class-settings.php:465
+#: includes/custom-fields/class-custom-fields-display.php:71
+#: includes/custom-fields/class-custom-fields-html.php:40
+msgid "No"
+msgstr ""
+
+#: includes/admin/class-settings.php:468 includes/admin/class-settings.php:481
+msgid "You can set 4 fields for regions like: Country, State, City, District"
+msgstr ""
+
+#: includes/admin/class-settings.php:471
+msgid "Number Fields"
+msgstr ""
+
+#: includes/admin/class-settings.php:475
+msgid "1 Field"
+msgstr ""
+
+#: includes/admin/class-settings.php:476
+msgid "2 Fields"
+msgstr ""
+
+#: includes/admin/class-settings.php:477
+msgid "3 Fields"
+msgstr ""
+
+#: includes/admin/class-settings.php:478
+msgid "4 Fields"
+msgstr ""
+
+#: includes/admin/class-settings.php:484
+msgid "First Field Label"
+msgstr ""
+
+#: includes/admin/class-settings.php:485
+msgid "First location field label"
+msgstr ""
+
+#: includes/admin/class-settings.php:491
+msgid "Second Field Label"
+msgstr ""
+
+#: includes/admin/class-settings.php:492
+msgid "Second location field label"
+msgstr ""
+
+#: includes/admin/class-settings.php:498
+msgid "Third Field Label"
+msgstr ""
+
+#: includes/admin/class-settings.php:499
+msgid "Third location field label"
+msgstr ""
+
+#: includes/admin/class-settings.php:505
+msgid "Fourth Field Label"
+msgstr ""
+
+#: includes/admin/class-settings.php:506
+msgid "Fourth location field label"
+msgstr ""
+
+#: includes/admin/class-settings.php:533
+msgid "Submit Property Form Page"
+msgstr ""
+
+#: includes/admin/class-settings.php:534
+msgid "This is page to display form for submit property. The <code>[wp_realestate_submission]</code> shortcode should be on this page."
+msgstr ""
+
+#: includes/admin/class-settings.php:544
+msgid "Moderate New Listings"
+msgstr ""
+
+#: includes/admin/class-settings.php:545
+msgid "Require admin approval of all new listing submissions"
+msgstr ""
+
+#: includes/admin/class-settings.php:549 includes/admin/class-settings.php:737
+#: includes/admin/class-settings.php:780 includes/admin/class-settings.php:832
+#: includes/admin/class-settings.php:884
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/class-settings.php:550 includes/admin/class-settings.php:738
+#: includes/admin/class-settings.php:781 includes/admin/class-settings.php:833
+#: includes/admin/class-settings.php:885
+msgid "Disable"
+msgstr ""
+
+#: includes/admin/class-settings.php:559
+msgid "Allow Published Edits"
+msgstr ""
+
+#: includes/admin/class-settings.php:560
+msgid "Choose whether published property listings can be edited and if edits require admin approval. When moderation is required, the original property listings will be unpublished while edits await admin approval."
+msgstr ""
+
+#: includes/admin/class-settings.php:564
+msgid "Users cannot edit"
+msgstr ""
+
+#: includes/admin/class-settings.php:565
+msgid "Users can edit without admin approval"
+msgstr ""
+
+#: includes/admin/class-settings.php:566
+msgid "Users can edit, but edits require admin approval"
+msgstr ""
+
+#: includes/admin/class-settings.php:575
+msgid "Listing Duration"
+msgstr ""
+
+#: includes/admin/class-settings.php:576
+msgid "Listings will display for the set number of days, then expire. Leave this field blank if you don't want listings to have an expiration date."
+msgstr ""
+
+#: includes/admin/class-settings.php:595
+msgid "Properties Page"
+msgstr ""
+
+#: includes/admin/class-settings.php:596
+msgid "This lets the plugin know the location of the properties listing page. The <code>[wp_realestate_properties]</code> shortcode should be on this page."
+msgstr ""
+
+#: includes/admin/class-settings.php:606
+msgid "Agents Page"
+msgstr ""
+
+#: includes/admin/class-settings.php:607
+msgid "This lets the plugin know the location of the agents listing page. The <code>[wp_realestate_agents]</code> shortcode should be on this page."
+msgstr ""
+
+#: includes/admin/class-settings.php:617
+msgid "Agencies Page"
+msgstr ""
+
+#: includes/admin/class-settings.php:618
+msgid "This lets the plugin know the location of the agencies listing page. The <code>[wp_realestate_agencies]</code> shortcode should be on this page."
+msgstr ""
+
+#: includes/admin/class-settings.php:628
+msgid "Login/Register Page"
+msgstr ""
+
+#: includes/admin/class-settings.php:629
+msgid "This lets the plugin know the location of the property listings page. The <code>[wp_realestate_login]</code> <code>[wp_realestate_register]</code> shortcode should be on this page."
+msgstr ""
+
+#: includes/admin/class-settings.php:639
+msgid "Approve User Page"
+msgstr ""
+
+#: includes/admin/class-settings.php:640
+msgid "This lets the plugin know the location of the job listings page. The <code>[wp_realestate_approve_user]</code> shortcode should be on this page."
+msgstr ""
+
+#: includes/admin/class-settings.php:646
+msgid "User Dashboard Page"
+msgstr ""
+
+#: includes/admin/class-settings.php:647
+msgid "This lets the plugin know the location of the user dashboard. The <code>[wp_realestate_user_dashboard]</code> shortcode should be on this page."
+msgstr ""
+
+#: includes/admin/class-settings.php:657
+msgid "Edit Profile Page"
+msgstr ""
+
+#: includes/admin/class-settings.php:658
+msgid "This lets the plugin know the location of the user edit profile. The <code>[wp_realestate_change_profile]</code> shortcode should be on this page."
+msgstr ""
+
+#: includes/admin/class-settings.php:668
+msgid "Change Password Page"
+msgstr ""
+
+#: includes/admin/class-settings.php:669
+msgid "This lets the plugin know the location of the user change password. The <code>[wp_realestate_change_password]</code> shortcode should be on this page."
+msgstr ""
+
+#: includes/admin/class-settings.php:679
+msgid "My Properties Page"
+msgstr ""
+
+#: includes/admin/class-settings.php:680
+msgid "This lets the plugin know the location of the my property page. The <code>[wp_realestate_my_properties]</code> shortcode should be on this page."
+msgstr ""
+
+#: includes/admin/class-settings.php:690
+msgid "Favorite Properties Page"
+msgstr ""
+
+#: includes/admin/class-settings.php:691
+msgid "This lets the plugin know the location of the my favorite property page. The <code>[wp_realestate_my_property_favorite]</code> shortcode should be on this page."
+msgstr ""
+
+#: includes/admin/class-settings.php:702
+msgid "Compare Properties Page"
+msgstr ""
+
+#: includes/admin/class-settings.php:703
+msgid "This lets the plugin know the location of the property compare page. The <code>[wp_realestate_property_compare]</code> shortcode should be on this page."
+msgstr ""
+
+#: includes/admin/class-settings.php:713
+msgid "Terms and Conditions Page"
+msgstr ""
+
+#: includes/admin/class-settings.php:714
+msgid "This lets the plugin know the Terms and Conditions page."
+msgstr ""
+
+#: includes/admin/class-settings.php:733
+msgid "Enable %s"
+msgstr ""
+
+#: includes/admin/class-settings.php:750
+msgid "Compare Fields Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:769
+msgid "Property review settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:776
+msgid "Enable Property Review"
+msgstr ""
+
+#: includes/admin/class-settings.php:792
+msgid "Property Review Category"
+msgstr ""
+
+#: includes/admin/class-settings.php:795 includes/admin/class-settings.php:847
+#: includes/admin/class-settings.php:899
+msgid "Category {#}"
+msgstr ""
+
+#: includes/admin/class-settings.php:796 includes/admin/class-settings.php:848
+#: includes/admin/class-settings.php:900
+msgid "Add Another Category"
+msgstr ""
+
+#: includes/admin/class-settings.php:797 includes/admin/class-settings.php:849
+#: includes/admin/class-settings.php:901 includes/admin/class-settings.php:1137
+msgid "Remove Category"
+msgstr ""
+
+#: includes/admin/class-settings.php:802 includes/admin/class-settings.php:854
+#: includes/admin/class-settings.php:906
+msgid "Category Key"
+msgstr ""
+
+#: includes/admin/class-settings.php:803 includes/admin/class-settings.php:855
+#: includes/admin/class-settings.php:907
+msgid "Enter category key."
+msgstr ""
+
+#: includes/admin/class-settings.php:811 includes/admin/class-settings.php:863
+#: includes/admin/class-settings.php:915
+msgid "Category Name"
+msgstr ""
+
+#: includes/admin/class-settings.php:812 includes/admin/class-settings.php:864
+#: includes/admin/class-settings.php:916
+msgid "Enter category name."
+msgstr ""
+
+#: includes/admin/class-settings.php:821
+msgid "Agent review settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:828
+msgid "Enable Agent Review"
+msgstr ""
+
+#: includes/admin/class-settings.php:844
+msgid "Agent Review Category"
+msgstr ""
+
+#: includes/admin/class-settings.php:873
+msgid "Agency review settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:880
+msgid "Enable Agency Review"
+msgstr ""
+
+#: includes/admin/class-settings.php:896
+msgid "Agency Review Category"
+msgstr ""
+
+#: includes/admin/class-settings.php:937
+msgid "Facebook API settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:942 includes/admin/class-settings.php:969
+#: includes/admin/class-settings.php:996 includes/admin/class-settings.php:1035
+msgid "Callback URL is: %s"
+msgstr ""
+
+#: includes/admin/class-settings.php:945
+msgid "App ID"
+msgstr ""
+
+#: includes/admin/class-settings.php:946
+msgid "Please enter App ID of your Facebook account."
+msgstr ""
+
+#: includes/admin/class-settings.php:951
+msgid "App Secret"
+msgstr ""
+
+#: includes/admin/class-settings.php:952
+msgid "Please enter App Secret of your Facebook account."
+msgstr ""
+
+#: includes/admin/class-settings.php:957
+msgid "Enable Facebook Login"
+msgstr ""
+
+#: includes/admin/class-settings.php:964
+msgid "Linkedin API settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:972 includes/admin/class-settings.php:1044
+msgid "Client ID"
+msgstr ""
+
+#: includes/admin/class-settings.php:973
+msgid "Please enter Client ID of your linkedin app."
+msgstr ""
+
+#: includes/admin/class-settings.php:978 includes/admin/class-settings.php:1050
+msgid "Client Secret"
+msgstr ""
+
+#: includes/admin/class-settings.php:979
+msgid "Please enter Client Secret of your linkedin app."
+msgstr ""
+
+#: includes/admin/class-settings.php:984
+msgid "Enable Linkedin Login"
+msgstr ""
+
+#: includes/admin/class-settings.php:991
+msgid "Twitter API settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:999
+msgid "Consumer Key"
+msgstr ""
+
+#: includes/admin/class-settings.php:1000
+msgid "Set Consumer Key for twitter."
+msgstr ""
+
+#: includes/admin/class-settings.php:1005
+msgid "Consumer Secret"
+msgstr ""
+
+#: includes/admin/class-settings.php:1006
+msgid "Set Consumer Secret for twitter."
+msgstr ""
+
+#: includes/admin/class-settings.php:1011
+msgid "Access Token"
+msgstr ""
+
+#: includes/admin/class-settings.php:1012
+msgid "Set Access Token for twitter."
+msgstr ""
+
+#: includes/admin/class-settings.php:1017
+msgid "Token Secret"
+msgstr ""
+
+#: includes/admin/class-settings.php:1018
+msgid "Set Token Secret for twitter."
+msgstr ""
+
+#: includes/admin/class-settings.php:1023
+msgid "Enable Twitter Login"
+msgstr ""
+
+#: includes/admin/class-settings.php:1030
+msgid "Google API settings Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:1038
+msgid "API Key"
+msgstr ""
+
+#: includes/admin/class-settings.php:1039
+msgid "Please enter API key of your Google account."
+msgstr ""
+
+#: includes/admin/class-settings.php:1045
+msgid "Please enter Client ID of your Google account."
+msgstr ""
+
+#: includes/admin/class-settings.php:1051
+msgid "Please enter Client secret of your Google account."
+msgstr ""
+
+#: includes/admin/class-settings.php:1056
+msgid "Enable Google Login"
+msgstr ""
+
+#: includes/admin/class-settings.php:1063
+msgid "Google reCAPTCHA API Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:1068
+msgid "The plugin use ReCaptcha v2"
+msgstr ""
+
+#: includes/admin/class-settings.php:1071
+msgid "Site Key"
+msgstr ""
+
+#: includes/admin/class-settings.php:1072
+msgid "You can retrieve your site key from <a href=\"https://www.google.com/recaptcha/admin#list\">Google's reCAPTCHA admin dashboard.</a>"
+msgstr ""
+
+#: includes/admin/class-settings.php:1077
+msgid "Secret Key"
+msgstr ""
+
+#: includes/admin/class-settings.php:1078
+msgid "You can retrieve your secret key from <a href=\"https://www.google.com/recaptcha/admin#list\">Google's reCAPTCHA admin dashboard.</a>"
+msgstr ""
+
+#: includes/admin/class-settings.php:1090
+msgid "Yelp API"
+msgstr ""
+
+#: includes/admin/class-settings.php:1098
+msgid "Yelp API settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:1105
+msgid "Yelp App ID"
+msgstr ""
+
+#: includes/admin/class-settings.php:1106
+msgid "Add Yelp application ID. To get your Yelp Application ID, go to your Yelp Account. Register <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: includes/admin/class-settings.php:1111
+msgid "Yelp App Secret"
+msgstr ""
+
+#: includes/admin/class-settings.php:1112
+msgid "Put your Yelp App Secret here. You can find it in your Yelp Application Dashboard. Register <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: includes/admin/class-settings.php:1117
+msgid "Distance unit"
+msgstr ""
+
+#: includes/admin/class-settings.php:1131
+#: includes/admin/class-settings.php:1148
+msgid "Yelp Categories"
+msgstr ""
+
+#: includes/admin/class-settings.php:1135
+msgid "Yelp Category {#}"
+msgstr ""
+
+#: includes/admin/class-settings.php:1136
+msgid "Add Category"
+msgstr ""
+
+#: includes/admin/class-settings.php:1144
+#: includes/post-types/class-post-type-saved-search.php:115
+#: includes/widgets/class-widget-agency-filter.php:74
+#: includes/widgets/class-widget-agent-filter.php:74
+#: includes/widgets/class-widget-property-filter.php:74
+#: includes/widgets/class-widget-property-save-search-form.php:71
+#: libraries/cmb2/cmb2-tabs/example.php:28
+#: libraries/cmb2/cmb2-tabs/example.php:52
+#: libraries/cmb2/cmb2-tabs/example.php:134
+#: libraries/cmb2/cmb2-tabs/example.php:158
+#: templates/loop/property/properties-save-search-form.php:17
+#: templates/loop/property/properties-save-search-form.php:19
+#: templates/misc/my-saved-searches.php:58
+#: templates/widgets/property-save-search-form.php:22
+msgid "Title"
+msgstr ""
+
+#: includes/admin/class-settings.php:1158
+msgid "Category Icon"
+msgstr ""
+
+#: includes/admin/class-settings.php:1168
+msgid "Walk Score API settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:1175
+msgid "Walk Score API Key"
+msgstr ""
+
+#: includes/admin/class-settings.php:1176
+msgid "Add Walk Score API key. To get your Walk Score API key, go to your Walk Score Account."
+msgstr ""
+
+#: includes/admin/class-settings.php:1195
+msgid "Admin Notice of New Property"
+msgstr ""
+
+#: includes/admin/class-settings.php:1198
+msgid "Send a notice to the site administrator when a new property is submitted on the frontend."
+msgstr ""
+
+#: includes/admin/class-settings.php:1201
+#: includes/admin/class-settings.php:1223
+#: includes/admin/class-settings.php:1252
+#: includes/admin/class-settings.php:1281
+#: templates/single-agency/contact-form.php:28
+#: templates/single-agent/contact-form.php:28
+#: templates/single-property/contact-form.php:43
+msgid "Subject"
+msgstr ""
+
+#: includes/admin/class-settings.php:1202
+#: includes/admin/class-settings.php:1224
+#: includes/admin/class-settings.php:1253
+#: includes/admin/class-settings.php:1282
+#: includes/admin/class-settings.php:1306
+#: includes/admin/class-settings.php:1330
+#: includes/admin/class-settings.php:1354
+#: includes/admin/class-settings.php:1378
+#: includes/admin/class-settings.php:1401
+#: includes/admin/class-settings.php:1424
+#: includes/admin/class-settings.php:1447
+#: includes/admin/class-settings.php:1471
+msgid "Enter email subject. You can add variables: %s"
+msgstr ""
+
+#: includes/admin/class-settings.php:1208
+#: includes/admin/class-settings.php:1230
+#: includes/admin/class-settings.php:1259
+#: includes/admin/class-settings.php:1288
+#: includes/custom-fields/class-fields-manager.php:589
+msgid "Content"
+msgstr ""
+
+#: includes/admin/class-settings.php:1209
+#: includes/admin/class-settings.php:1231
+#: includes/admin/class-settings.php:1260
+#: includes/admin/class-settings.php:1289
+#: includes/admin/class-settings.php:1313
+#: includes/admin/class-settings.php:1337
+#: includes/admin/class-settings.php:1361
+#: includes/admin/class-settings.php:1385
+#: includes/admin/class-settings.php:1408
+#: includes/admin/class-settings.php:1431
+#: includes/admin/class-settings.php:1454
+#: includes/admin/class-settings.php:1478
+msgid "Enter email content. You can add variables: %s"
+msgstr ""
+
+#: includes/admin/class-settings.php:1217
+msgid "Admin Notice of Updated Property"
+msgstr ""
+
+#: includes/admin/class-settings.php:1220
+msgid "Send a notice to the site administrator when a property is updated on the frontend."
+msgstr ""
+
+#: includes/admin/class-settings.php:1239
+msgid "Admin Notice of Expiring Property Properties"
+msgstr ""
+
+#: includes/admin/class-settings.php:1242
+msgid "Send notices to the site administrator before a property listing expires."
+msgstr ""
+
+#: includes/admin/class-settings.php:1245
+#: includes/admin/class-settings.php:1274
+msgid "Notice Period"
+msgstr ""
+
+#: includes/admin/class-settings.php:1246
+#: includes/admin/class-settings.php:1275
+msgid "days"
+msgstr ""
+
+#: includes/admin/class-settings.php:1268
+msgid "User Notice of Expiring Property Properties"
+msgstr ""
+
+#: includes/admin/class-settings.php:1271
+msgid "Send notices to user before a property listing expires."
+msgstr ""
+
+#: includes/admin/class-settings.php:1297
+msgid "Property Saved Search"
+msgstr ""
+
+#: includes/admin/class-settings.php:1305
+msgid "Property Saved Search Subject"
+msgstr ""
+
+#: includes/admin/class-settings.php:1309
+msgid "Property Saved Search: %s"
+msgstr ""
+
+#: includes/admin/class-settings.php:1312
+msgid "Property Saved Search Content"
+msgstr ""
+
+#: includes/admin/class-settings.php:1321
+msgid "Property Contact Form"
+msgstr ""
+
+#: includes/admin/class-settings.php:1329
+msgid "Property Contact Form Subject"
+msgstr ""
+
+#: includes/admin/class-settings.php:1333
+#: includes/admin/class-settings.php:1345
+msgid "Contact Form"
+msgstr ""
+
+#: includes/admin/class-settings.php:1336
+msgid "Property Contact Form Content"
+msgstr ""
+
+#: includes/admin/class-settings.php:1353
+msgid "Contact Form Subject"
+msgstr ""
+
+#: includes/admin/class-settings.php:1357
+msgid "Contact Form: %s"
+msgstr ""
+
+#: includes/admin/class-settings.php:1360
+msgid "Contact Form Content"
+msgstr ""
+
+#: includes/admin/class-settings.php:1369
+msgid "New user register (auto approve)"
+msgstr ""
+
+#: includes/admin/class-settings.php:1377
+msgid "New user register Subject"
+msgstr ""
+
+#: includes/admin/class-settings.php:1381
+msgid "New user register: %s"
+msgstr ""
+
+#: includes/admin/class-settings.php:1384
+msgid "New user register Content"
+msgstr ""
+
+#: includes/admin/class-settings.php:1392
+msgid "Approve new user register"
+msgstr ""
+
+#: includes/admin/class-settings.php:1400
+msgid "Approve new user register Subject"
+msgstr ""
+
+#: includes/admin/class-settings.php:1404
+#: includes/admin/class-settings.php:1427
+#: includes/admin/class-settings.php:1450
+msgid "Approve new user register: %s"
+msgstr ""
+
+#: includes/admin/class-settings.php:1407
+msgid "Approve new user register Content"
+msgstr ""
+
+#: includes/admin/class-settings.php:1415
+msgid "Approved user"
+msgstr ""
+
+#: includes/admin/class-settings.php:1423
+msgid "Approved user Subject"
+msgstr ""
+
+#: includes/admin/class-settings.php:1430
+msgid "Approved user Content"
+msgstr ""
+
+#: includes/admin/class-settings.php:1438
+msgid "Denied user"
+msgstr ""
+
+#: includes/admin/class-settings.php:1446
+msgid "Denied user Subject"
+msgstr ""
+
+#: includes/admin/class-settings.php:1453
+msgid "Denied user Content"
+msgstr ""
+
+#: includes/admin/class-settings.php:1462 templates/misc/login.php:48
+msgid "Reset Password"
+msgstr ""
+
+#: includes/admin/class-settings.php:1470
+msgid "Reset Password Subject"
+msgstr ""
+
+#: includes/admin/class-settings.php:1477
+msgid "Reset Password Content"
+msgstr ""
+
+#: includes/admin/class-settings.php:1514
+msgid "Settings updated."
+msgstr ""
+
+#: includes/admin/class-settings.php:1625
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class-abstract-form.php:193
+#: includes/post-types/class-post-type-agency.php:398
+#: includes/post-types/class-post-type-agent.php:387
+#: includes/post-types/class-post-type-saved-search.php:96
+msgid "General Options"
+msgstr ""
+
+#: includes/class-abstract-form.php:209 includes/class-shortcodes.php:198
+#: includes/class-shortcodes.php:204
+msgid "A metabox with the specified 'metabox_id' doesn't exist."
+msgstr ""
+
+#: includes/class-abstract-form.php:221
+msgid "Save & Preview"
+msgstr ""
+
+#: includes/class-abstract-form.php:223
+#: includes/custom-fields/class-fields-manager.php:69
+#: includes/custom-fields/class-fields-manager.php:167
+#: includes/taxonomies/class-taxonomy-agency-category.php:34
+#: includes/taxonomies/class-taxonomy-agency-location.php:34
+#: includes/taxonomies/class-taxonomy-agent-category.php:34
+#: includes/taxonomies/class-taxonomy-agent-location.php:34
+#: includes/taxonomies/class-taxonomy-property-amenity.php:34
+#: includes/taxonomies/class-taxonomy-property-label.php:43
+#: includes/taxonomies/class-taxonomy-property-location.php:34
+#: includes/taxonomies/class-taxonomy-property-materials.php:34
+#: includes/taxonomies/class-taxonomy-property-status.php:43
+#: includes/taxonomies/class-taxonomy-property-type.php:42
+#: libraries/class-tgm-plugin-activation.php:2816
+#: templates/misc/profile-form-normal.php:97
+msgid "Update"
+msgstr ""
+
+#: includes/class-abstract-form.php:228
+msgid "You are not allowed to modify this property."
+msgstr ""
+
+#: includes/class-agency-filter.php:24 includes/class-agent-filter.php:24
+msgid "Search Keywords"
+msgstr ""
+
+#: includes/class-agency-filter.php:26
+msgid "Write Agency Name"
+msgstr ""
+
+#: includes/class-agency-filter.php:31 includes/class-agency-filter.php:286
+#: includes/class-agent-filter.php:31 includes/class-agent-filter.php:287
+#: includes/taxonomies/class-taxonomy-agency-category.php:28
+#: includes/taxonomies/class-taxonomy-agent-category.php:28
+msgid "Category"
+msgstr ""
+
+#: includes/class-agency-filter.php:34 includes/class-agent-filter.php:34
+#: includes/taxonomies/class-taxonomy-agency-category.php:30
+#: includes/taxonomies/class-taxonomy-agent-category.php:30
+msgid "All Categories"
+msgstr ""
+
+#: includes/class-agency-filter.php:39 includes/class-agent-filter.php:39
+msgid "Location List"
+msgstr ""
+
+#: includes/class-agency-filter.php:42 includes/class-agent-filter.php:42
+#: includes/taxonomies/class-taxonomy-agency-location.php:30
+#: includes/taxonomies/class-taxonomy-agent-location.php:30
+#: includes/taxonomies/class-taxonomy-property-location.php:30
+msgid "All Locations"
+msgstr ""
+
+#: includes/class-agency-filter.php:47 includes/class-agency-filter.php:289
+#: includes/class-agent-filter.php:47 includes/class-agent-filter.php:290
+#: includes/class-property-filter.php:27 includes/class-property-filter.php:768
+#: includes/custom-fields/class-custom-fields.php:33
+#: includes/custom-fields/class-fields-manager.php:397
+#: includes/post-types/class-post-type-agency.php:197
+#: includes/post-types/class-post-type-agency.php:211
+#: includes/post-types/class-post-type-agency.php:339
+#: includes/post-types/class-post-type-agent.php:202
+#: includes/post-types/class-post-type-agent.php:216
+#: includes/post-types/class-post-type-agent.php:328
+#: includes/post-types/class-post-type-property.php:322
+#: includes/taxonomies/class-taxonomy-agency-location.php:28
+#: includes/taxonomies/class-taxonomy-agent-location.php:28
+#: includes/taxonomies/class-taxonomy-property-location.php:28
+#: templates/content-single-agency.php:48
+msgid "Location"
+msgstr ""
+
+#: includes/class-agency-filter.php:49 includes/class-agent-filter.php:49
+#: includes/class-property-filter.php:29
+#: includes/custom-fields/class-custom-fields.php:35
+msgid "All Location"
+msgstr ""
+
+#: includes/class-agency-filter.php:238 includes/class-agency-filter.php:300
+#: includes/class-agent-filter.php:239 includes/class-agent-filter.php:301
+#: includes/class-property-filter.php:713
+#: includes/class-property-filter.php:793
+#: includes/custom-fields/class-fields-manager.php:334
+#: includes/post-types/class-post-type-agency.php:426
+#: includes/post-types/class-post-type-agent.php:416
+#: includes/post-types/class-post-type-property.php:324
+#: templates/submission/my-properties.php:113
+msgid "Featured"
+msgstr ""
+
+#: includes/class-agency-filter.php:254 includes/class-agency-filter.php:313
+#: includes/class-agent-filter.php:255 includes/class-agent-filter.php:314
+#: includes/class-property-filter.php:729
+#: includes/class-property-filter.php:806 templates/loop/agency/orderby.php:7
+#: templates/loop/agent/orderby.php:7 templates/loop/property/orderby.php:7
+#: templates/misc/my-saved-searches.php:28
+#: templates/misc/property-favorites.php:25
+#: templates/submission/my-properties.php:28
+msgid "Default"
+msgstr ""
+
+#: includes/class-agency-filter.php:255 includes/class-agency-filter.php:314
+#: includes/class-agent-filter.php:256 includes/class-agent-filter.php:315
+#: includes/class-property-filter.php:730
+#: includes/class-property-filter.php:807 templates/loop/agency/orderby.php:8
+#: templates/loop/agent/orderby.php:8 templates/loop/property/orderby.php:8
+#: templates/misc/my-saved-searches.php:29
+#: templates/misc/property-favorites.php:26
+#: templates/submission/my-properties.php:29
+msgid "Newest"
+msgstr ""
+
+#: includes/class-agency-filter.php:256 includes/class-agency-filter.php:315
+#: includes/class-agent-filter.php:257 includes/class-agent-filter.php:316
+#: includes/class-property-filter.php:731
+#: includes/class-property-filter.php:808 templates/loop/agency/orderby.php:9
+#: templates/loop/agent/orderby.php:9 templates/loop/property/orderby.php:9
+#: templates/misc/my-saved-searches.php:30
+#: templates/misc/property-favorites.php:27
+#: templates/submission/my-properties.php:30
+msgid "Oldest"
+msgstr ""
+
+#: includes/class-agency-filter.php:257 includes/class-agency-filter.php:316
+#: includes/class-agent-filter.php:258 includes/class-agent-filter.php:317
+#: includes/class-property-filter.php:732
+#: includes/class-property-filter.php:809 templates/loop/agency/orderby.php:10
+#: templates/loop/agent/orderby.php:10 templates/loop/property/orderby.php:10
+msgid "Random"
+msgstr ""
+
+#: includes/class-agency-filter.php:295 includes/class-agent-filter.php:296
+#: includes/class-property-filter.php:788
+#: includes/custom-fields/class-custom-fields.php:43
+msgid "Distance"
+msgstr ""
+
+#: includes/class-agency-filter.php:309 includes/class-agent-filter.php:310
+#: includes/class-property-filter.php:802
+#: includes/custom-fields/class-custom-fields.php:94
+#: includes/custom-fields/class-custom-fields.php:97
+#: includes/post-types/class-post-type-agency.php:427
+#: includes/post-types/class-post-type-agent.php:417
+#: includes/post-types/class-post-type-saved-search.php:118
+msgid "Author"
+msgstr ""
+
+#: includes/class-agency-filter.php:322 includes/class-agent-filter.php:323
+#: includes/class-property-filter.php:815
+msgid "Orderby"
+msgstr ""
+
+#: includes/class-agency.php:91 includes/class-agency.php:147
+#: includes/class-compare.php:48 includes/class-compare.php:89
+#: includes/class-compare.php:131 includes/class-favorite.php:38
+#: includes/class-favorite.php:85 includes/class-property.php:322
+#: includes/class-property.php:380 includes/class-property.php:443
+#: includes/class-saved-search.php:167 includes/class-saved-search.php:238
+#: includes/class-submit-form.php:237
+#: includes/post-types/class-post-type-property.php:247
+#: libraries/cmb2/cmb2_field_profile_url/cmb2-field-type-profile_url.php:68
+msgid "Your nonce did not verify."
+msgstr ""
+
+#: includes/class-agency.php:97 includes/class-agency.php:153
+#: includes/class-agency.php:171
+msgid "Agent not found"
+msgstr ""
+
+#: includes/class-agency.php:111
+msgid "Agent exists"
+msgstr ""
+
+#: includes/class-agency.php:124 includes/class-agency.php:138
+msgid "Add agent to team successful"
+msgstr ""
+
+#: includes/class-agency.php:166
+msgid "Remove agent from team successful"
+msgstr ""
+
+#: includes/class-agent-filter.php:26
+msgid "Write Agent Name"
+msgstr ""
+
+#: includes/class-compare.php:56 includes/class-compare.php:96
+#: includes/class-favorite.php:51 includes/class-favorite.php:97
+msgid "Property did not exists."
+msgstr ""
+
+#: includes/class-compare.php:80
+msgid "Add compare successfully."
+msgstr ""
+
+#: includes/class-compare.php:121
+msgid "Remove property from compare successfully."
+msgstr ""
+
+#: includes/class-compare.php:149
+msgid "Remove all properties from compare successfully."
+msgstr ""
+
+#: includes/class-compare.php:184 includes/class-compare.php:185
+msgid "Remove Compare"
+msgstr ""
+
+#: includes/class-compare.php:188 includes/class-compare.php:190
+msgid "Add Compare"
+msgstr ""
+
+#: includes/class-edit-form.php:159
+msgid "Your changes have been saved."
+msgstr ""
+
+#: includes/class-edit-form.php:161 includes/class-submit-form.php:189
+msgid "Can not update property"
+msgstr ""
+
+#: includes/class-edit-form.php:171 includes/class-submit-form.php:200
+#: includes/post-types/class-post-type-property.php:234
+msgid "Please login to submit property"
+msgstr ""
+
+#: includes/class-edit-form.php:174 includes/class-submit-form.php:203
+#: includes/post-types/class-post-type-property.php:237
+msgid "Title is required."
+msgstr ""
+
+#: includes/class-edit-form.php:177 includes/class-submit-form.php:206
+#: includes/post-types/class-post-type-property.php:240
+msgid "Description is required."
+msgstr ""
+
+#: includes/class-email.php:114
+msgid "Your message has been successfully sent."
+msgstr ""
+
+#: includes/class-email.php:116
+msgid "An error occurred when sending an email."
+msgstr ""
+
+#: includes/class-email.php:119
+msgid "Form has been not filled correctly."
+msgstr ""
+
+#: includes/class-favorite.php:43
+msgid "Please login to add favorite."
+msgstr ""
+
+#: includes/class-favorite.php:72
+msgid "Add favorite successfully."
+msgstr ""
+
+#: includes/class-favorite.php:76
+msgid "Add favorite error."
+msgstr ""
+
+#: includes/class-favorite.php:90
+msgid "Please login to remove favorite."
+msgstr ""
+
+#: includes/class-favorite.php:117
+msgid "Remove property from favorite successfully."
+msgstr ""
+
+#: includes/class-favorite.php:121
+msgid "Remove property from favorite error."
+msgstr ""
+
+#: includes/class-favorite.php:156 includes/class-favorite.php:157
+msgid "Remove Favorite"
+msgstr ""
+
+#: includes/class-favorite.php:160 includes/class-favorite.php:162
+msgid "Add Favorite"
+msgstr ""
+
+#: includes/class-image.php:29
+msgid "You must be logged in to upload files using this method."
+msgstr ""
+
+#. translators: %1$s is the file field label; %2$s is the file type; %3$s is
+#. the list of allowed file types.
+
+#: includes/class-image.php:154
+msgid "\"%1$s\" (filetype %2$s) needs to be one of the following file types: %3$s"
+msgstr ""
+
+#. translators: %s is the list of allowed file types.
+
+#: includes/class-image.php:157
+msgid "Uploaded files need to be one of the following file types: %s"
+msgstr ""
+
+#: includes/class-image.php:216
+msgid "Attachment Image"
+msgstr ""
+
+#: includes/class-mixes.php:134
+msgid "Facebook"
+msgstr ""
+
+#: includes/class-mixes.php:135
+msgid "Twitter"
+msgstr ""
+
+#: includes/class-mixes.php:136
+msgid "Linkedin"
+msgstr ""
+
+#: includes/class-mixes.php:137
+msgid "Dribbble"
+msgstr ""
+
+#: includes/class-mixes.php:494
+msgid "Prev"
+msgstr ""
+
+#: includes/class-mixes.php:495
+msgid "Next"
+msgstr ""
+
+#: includes/class-mixes.php:695
+msgid "or"
+msgstr ""
+
+#: includes/class-property-filter.php:765 includes/class-user.php:1051
+#: includes/custom-fields/class-fields-manager.php:604
+#: includes/post-types/class-post-type-property.php:323
+#: includes/post-types/class-post-type-property.php:325
+#: includes/taxonomies/class-taxonomy-property-status.php:37
+#: libraries/class-tgm-plugin-activation.php:2647
+#: templates/submission/my-properties.php:93
+msgid "Status"
+msgstr ""
+
+#: includes/class-property-filter.php:771
+#: includes/custom-fields/class-fields-manager.php:620
+#: includes/post-types/class-post-type-property.php:321
+#: includes/taxonomies/class-taxonomy-property-type.php:36
+#: libraries/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: includes/class-property-filter.php:774
+msgid "Tag"
+msgstr ""
+
+#: includes/class-property-filter.php:781
+#: includes/post-types/class-post-type-property.php:320
+msgid "Price"
+msgstr ""
+
+#: includes/class-property-yelp.php:107
+msgid "Food"
+msgstr ""
+
+#: includes/class-property-yelp.php:108
+msgid "Nightlife"
+msgstr ""
+
+#: includes/class-property-yelp.php:109
+msgid "Restaurants"
+msgstr ""
+
+#: includes/class-property-yelp.php:110
+msgid "Shopping"
+msgstr ""
+
+#: includes/class-property-yelp.php:111
+msgid "Active Life"
+msgstr ""
+
+#: includes/class-property-yelp.php:112
+msgid "Arts & Entertainment"
+msgstr ""
+
+#: includes/class-property-yelp.php:113
+msgid "Automotive"
+msgstr ""
+
+#: includes/class-property-yelp.php:114
+msgid "Beauty & Spas"
+msgstr ""
+
+#: includes/class-property-yelp.php:115
+msgid "Education"
+msgstr ""
+
+#: includes/class-property-yelp.php:116
+msgid "Event Planning & Services"
+msgstr ""
+
+#: includes/class-property-yelp.php:117
+msgid "Health & Medical"
+msgstr ""
+
+#: includes/class-property-yelp.php:118
+msgid "Home Services"
+msgstr ""
+
+#: includes/class-property-yelp.php:119
+msgid "Local Services"
+msgstr ""
+
+#: includes/class-property-yelp.php:120
+msgid "Financial Services"
+msgstr ""
+
+#: includes/class-property-yelp.php:121
+msgid "Hotels & Travel"
+msgstr ""
+
+#: includes/class-property-yelp.php:122
+msgid "Local Flavor"
+msgstr ""
+
+#: includes/class-property-yelp.php:123
+msgid "Mass Media"
+msgstr ""
+
+#: includes/class-property-yelp.php:124
+msgid "Pets"
+msgstr ""
+
+#: includes/class-property-yelp.php:125
+msgid "Professional Services"
+msgstr ""
+
+#: includes/class-property-yelp.php:126
+msgid "Public Services & Government"
+msgstr ""
+
+#: includes/class-property-yelp.php:127
+msgid "Real Estate"
+msgstr ""
+
+#: includes/class-property-yelp.php:128
+msgid "Religious Organizations"
+msgstr ""
+
+#: includes/class-property.php:249
+msgctxt "post status"
+msgid "Draft"
+msgstr ""
+
+#: includes/class-property.php:250 wp-realestate.php:160
+msgctxt "post status"
+msgid "Expired"
+msgstr ""
+
+#: includes/class-property.php:251 wp-realestate.php:172
+msgctxt "post status"
+msgid "Preview"
+msgstr ""
+
+#: includes/class-property.php:252 includes/class-property.php:253
+msgctxt "post status"
+msgid "Pending approval"
+msgstr ""
+
+#: includes/class-property.php:254
+msgctxt "post status"
+msgid "Pending payment"
+msgstr ""
+
+#: includes/class-property.php:255
+msgctxt "post status"
+msgid "Active"
+msgstr ""
+
+#: includes/class-property.php:327 includes/class-property.php:385
+#: includes/class-property.php:448
+#: includes/post-types/class-post-type-property.php:259
+msgid "Property not found"
+msgstr ""
+
+#: includes/class-property.php:335
+msgid "Views"
+msgstr ""
+
+#: includes/class-property.php:418
+msgid "Yelp Nearby Places"
+msgstr ""
+
+#: includes/class-property.php:421
+msgid "Powered by"
+msgstr ""
+
+#: includes/class-property.php:434
+msgid "do not have yelp"
+msgstr ""
+
+#: includes/class-property.php:476
+msgid "Walk Score"
+msgstr ""
+
+#: includes/class-property.php:479
+#: templates/single-property/walk_score-content.php:22
+msgid "Walk Scores"
+msgstr ""
+
+#: includes/class-property.php:491
+msgid "do not have walk score"
+msgstr ""
+
+#: includes/class-recaptcha.php:31
+msgid "reCAPTCHA is a required field"
+msgstr ""
+
+#: includes/class-review.php:350
+#: templates/single-property/nearby_yelp-content.php:63
+msgid "%d Review"
+msgid_plural "%d Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-review.php:352
+msgid "(%d Review)"
+msgid_plural "(%d Reviews)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-saved-search.php:35
+msgid "Daily"
+msgstr ""
+
+#: includes/class-saved-search.php:39
+msgid "Weekly"
+msgstr ""
+
+#: includes/class-saved-search.php:43
+msgid "Fortnightly"
+msgstr ""
+
+#: includes/class-saved-search.php:47
+msgid "Monthly"
+msgstr ""
+
+#: includes/class-saved-search.php:51
+msgid "Biannually"
+msgstr ""
+
+#: includes/class-saved-search.php:55
+msgid "Annually"
+msgstr ""
+
+#: includes/class-saved-search.php:213
+msgid "Add property save search successfully."
+msgstr ""
+
+#: includes/class-saved-search.php:217
+msgid "Add property save search error."
+msgstr ""
+
+#: includes/class-saved-search.php:226
+msgid "Name is required."
+msgstr ""
+
+#: includes/class-saved-search.php:230
+msgid "Email frequency is required."
+msgstr ""
+
+#: includes/class-saved-search.php:243
+msgid "Please login to remove property saved search."
+msgstr ""
+
+#: includes/class-saved-search.php:250
+msgid "Applicant did not exists."
+msgstr ""
+
+#: includes/class-saved-search.php:258
+msgid "You can not remove this property saved search."
+msgstr ""
+
+#: includes/class-saved-search.php:264
+msgid "Remove property saved search successfully."
+msgstr ""
+
+#: includes/class-saved-search.php:268
+msgid "Remove property saved search error."
+msgstr ""
+
+#: includes/class-scripts.php:49
+msgid "Invalid file type. Accepted types:"
+msgstr ""
+
+#: includes/class-scripts.php:50
+msgid "You are only allowed to upload a maximum of %d files."
+msgstr ""
+
+#: includes/class-scripts.php:59
+msgid "No results found"
+msgstr ""
+
+#: includes/class-scripts.php:106
+msgid "Show more +"
+msgstr ""
+
+#: includes/class-scripts.php:108
+msgid "Show less -"
+msgstr ""
+
+#: includes/class-scripts.php:112
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/class-social-facebook.php:140
+#: includes/class-social-facebook.php:179
+msgid "Graph returned an error: "
+msgstr ""
+
+#: includes/class-social-facebook.php:148
+#: includes/class-social-facebook.php:185
+msgid "Facebook SDK returned an error: "
+msgstr ""
+
+#: includes/class-social-facebook.php:282
+msgid "Login with Facebook"
+msgstr ""
+
+#: includes/class-social-google.php:232
+msgid "Login with Google"
+msgstr ""
+
+#: includes/class-social-linkedin.php:347
+msgid "Login with LinkedIn"
+msgstr ""
+
+#: includes/class-social-twitter.php:92 includes/class-social-twitter.php:133
+msgid "There is problem while connecting to twitter"
+msgstr ""
+
+#: includes/class-social-twitter.php:233
+msgid "Login with Twitter"
+msgstr ""
+
+#: includes/class-submit-form.php:187
+msgid "Can not create property"
+msgstr ""
+
+#: includes/class-user.php:82 includes/post-types/class-post-type-agency.php:36
+#: templates/misc/register.php:16
+msgid "Agency"
+msgstr ""
+
+#: includes/class-user.php:89 includes/post-types/class-post-type-agent.php:36
+#: templates/misc/register.php:15
+msgid "Agent"
+msgstr ""
+
+#: includes/class-user.php:259
+msgid "Please fill all form fields"
+msgstr ""
+
+#: includes/class-user.php:280
+msgid "Your account denied"
+msgstr ""
+
+#: includes/class-user.php:287
+msgid "Wrong username or password. Please try again!!!"
+msgstr ""
+
+#: includes/class-user.php:290
+msgid "Signin successful, redirecting..."
+msgstr ""
+
+#: includes/class-user.php:304 includes/class-user.php:456
+msgid "Captcha is not valid"
+msgstr ""
+
+#: includes/class-user.php:316
+msgid "Enter an username or e-mail address."
+msgstr ""
+
+#: includes/class-user.php:322
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: includes/class-user.php:328
+msgid "There is no user registered with that username."
+msgstr ""
+
+#: includes/class-user.php:331
+msgid "Invalid username or e-mail address."
+msgstr ""
+
+#: includes/class-user.php:354 includes/class-user.php:780
+msgid "Your account denied."
+msgstr ""
+
+#: includes/class-user.php:384
+msgid "Check your email address for you new password."
+msgstr ""
+
+#: includes/class-user.php:386
+msgid "System is unable to send you mail containg your new password."
+msgstr ""
+
+#: includes/class-user.php:389
+msgid "Oops! Something went wrong while updating your account."
+msgstr ""
+
+#: includes/class-user.php:434
+msgid "You have registered, redirecting ..."
+msgstr ""
+
+#: includes/class-user.php:440
+msgid "Register user error!"
+msgstr ""
+
+#: includes/class-user.php:463
+msgid "Terms and Conditions are required"
+msgstr ""
+
+#: includes/class-user.php:468
+msgid "Required form field is missing"
+msgstr ""
+
+#: includes/class-user.php:472
+msgid "Username too short. At least 4 characters is required"
+msgstr ""
+
+#: includes/class-user.php:476
+msgid "The username already exists!"
+msgstr ""
+
+#: includes/class-user.php:480
+msgid "The username you entered is not valid"
+msgstr ""
+
+#: includes/class-user.php:484
+msgid "Password length must be greater than 5"
+msgstr ""
+
+#: includes/class-user.php:488
+msgid "Password must be equal Confirm Password"
+msgstr ""
+
+#: includes/class-user.php:492
+msgid "Email is not valid"
+msgstr ""
+
+#: includes/class-user.php:496
+msgid "Email Already in use"
+msgstr ""
+
+#: includes/class-user.php:675 includes/class-user.php:1292
+msgid "Profile has been successfully updated."
+msgstr ""
+
+#: includes/class-user.php:678
+msgid "Can not update profile"
+msgstr ""
+
+#: includes/class-user.php:691
+msgid "All fields are required."
+msgstr ""
+
+#: includes/class-user.php:696
+msgid "New and retyped password are not same."
+msgstr ""
+
+#: includes/class-user.php:702
+msgid "Your old password is not correct."
+msgstr ""
+
+#: includes/class-user.php:709
+msgid "Your password has been successfully changed."
+msgstr ""
+
+#: includes/class-user.php:720
+msgid "Username or Email not exactly."
+msgstr ""
+
+#: includes/class-user.php:750
+msgid "Sent a email successfully."
+msgstr ""
+
+#: includes/class-user.php:756
+msgid "Send a email error."
+msgstr ""
+
+#: includes/class-user.php:764
+msgid "Your account is not available."
+msgstr ""
+
+#: includes/class-user.php:802 includes/class-user.php:810
+msgid "The user is not exists."
+msgstr ""
+
+#: includes/class-user.php:817
+msgid "Code is not exactly."
+msgstr ""
+
+#: includes/class-user.php:826
+msgid "Your account approved."
+msgstr ""
+
+#: includes/class-user.php:1028
+msgid "Approve"
+msgstr ""
+
+#: includes/class-user.php:1029
+msgid "Deny"
+msgstr ""
+
+#: includes/class-user.php:1074
+msgid "approved"
+msgstr ""
+
+#: includes/class-user.php:1076
+msgid "denied"
+msgstr ""
+
+#: includes/class-user.php:1078
+msgid "pending"
+msgstr ""
+
+#: includes/class-user.php:1097
+msgid "Filter"
+msgstr ""
+
+#: includes/class-user.php:1104 includes/class-user.php:1106
+msgid "View all users"
+msgstr ""
+
+#: includes/class-user.php:1164
+msgid "Registration complete. Before you can login, you must active your account sent to your email address."
+msgstr ""
+
+#: includes/class-user.php:1166
+msgid "Registration complete. Your account has to be confirmed by an administrator before you can login"
+msgstr ""
+
+#: includes/class-user.php:1168 includes/class-user.php:1180
+msgid "Your account has to be confirmed yet."
+msgstr ""
+
+#: includes/class-user.php:1176
+msgid "Account account has not confirmed yet, you must active your account with the link sent to your email address. If you did not receive this email, please check your junk/spam folder. <a href=\"javascript:void(0);\" class=\"wp-realestate-resend-approve-account-btn\" data-login=\"%s\">Click here</a> to resend the activation email."
+msgstr ""
+
+#: includes/class-user.php:1178
+msgid "Your account has to be confirmed by an administrator before you can login."
+msgstr ""
+
+#: includes/class-user.php:1193
+msgid "User Profile"
+msgstr ""
+
+#: includes/class-user.php:1199 includes/class-user.php:1204
+msgid "Avatar"
+msgstr ""
+
+#: includes/class-user.php:1209
+msgid "Add Avatar"
+msgstr ""
+
+#: includes/class-user.php:1210
+msgid "Remove Avatar"
+msgstr ""
+
+#: includes/class-user.php:1216 templates/misc/profile-form-normal.php:83
+#: templates/single-agent/detail.php:81
+msgid "Address"
+msgstr ""
+
+#: includes/class-user.php:1224
+#: includes/post-types/class-post-type-agency.php:152
+#: includes/post-types/class-post-type-agency.php:333
+#: includes/post-types/class-post-type-agency.php:424
+#: includes/post-types/class-post-type-agent.php:157
+#: includes/post-types/class-post-type-agent.php:322
+#: includes/post-types/class-post-type-agent.php:414
+#: templates/misc/profile-form-normal.php:80
+#: templates/single-agency/contact-form.php:38
+#: templates/single-agency/detail.php:59
+#: templates/single-agent/contact-form.php:38
+#: templates/single-agent/detail.php:69
+#: templates/single-property/contact-form.php:53
+msgid "Phone"
+msgstr ""
+
+#: includes/class-user.php:1265
+msgid "E-mail is required."
+msgstr ""
+
+#: includes/class-user.php:1294
+msgid "Can not update profile."
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-display.php:85
+#: includes/custom-fields/class-custom-fields-display.php:92
+msgid "Download file"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:95
+#: includes/custom-fields/class-custom-fields-html.php:156
+#: includes/custom-fields/class-custom-fields-html.php:215
+#: includes/custom-fields/class-custom-fields-html.php:290
+#: includes/custom-fields/class-custom-fields-html.php:356
+#: includes/custom-fields/class-custom-fields-html.php:410
+#: includes/custom-fields/class-custom-fields-html.php:474
+#: includes/custom-fields/class-custom-fields-html.php:537
+#: includes/custom-fields/class-custom-fields-html.php:597
+#: includes/custom-fields/class-custom-fields-html.php:657
+#: includes/custom-fields/class-fields-manager.php:612
+#: includes/taxonomies/class-taxonomy-property-label.php:37
+msgid "Label"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:96
+#: includes/custom-fields/class-custom-fields-html.php:157
+#: includes/custom-fields/class-custom-fields-html.php:216
+#: includes/custom-fields/class-custom-fields-html.php:291
+#: includes/custom-fields/class-fields-manager.php:660
+#: includes/custom-fields/class-fields-manager.php:692
+msgid "Key"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:97
+#: includes/custom-fields/class-custom-fields-html.php:158
+#: includes/custom-fields/class-custom-fields-html.php:292
+#: includes/custom-fields/class-custom-fields-html.php:357
+#: includes/custom-fields/class-custom-fields-html.php:411
+#: includes/custom-fields/class-custom-fields-html.php:475
+#: includes/custom-fields/class-custom-fields-html.php:538
+#: includes/custom-fields/class-custom-fields-html.php:598
+#: includes/custom-fields/class-custom-fields-html.php:658
+msgid "Placeholder"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:98
+#: includes/custom-fields/class-custom-fields-html.php:159
+#: includes/custom-fields/class-custom-fields-html.php:293
+#: includes/custom-fields/class-custom-fields-html.php:358
+#: includes/custom-fields/class-custom-fields-html.php:412
+#: includes/custom-fields/class-custom-fields-html.php:476
+#: includes/custom-fields/class-custom-fields-html.php:539
+#: includes/custom-fields/class-custom-fields-html.php:599
+#: includes/custom-fields/class-custom-fields-html.php:659
+#: includes/post-types/class-post-type-agency.php:294
+#: includes/post-types/class-post-type-agent.php:277
+#: templates/content-single-agency.php:27
+msgid "Description"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:103
+#: includes/custom-fields/class-custom-fields-html.php:162
+#: includes/custom-fields/class-custom-fields-html.php:301
+#: includes/custom-fields/class-custom-fields-html.php:359
+#: includes/custom-fields/class-custom-fields-html.php:421
+#: includes/custom-fields/class-custom-fields-html.php:484
+#: includes/custom-fields/class-custom-fields-html.php:546
+#: includes/custom-fields/class-custom-fields-html.php:606
+#: includes/custom-fields/class-custom-fields-html.php:661
+msgid "Show in submit form"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:104
+#: includes/custom-fields/class-custom-fields-html.php:163
+#: includes/custom-fields/class-custom-fields-html.php:302
+#: includes/custom-fields/class-custom-fields-html.php:360
+#: includes/custom-fields/class-custom-fields-html.php:422
+#: includes/custom-fields/class-custom-fields-html.php:485
+#: includes/custom-fields/class-custom-fields-html.php:547
+#: includes/custom-fields/class-custom-fields-html.php:607
+#: includes/custom-fields/class-custom-fields-html.php:662
+msgid "Show in admin form"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:106
+#: includes/custom-fields/class-custom-fields-html.php:165
+#: includes/custom-fields/class-custom-fields-html.php:304
+#: includes/custom-fields/class-custom-fields-html.php:362
+#: includes/custom-fields/class-custom-fields-html.php:424
+#: includes/custom-fields/class-custom-fields-html.php:487
+#: includes/custom-fields/class-custom-fields-html.php:549
+#: includes/custom-fields/class-custom-fields-html.php:609
+#: includes/custom-fields/class-custom-fields-html.php:664
+#: libraries/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:113
+#: includes/custom-fields/class-custom-fields-html.php:175
+#: includes/custom-fields/class-custom-fields-html.php:248
+#: includes/custom-fields/class-custom-fields-html.php:311
+#: includes/custom-fields/class-custom-fields-html.php:369
+#: includes/custom-fields/class-custom-fields-html.php:431
+#: includes/custom-fields/class-custom-fields-html.php:494
+#: includes/custom-fields/class-custom-fields-html.php:556
+#: includes/custom-fields/class-custom-fields-html.php:616
+#: includes/custom-fields/class-custom-fields-html.php:671
+msgid "Enable package visibility"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:114
+#: includes/custom-fields/class-custom-fields-html.php:176
+#: includes/custom-fields/class-custom-fields-html.php:249
+#: includes/custom-fields/class-custom-fields-html.php:312
+#: includes/custom-fields/class-custom-fields-html.php:370
+#: includes/custom-fields/class-custom-fields-html.php:432
+#: includes/custom-fields/class-custom-fields-html.php:495
+#: includes/custom-fields/class-custom-fields-html.php:557
+#: includes/custom-fields/class-custom-fields-html.php:617
+#: includes/custom-fields/class-custom-fields-html.php:672
+msgid "Packages"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:114
+#: includes/custom-fields/class-custom-fields-html.php:176
+#: includes/custom-fields/class-custom-fields-html.php:249
+#: includes/custom-fields/class-custom-fields-html.php:312
+#: includes/custom-fields/class-custom-fields-html.php:370
+#: includes/custom-fields/class-custom-fields-html.php:432
+#: includes/custom-fields/class-custom-fields-html.php:495
+#: includes/custom-fields/class-custom-fields-html.php:557
+#: includes/custom-fields/class-custom-fields-html.php:617
+#: includes/custom-fields/class-custom-fields-html.php:672
+msgid "Choose Packages to show this field insubmit form."
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:119
+#: includes/custom-fields/class-custom-fields-html.php:182
+#: includes/custom-fields/class-custom-fields-html.php:318
+msgid "Position Display"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:160
+#: includes/custom-fields/class-custom-fields-html.php:660
+msgid "Options"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:160
+#: includes/custom-fields/class-custom-fields-html.php:660
+msgid "Add each option in a new line."
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:221
+msgid "Icon"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:236
+msgid "1 Column"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:237
+msgid "2 Column"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:238
+msgid "3 Column"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:239
+msgid "4 Column"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:241
+msgid "Columns Inner"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:295
+#: includes/custom-fields/class-custom-fields-html.php:541
+msgid "File limit"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:298
+#: includes/custom-fields/class-custom-fields-html.php:482
+#: includes/custom-fields/class-custom-fields-html.php:544
+msgid "Allowed file types"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:300
+msgid "Multiple files"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:415
+msgid "Term Select"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:416
+msgid "Term Multiselect"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:417
+msgid "Term Checklist"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:418
+msgid "Term Radio Button"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:420
+#: includes/custom-fields/class-custom-fields-html.php:605
+msgid "Template"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:478
+msgid "Limit Files"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:602
+#: includes/custom-fields/class-fields-manager.php:240
+msgid "Textarea"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:603
+#: includes/custom-fields/class-fields-manager.php:241
+msgid "WP Editor"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields-html.php:706
+msgid "%s Field %s"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields.php:41
+msgid "Search Distance"
+msgstr ""
+
+#: includes/custom-fields/class-custom-fields.php:107
+msgid "Property Metabox"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:22
+msgid "Fields Manager"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:65
+msgid "Fields manager"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:170
+msgid "Create a custom field"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:181
+msgid "Create"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:188
+msgid "Available Fields"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:237
+msgid "Direct Input"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:239
+msgid "Text"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:242
+#: includes/post-types/class-post-type-agency.php:428
+#: includes/post-types/class-post-type-agent.php:418
+#: includes/post-types/class-post-type-saved-search.php:117
+msgid "Date"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:243
+msgid "Number"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:244
+#: includes/post-types/class-post-type-agency.php:186
+#: includes/post-types/class-post-type-agency.php:383
+#: includes/post-types/class-post-type-agent.php:191
+#: includes/post-types/class-post-type-agent.php:372
+msgid "Url"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:245
+#: templates/misc/register.php:26 templates/single-agency/detail.php:34
+#: templates/single-agency/reviews.php:50 templates/single-agent/detail.php:44
+#: templates/single-agent/reviews.php:50
+#: templates/single-property/reviews.php:50
+msgid "Email"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:249
+msgid "Choices"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:251
+msgid "Select"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:252
+msgid "Multiselect"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:253
+msgid "Checkbox"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:254
+msgid "Radio Buttons"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:258
+msgid "Form UI"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:260
+msgid "Heading"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:264
+msgid "Others"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:266
+msgid "File"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:290
+#: templates/submission/my-properties.php:92
+msgid "Property Title"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:299
+msgid "Property Description"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:325
+msgid "Expiry Date"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:337
+msgid "Featured properties will be sticky during searches, and can be styled differently."
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:352
+msgid "Property ID"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:358
+msgid "Year built"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:370
+#: includes/post-types/class-post-type-agency.php:273
+#: includes/post-types/class-post-type-agent.php:256
+msgid "Featured Image"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:378
+msgid "Gallery"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:386
+#: templates/single-property/attachments.php:17
+msgid "Attachments"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:405
+#: includes/post-types/class-post-type-agency.php:205
+#: includes/post-types/class-post-type-agency.php:349
+#: includes/post-types/class-post-type-agent.php:210
+#: includes/post-types/class-post-type-agent.php:338
+msgid "Friendly Address"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:413
+#: includes/post-types/class-post-type-agency.php:356
+#: includes/post-types/class-post-type-agent.php:345
+msgid "Map Location"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:421
+msgid "Price (%s)"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:424
+msgid "e.g. 1000"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:429
+msgid "Price Prefix"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:432
+msgid "Any text shown before price (for example: from)."
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:435
+msgid "Price Suffix"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:438
+msgid "Any text shown after price (for example: per night)."
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:441
+msgid "Price Custom"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:444
+msgid "Any text instead of price (for example: by agreement). Prefix and Suffix will be ignored."
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:449
+#: includes/custom-fields/class-fields-manager.php:564
+msgid "Rooms"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:461
+msgid "Beds"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:473
+#: includes/custom-fields/class-fields-manager.php:574
+msgid "Baths"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:485
+msgid "Garages"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:497
+msgid "Home area (%s)"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:504
+msgid "Lot dimensions"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:507
+msgid "e.g. 20x30, 20x30x40, 20x30x40x50"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:510
+msgid "Lot area (%s)"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:518
+msgid "Video link"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:521
+msgid "Enter Youtube or Vimeo url."
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:525
+#: templates/single-property/virtual_tour.php:14
+msgid "Virtual Tour"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:528
+msgid "Input iframe to show 360° Virtual Tour."
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:532
+msgid "Parent property"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:533
+msgid "Useful for types like Condominium"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:546
+#: templates/single-property/floor-plans.php:12
+msgid "Floor Plans"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:550
+msgid "Floor Group {#}"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:551
+msgid "Add Floor"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:552
+msgid "Remove Floor"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:559
+#: templates/single-agency/reviews.php:48 templates/single-agent/reviews.php:48
+#: templates/single-property/reviews.php:48
+msgid "Name"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:584
+msgid "Size"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:593
+msgid "Preview Image"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:628
+#: includes/taxonomies/class-taxonomy-property-materials.php:28
+msgid "Material"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:636
+#: includes/taxonomies/class-taxonomy-property-amenity.php:27
+#: includes/taxonomies/class-taxonomy-property-amenity.php:37
+#: templates/single-property/amenities.php:16
+msgid "Amenities"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:647
+#: templates/single-property/valuation.php:8
+msgid "Valuation"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:651
+#: includes/custom-fields/class-fields-manager.php:683
+msgid "Group {#}"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:652
+#: includes/custom-fields/class-fields-manager.php:684
+msgid "Add Group"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:653
+#: includes/custom-fields/class-fields-manager.php:685
+msgid "Remove Group"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:665
+#: includes/custom-fields/class-fields-manager.php:697
+msgid "Value"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:679
+#: templates/single-property/facilities.php:8
+msgid "Facilities"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:705
+msgid "Energy Class"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:711
+#: templates/single-property/energy.php:11
+msgid "A+"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:712
+#: templates/single-property/energy.php:12
+msgid "A"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:713
+#: templates/single-property/energy.php:13
+msgid "B"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:714
+#: templates/single-property/energy.php:14
+msgid "C"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:715
+#: templates/single-property/energy.php:15
+msgid "D"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:716
+#: templates/single-property/energy.php:16
+msgid "E"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:717
+#: templates/single-property/energy.php:17
+msgid "F"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:718
+#: templates/single-property/energy.php:18
+msgid "G"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:719
+#: templates/single-property/energy.php:19
+msgid "H"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:723
+msgid "Energy Index in kWh/m2a"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:739
+msgid "Choose a position"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:740
+msgid "Single Property - Description"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:741
+msgid "Single Property - Details"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:742
+msgid "Single Property - Amenities Box"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:743
+msgid "Single Property - Floor Plans"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:744
+msgid "Single Property - Contact Form"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:745
+msgid "Single Property - Video"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:746
+msgid "Single Property - Agent Details"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:747
+msgid "Single Property - Facilities"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:748
+msgid "Single Property - Valuation"
+msgstr ""
+
+#: includes/custom-fields/class-fields-manager.php:749
+msgid "Single Property - Attachments"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:35
+#: includes/post-types/class-post-type-agency.php:47
+msgid "Agencies"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:37
+#: includes/post-types/class-post-type-agency.php:38
+msgid "Add New Agency"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:39
+msgid "Edit Agency"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:40
+msgid "New Agency"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:41
+msgid "All Agencies"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:42
+msgid "View Agency"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:43
+msgid "Search Agency"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:44
+msgid "No Agencies found"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:45
+msgid "No Agencies found in Trash"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:56
+msgctxt "Agency slug - resave permalinks after changing this"
+msgid "agency"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:122
+#: includes/post-types/class-post-type-agent.php:122
+msgid "Contact details"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:130
+#: includes/post-types/class-post-type-agent.php:130
+msgid "Attached User"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:135
+msgid "Featured Agency"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:138
+msgid "Featured agencies will be sticky during searches, and can be styled differently."
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:142
+#: includes/post-types/class-post-type-agency.php:321
+#: includes/post-types/class-post-type-agency.php:422
+#: includes/post-types/class-post-type-agent.php:147
+#: includes/post-types/class-post-type-agent.php:310
+#: includes/post-types/class-post-type-agent.php:412
+#: templates/misc/profile-form-normal.php:76
+#: templates/single-agency/contact-form.php:33
+#: templates/single-agent/contact-form.php:33
+#: templates/single-property/contact-form.php:48
+msgid "E-mail"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:147
+#: includes/post-types/class-post-type-agency.php:327
+#: includes/post-types/class-post-type-agent.php:152
+#: includes/post-types/class-post-type-agent.php:316
+msgid "Web"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:160
+#: includes/post-types/class-post-type-agency.php:168
+#: includes/post-types/class-post-type-agency.php:365
+#: includes/post-types/class-post-type-agent.php:165
+#: includes/post-types/class-post-type-agent.php:173
+#: includes/post-types/class-post-type-agent.php:354
+msgid "Socials"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:172
+#: includes/post-types/class-post-type-agency.php:369
+#: includes/post-types/class-post-type-agent.php:177
+#: includes/post-types/class-post-type-agent.php:358
+msgid "Network {#}"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:173
+#: includes/post-types/class-post-type-agency.php:370
+#: includes/post-types/class-post-type-agent.php:178
+#: includes/post-types/class-post-type-agent.php:359
+msgid "Add Another Network"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:174
+#: includes/post-types/class-post-type-agency.php:371
+#: includes/post-types/class-post-type-agent.php:179
+#: includes/post-types/class-post-type-agent.php:360
+msgid "Remove Network"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:180
+#: includes/post-types/class-post-type-agency.php:377
+#: includes/post-types/class-post-type-agent.php:185
+#: includes/post-types/class-post-type-agent.php:366
+msgid "Network"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:212
+#: includes/post-types/class-post-type-agent.php:217
+msgid "Drag the marker to set the exact location"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:222
+#: includes/post-types/class-post-type-agency.php:230
+#: includes/post-types/class-post-type-agency.php:425
+#: includes/post-types/class-post-type-agent.php:35
+#: includes/post-types/class-post-type-agent.php:47
+#: templates/content-single-agency.php:41
+msgid "Agents"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:267
+#: includes/post-types/class-post-type-agent.php:250
+msgid "Profile url"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:284
+#: includes/post-types/class-post-type-agent.php:267
+msgid "Full Name"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:345
+#: includes/post-types/class-post-type-agent.php:334
+msgid "Select %s"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:421
+#: includes/post-types/class-post-type-agent.php:411
+#: includes/post-types/class-post-type-property.php:313
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/post-types/class-post-type-agency.php:423
+#: includes/post-types/class-post-type-agent.php:413
+#: templates/misc/profile-form-normal.php:87
+#: templates/single-agency/detail.php:46 templates/single-agent/detail.php:56
+msgid "Website"
+msgstr ""
+
+#: includes/post-types/class-post-type-agent.php:37
+#: includes/post-types/class-post-type-agent.php:38
+msgid "Add New Agent"
+msgstr ""
+
+#: includes/post-types/class-post-type-agent.php:39
+msgid "Edit Agent"
+msgstr ""
+
+#: includes/post-types/class-post-type-agent.php:40
+msgid "New Agent"
+msgstr ""
+
+#: includes/post-types/class-post-type-agent.php:41
+msgid "All Agents"
+msgstr ""
+
+#: includes/post-types/class-post-type-agent.php:42
+msgid "View Agent"
+msgstr ""
+
+#: includes/post-types/class-post-type-agent.php:43
+msgid "Search Agent"
+msgstr ""
+
+#: includes/post-types/class-post-type-agent.php:44
+msgid "No Agents found"
+msgstr ""
+
+#: includes/post-types/class-post-type-agent.php:45
+msgid "No Agents found in Trash"
+msgstr ""
+
+#: includes/post-types/class-post-type-agent.php:56
+msgctxt "Agent slug - resave permalinks after changing this"
+msgid "agent"
+msgstr ""
+
+#: includes/post-types/class-post-type-agent.php:135
+msgid "Featured Agent"
+msgstr ""
+
+#: includes/post-types/class-post-type-agent.php:138
+msgid "Featured agents will be sticky during searches, and can be styled differently."
+msgstr ""
+
+#: includes/post-types/class-post-type-agent.php:142
+#: includes/post-types/class-post-type-agent.php:304
+msgid "Job"
+msgstr ""
+
+#: includes/post-types/class-post-type-agent.php:415
+#: includes/post-types/class-post-type-property.php:64
+#: includes/post-types/class-post-type-property.php:76
+#: templates/content-single-agency.php:34
+msgid "Properties"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:65
+msgid "Property"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:66
+#: includes/post-types/class-post-type-property.php:67
+msgid "Add New Property"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:68
+#: templates/submission/property-submit-preview.php:28
+msgid "Edit Property"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:69
+msgid "New Property"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:70
+msgid "All Properties"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:71
+msgid "View Property"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:72
+msgid "Search Property"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:73
+msgid "No Properties found"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:74
+msgid "No Properties found in Trash"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:85
+msgctxt "Property slug - resave permalinks after changing this"
+msgid "property"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:253
+msgid "Please login to remove this property"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:266
+msgid "You can not remove this property."
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:274
+msgid "Property has been successfully removed."
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:278
+msgid "An error occured when removing an item."
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:318
+msgid "Posted"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:319
+msgid "Expires"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:388
+msgid "by a guest"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:388
+msgid "by %s"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:429
+msgid "All types"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:446
+msgid "All locations"
+msgstr ""
+
+#: includes/post-types/class-post-type-property.php:463
+msgid "All statuses"
+msgstr ""
+
+#: includes/post-types/class-post-type-saved-search.php:25
+#: includes/post-types/class-post-type-saved-search.php:31
+#: includes/post-types/class-post-type-saved-search.php:37
+msgid "Saved Searches"
+msgstr ""
+
+#: includes/post-types/class-post-type-saved-search.php:26
+msgid "Saved Search"
+msgstr ""
+
+#: includes/post-types/class-post-type-saved-search.php:27
+#: includes/post-types/class-post-type-saved-search.php:28
+msgid "Add New Saved Search"
+msgstr ""
+
+#: includes/post-types/class-post-type-saved-search.php:29
+msgid "Edit Saved Search"
+msgstr ""
+
+#: includes/post-types/class-post-type-saved-search.php:30
+msgid "New Saved Search"
+msgstr ""
+
+#: includes/post-types/class-post-type-saved-search.php:32
+msgid "View Saved Search"
+msgstr ""
+
+#: includes/post-types/class-post-type-saved-search.php:33
+msgid "Search Saved Search"
+msgstr ""
+
+#: includes/post-types/class-post-type-saved-search.php:34
+msgid "No Saved Searches found"
+msgstr ""
+
+#: includes/post-types/class-post-type-saved-search.php:35
+msgid "No Saved Searches found in Trash"
+msgstr ""
+
+#: includes/post-types/class-post-type-saved-search.php:77
+msgid "Author: %s (%s)"
+msgstr ""
+
+#: includes/post-types/class-post-type-saved-search.php:84
+#: templates/misc/my-saved-searches.php:59
+msgid "Saved Search Query"
+msgstr ""
+
+#: includes/post-types/class-post-type-saved-search.php:89
+#: includes/post-types/class-post-type-saved-search.php:116
+#: templates/loop/property/properties-save-search-form.php:23
+#: templates/widgets/property-save-search-form.php:28
+msgid "Email Frequency"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-agency-category.php:27
+#: includes/taxonomies/class-taxonomy-agency-category.php:37
+#: includes/taxonomies/class-taxonomy-agent-category.php:27
+#: includes/taxonomies/class-taxonomy-agent-category.php:37
+msgid "Categories"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-agency-category.php:29
+#: includes/taxonomies/class-taxonomy-agent-category.php:29
+msgid "Search Categories"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-agency-category.php:31
+#: includes/taxonomies/class-taxonomy-agent-category.php:31
+msgid "Parent Category"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-agency-category.php:32
+#: includes/taxonomies/class-taxonomy-agent-category.php:32
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-agency-category.php:33
+#: includes/taxonomies/class-taxonomy-agency-location.php:33
+#: includes/taxonomies/class-taxonomy-agent-category.php:33
+#: includes/taxonomies/class-taxonomy-agent-location.php:33
+#: includes/taxonomies/class-taxonomy-property-amenity.php:33
+#: includes/taxonomies/class-taxonomy-property-label.php:42
+#: includes/taxonomies/class-taxonomy-property-location.php:33
+#: includes/taxonomies/class-taxonomy-property-materials.php:33
+#: includes/taxonomies/class-taxonomy-property-status.php:42
+#: includes/taxonomies/class-taxonomy-property-type.php:41
+#: libraries/cmb2/cmb2_field_profile_url/cmb2-field-type-profile_url.php:46
+#: templates/submission/my-properties.php:158
+#: templates/submission/my-properties.php:159
+msgid "Edit"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-agency-category.php:35
+#: includes/taxonomies/class-taxonomy-agency-location.php:35
+#: includes/taxonomies/class-taxonomy-agent-category.php:35
+#: includes/taxonomies/class-taxonomy-agent-location.php:35
+#: includes/taxonomies/class-taxonomy-property-amenity.php:35
+#: includes/taxonomies/class-taxonomy-property-label.php:44
+#: includes/taxonomies/class-taxonomy-property-location.php:35
+#: includes/taxonomies/class-taxonomy-property-materials.php:35
+#: includes/taxonomies/class-taxonomy-property-status.php:44
+#: includes/taxonomies/class-taxonomy-property-type.php:43
+msgid "Add New"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-agency-category.php:36
+#: includes/taxonomies/class-taxonomy-agent-category.php:36
+msgid "New Category"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-agency-category.php:42
+msgctxt "Agency category slug - resave permalinks after changing this"
+msgid "agency-category"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-agency-location.php:27
+#: includes/taxonomies/class-taxonomy-agency-location.php:37
+#: includes/taxonomies/class-taxonomy-agent-location.php:27
+#: includes/taxonomies/class-taxonomy-agent-location.php:37
+#: includes/taxonomies/class-taxonomy-property-location.php:27
+#: includes/taxonomies/class-taxonomy-property-location.php:37
+msgid "Locations"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-agency-location.php:29
+#: includes/taxonomies/class-taxonomy-agent-location.php:29
+#: includes/taxonomies/class-taxonomy-property-location.php:29
+msgid "Search Locations"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-agency-location.php:31
+#: includes/taxonomies/class-taxonomy-agent-location.php:31
+#: includes/taxonomies/class-taxonomy-property-location.php:31
+msgid "Parent Location"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-agency-location.php:32
+#: includes/taxonomies/class-taxonomy-agent-location.php:32
+#: includes/taxonomies/class-taxonomy-property-location.php:32
+msgid "Parent Location:"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-agency-location.php:36
+#: includes/taxonomies/class-taxonomy-agent-location.php:36
+#: includes/taxonomies/class-taxonomy-property-location.php:36
+msgid "New Location"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-agency-location.php:42
+msgctxt "Agency location slug - resave permalinks after changing this"
+msgid "agency-location"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-agent-category.php:42
+msgctxt "Agent category slug - resave permalinks after changing this"
+msgid "agent-category"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-agent-location.php:42
+msgctxt "Agent location slug - resave permalinks after changing this"
+msgid "agent-location"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-amenity.php:28
+msgid "Amenity"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-amenity.php:29
+msgid "Search Amenities"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-amenity.php:30
+msgid "All Amenities"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-amenity.php:31
+msgid "Parent Amenity"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-amenity.php:32
+msgid "Parent Amenity:"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-amenity.php:36
+msgid "New Amenity"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-amenity.php:42
+msgctxt "Property amenity slug - resave permalinks after changing this"
+msgid "property-amenity"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-label.php:36
+#: includes/taxonomies/class-taxonomy-property-label.php:46
+msgid "Labels"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-label.php:38
+msgid "Search Labels"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-label.php:39
+msgid "All Labels"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-label.php:40
+msgid "Parent Label"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-label.php:41
+msgid "Parent Label:"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-label.php:45
+msgid "New Label"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-label.php:51
+msgctxt "Labels slug - resave permalinks after changing this"
+msgid "property-label"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-label.php:72
+#: includes/taxonomies/class-taxonomy-property-label.php:87
+#: includes/taxonomies/class-taxonomy-property-status.php:72
+#: includes/taxonomies/class-taxonomy-property-status.php:92
+msgid "Background Color"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-label.php:76
+#: includes/taxonomies/class-taxonomy-property-label.php:93
+#: includes/taxonomies/class-taxonomy-property-status.php:76
+#: includes/taxonomies/class-taxonomy-property-status.php:98
+msgid "Text Color"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-label.php:121
+#: includes/taxonomies/class-taxonomy-property-status.php:144
+#: includes/taxonomies/class-taxonomy-property-type.php:70
+#: includes/taxonomies/class-taxonomy-property-type.php:80
+#: includes/taxonomies/class-taxonomy-property-type.php:105
+msgid "Color"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-location.php:42
+msgctxt "Property location slug - resave permalinks after changing this"
+msgid "property-location"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-materials.php:27
+#: includes/taxonomies/class-taxonomy-property-materials.php:37
+#: templates/single-property/materials.php:16
+msgid "Materials"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-materials.php:29
+msgid "Search Materials"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-materials.php:30
+msgid "All Materials"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-materials.php:31
+msgid "Parent Material"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-materials.php:32
+msgid "Parent Material:"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-materials.php:36
+msgid "New Material"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-materials.php:42
+msgctxt "Materials slug - resave permalinks after changing this"
+msgid "property-material"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-status.php:36
+#: includes/taxonomies/class-taxonomy-property-status.php:46
+msgid "Statuses"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-status.php:38
+msgid "Search Statuses"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-status.php:39
+msgid "All Statuses"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-status.php:40
+msgid "Parent Status"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-status.php:41
+msgid "Parent Status:"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-status.php:45
+msgid "New Status"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-status.php:51
+msgctxt "Statuses slug - resave permalinks after changing this"
+msgid "property-status"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-status.php:80
+#: includes/taxonomies/class-taxonomy-property-status.php:104
+#: includes/taxonomies/class-taxonomy-property-status.php:147
+msgid "Order"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-type.php:35
+#: includes/taxonomies/class-taxonomy-property-type.php:45
+msgid "Types"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-type.php:37
+msgid "Search Types"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-type.php:38
+msgid "All Types"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-type.php:39
+msgid "Parent Type"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-type.php:40
+msgid "Parent Type:"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-type.php:44
+msgid "New Type"
+msgstr ""
+
+#: includes/taxonomies/class-taxonomy-property-type.php:50
+msgctxt "Property type slug - resave permalinks after changing this"
+msgid "property-type"
+msgstr ""
+
+#: includes/widgets/class-widget-agency-filter.php:24
+msgid "Agency Filter"
+msgstr ""
+
+#: includes/widgets/class-widget-agency-filter.php:26
+msgid "Filter for filtering agencies."
+msgstr ""
+
+#: includes/widgets/class-widget-agency-filter.php:83
+#: includes/widgets/class-widget-agent-filter.php:83
+#: includes/widgets/class-widget-property-filter.php:83
+#: includes/widgets/class-widget-property-save-search-form.php:80
+msgid "Button text"
+msgstr ""
+
+#: includes/widgets/class-widget-agency-filter.php:89
+#: includes/widgets/class-widget-agent-filter.php:89
+#: includes/widgets/class-widget-property-filter.php:89
+msgid "Filter Fields"
+msgstr ""
+
+#: includes/widgets/class-widget-agent-filter.php:24
+msgid "Agent Filter"
+msgstr ""
+
+#: includes/widgets/class-widget-agent-filter.php:26
+msgid "Filter for filtering agents."
+msgstr ""
+
+#: includes/widgets/class-widget-property-filter.php:24
+msgid "Property Filter"
+msgstr ""
+
+#: includes/widgets/class-widget-property-filter.php:26
+msgid "Filter for filtering properties."
+msgstr ""
+
+#: includes/widgets/class-widget-property-filter.php:124
+#: includes/widgets/class-widget-property-filter.php:129
+msgid "Show Advance Filter Fields"
+msgstr ""
+
+#: includes/widgets/class-widget-property-filter.php:134
+msgid "Advance Filter Fields"
+msgstr ""
+
+#: includes/widgets/class-widget-property-save-search-form.php:24
+msgid "Property Save Search Form"
+msgstr ""
+
+#: includes/widgets/class-widget-property-save-search-form.php:26
+msgid "Property save search form for add email alert."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: libraries/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libraries/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libraries/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libraries/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:393
+#: libraries/class-tgm-plugin-activation.php:920
+#: libraries/class-tgm-plugin-activation.php:2626
+#: libraries/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:394
+#: libraries/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:395
+#: libraries/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: libraries/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:1027
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:1027
+#: libraries/class-tgm-plugin-activation.php:1030
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:1030
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:1214
+#: libraries/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: libraries/class-tgm-plugin-activation.php:2075
+msgid "TGMPA v%s"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: libraries/class-tgm-plugin-activation.php:2435
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: libraries/class-tgm-plugin-activation.php:2481
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: libraries/class-tgm-plugin-activation.php:2485
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: libraries/class-tgm-plugin-activation.php:2489
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: libraries/class-tgm-plugin-activation.php:2493
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libraries/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: libraries/class-tgm-plugin-activation.php:2696
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: libraries/class-tgm-plugin-activation.php:2701
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: libraries/class-tgm-plugin-activation.php:2707
+msgid "Activate %2$s"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: libraries/class-tgm-plugin-activation.php:3591
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: libraries/class-tgm-plugin-activation.php:3594
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:3596
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3600
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3602
+#: libraries/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3602
+#: libraries/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: libraries/class-tgm-plugin-activation.php:3605
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3608
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:3610
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: libraries/class-tgm-plugin-activation.php:3613
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: libraries/cmb2/cmb2-tabs/example.php:9
+#: libraries/cmb2/cmb2-tabs/example.php:109
+msgid "Example tabs"
+msgstr ""
+
+#: libraries/cmb2/cmb2-tabs/example.php:25
+#: libraries/cmb2/cmb2-tabs/example.php:131
+msgid "Tab 1"
+msgstr ""
+
+#: libraries/cmb2/cmb2-tabs/example.php:33
+#: libraries/cmb2/cmb2-tabs/example.php:57
+#: libraries/cmb2/cmb2-tabs/example.php:139
+#: libraries/cmb2/cmb2-tabs/example.php:163
+msgid "Subtitle"
+msgstr ""
+
+#: libraries/cmb2/cmb2-tabs/example.php:38
+#: libraries/cmb2/cmb2-tabs/example.php:144
+msgid "Background image"
+msgstr ""
+
+#: libraries/cmb2/cmb2-tabs/example.php:49
+#: libraries/cmb2/cmb2-tabs/example.php:155
+msgid "Tab 2"
+msgstr ""
+
+#: libraries/cmb2/cmb2-tabs/example.php:65
+#: libraries/cmb2/cmb2-tabs/example.php:171
+msgid "Review {#}"
+msgstr ""
+
+#: libraries/cmb2/cmb2-tabs/example.php:66
+#: libraries/cmb2/cmb2-tabs/example.php:172
+msgid "Add review"
+msgstr ""
+
+#: libraries/cmb2/cmb2-tabs/example.php:67
+#: libraries/cmb2/cmb2-tabs/example.php:173
+msgid "Remove review"
+msgstr ""
+
+#: libraries/cmb2/cmb2-tabs/example.php:72
+#: libraries/cmb2/cmb2-tabs/example.php:178
+msgid "Author name"
+msgstr ""
+
+#: libraries/cmb2/cmb2-tabs/example.php:77
+#: libraries/cmb2/cmb2-tabs/example.php:183
+msgid "Author avatar"
+msgstr ""
+
+#: libraries/cmb2/cmb2-tabs/example.php:85
+#: libraries/cmb2/cmb2-tabs/example.php:191
+msgid "Comment"
+msgstr ""
+
+#: libraries/cmb2/cmb2_field_ajax_search/cmb2-field-ajax-search.php:238
+msgid "Error : Unauthorized action"
+msgstr ""
+
+#: libraries/cmb2/cmb2_field_ajax_search/cmb2-field-ajax-search.php:244
+msgid "Error : Wrong request parameters"
+msgstr ""
+
+#: libraries/cmb2/cmb2_field_attached_user/cmb2-field-type-attached_user.php:37
+msgid "User email: "
+msgstr ""
+
+#: libraries/cmb2/cmb2_field_file/cmb2-field-type-file.php:63
+msgid "Upload Files"
+msgstr ""
+
+#: libraries/cmb2/cmb2_field_file/cmb2-field-type-file.php:65
+msgid "Upload File"
+msgstr ""
+
+#: libraries/cmb2/cmb2_field_map/cmb-field-map.php:30
+msgid "Enter search e.g. Lincoln Park"
+msgstr ""
+
+#: libraries/cmb2/cmb2_field_profile_url/cmb2-field-type-profile_url.php:52
+#: templates/loop/property/properties-save-search-form.php:46
+msgid "Save"
+msgstr ""
+
+#: libraries/cmb2/cmb2_field_profile_url/cmb2-field-type-profile_url.php:73
+msgid "Please login to edit slug."
+msgstr ""
+
+#: libraries/cmb2/cmb2_field_profile_url/cmb2-field-type-profile_url.php:78
+msgid "Slug is empty."
+msgstr ""
+
+#: libraries/cmb2/cmb2_field_profile_url/cmb2-field-type-profile_url.php:129
+msgid "Can not change slug."
+msgstr ""
+
+#: libraries/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: libraries/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:77
+msgid "More information about %s"
+msgstr ""
+
+#: libraries/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: libraries/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:213
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: libraries/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:215
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: libraries/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:217
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: libraries/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:223
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: libraries/plugin-update-checker/Puc/v4p9/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#: templates/agents-styles/inner-list-team.php:31
+#: templates/properties-styles/inner-list-favorite.php:77
+#: templates/submission/my-properties.php:163
+#: templates/submission/my-properties.php:164
+msgid "Remove"
+msgstr ""
+
+#: templates/content-single-agent.php:28
+msgid "Agent Description"
+msgstr ""
+
+#: templates/content-single-agent.php:35
+msgid "Agent Properties"
+msgstr ""
+
+#: templates/loop/agency/archive-inner.php:38
+#: templates/loop/agency/pagination.php:11
+#: templates/loop/agent/archive-inner.php:38
+#: templates/loop/agent/pagination.php:11
+#: templates/loop/property/archive-inner.php:38
+#: templates/loop/property/pagination.php:11
+#: templates/misc/agency-members.php:37
+#: templates/misc/my-saved-searches.php:151
+#: templates/misc/property-favorites.php:102 templates/single-agency.php:16
+#: templates/single-agent.php:16 templates/single-property.php:16
+msgid "Previous page"
+msgstr ""
+
+#: templates/loop/agency/archive-inner.php:39
+#: templates/loop/agency/pagination.php:12
+#: templates/loop/agent/archive-inner.php:39
+#: templates/loop/agent/pagination.php:12
+#: templates/loop/property/archive-inner.php:39
+#: templates/loop/property/pagination.php:12
+#: templates/misc/agency-members.php:38
+#: templates/misc/my-saved-searches.php:152
+#: templates/misc/property-favorites.php:103 templates/single-agency.php:17
+#: templates/single-agent.php:17 templates/single-property.php:17
+msgid "Next page"
+msgstr ""
+
+#: templates/loop/agency/archive-inner.php:47
+msgid "No agency found."
+msgstr ""
+
+#: templates/loop/agency/orderby.php:20 templates/loop/agent/orderby.php:20
+#: templates/loop/property/orderby.php:20
+msgid "Sort by:"
+msgstr ""
+
+#. translators: %d: total results
+
+#: templates/loop/agency/results-count.php:11
+#: templates/loop/agent/results-count.php:11
+#: templates/loop/property/results-count.php:11
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: first result 2: last result 3: total results
+
+#: templates/loop/agency/results-count.php:16
+#: templates/loop/agent/results-count.php:16
+#: templates/loop/property/results-count.php:16
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing <span class=\"first\">%1$d</span> &ndash; <span class=\"last\">%2$d</span> of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/loop/agent/archive-inner.php:47
+msgid "No agent found."
+msgstr ""
+
+#: templates/loop/property/archive-inner.php:45
+msgid "No property found."
+msgstr ""
+
+#: templates/loop/property/orderby.php:21
+msgid "Sort by"
+msgstr ""
+
+#: templates/loop/property/properties-save-search-form.php:12
+msgid "Save Search"
+msgstr ""
+
+#: templates/loop/property/results-filters.php:9
+msgid "Your Selected"
+msgstr ""
+
+#: templates/loop/property/results-filters.php:16
+msgid "Clear all"
+msgstr ""
+
+#: templates/misc/agency-members.php:45
+msgid "No agents found."
+msgstr ""
+
+#: templates/misc/agency-members.php:50
+msgid "Add Member"
+msgstr ""
+
+#: templates/misc/agency-members.php:56
+msgid "Search.."
+msgstr ""
+
+#: templates/misc/agency-members.php:59
+msgid "Add Agent"
+msgstr ""
+
+#: templates/misc/delete-profile-form.php:11
+msgid "Are you sure! You want to delete your profile."
+msgstr ""
+
+#: templates/misc/delete-profile-form.php:12
+msgid "This can't be undone!"
+msgstr ""
+
+#: templates/misc/delete-profile-form.php:17
+msgid "Please enter your login Password to confirm:"
+msgstr ""
+
+#: templates/misc/delete-profile-form.php:26
+msgid "Delete Profile"
+msgstr ""
+
+#: templates/misc/login.php:13
+msgid "Username Or Email"
+msgstr ""
+
+#: templates/misc/login.php:15
+msgid "Enter username or email"
+msgstr ""
+
+#: templates/misc/login.php:18 templates/misc/register.php:31
+msgid "Password"
+msgstr ""
+
+#: templates/misc/login.php:20 templates/misc/login.php:53
+#: templates/misc/register.php:33 templates/misc/register.php:38
+msgid "Enter Password"
+msgstr ""
+
+#: templates/misc/login.php:26
+msgid "Keep me signed in"
+msgstr ""
+
+#: templates/misc/login.php:32
+msgid "Forgot Password"
+msgstr ""
+
+#: templates/misc/login.php:32
+msgid "Lost Your Password?"
+msgstr ""
+
+#: templates/misc/login.php:37
+msgid "Login"
+msgstr ""
+
+#: templates/misc/login.php:51
+msgid "Username or E-mail"
+msgstr ""
+
+#: templates/misc/login.php:60
+msgid "Get New Password"
+msgstr ""
+
+#: templates/misc/login.php:61
+msgid "Cancel"
+msgstr ""
+
+#: templates/misc/login.php:64
+msgid "Back To Login"
+msgstr ""
+
+#: templates/misc/my-saved-searches.php:9
+msgid "Property Saved Searches"
+msgstr ""
+
+#: templates/misc/my-saved-searches.php:15
+#: templates/misc/property-favorites.php:12
+#: templates/submission/my-properties.php:20
+msgid "Search ..."
+msgstr ""
+
+#: templates/misc/my-saved-searches.php:38
+#: templates/misc/property-favorites.php:35
+#: templates/submission/my-properties.php:38
+msgid "Sort by: "
+msgstr ""
+
+#: templates/misc/my-saved-searches.php:60
+msgid "Number Properties"
+msgstr ""
+
+#: templates/misc/my-saved-searches.php:61
+msgid "Times"
+msgstr ""
+
+#: templates/misc/my-saved-searches.php:62
+msgid "Actions"
+msgstr ""
+
+#: templates/misc/my-saved-searches.php:128
+msgid "Properties found %d"
+msgstr ""
+
+#: templates/misc/my-saved-searches.php:157
+msgid "No property alert found."
+msgstr ""
+
+#: templates/misc/not-allowed.php:8
+msgid "You are not allowed to access this page."
+msgstr ""
+
+#: templates/misc/password-form.php:9
+msgid "Old password"
+msgstr ""
+
+#: templates/misc/password-form.php:14
+msgid "New password"
+msgstr ""
+
+#: templates/misc/password-form.php:19
+msgid "Retype password"
+msgstr ""
+
+#: templates/misc/password-form.php:23
+msgid "Change Password"
+msgstr ""
+
+#: templates/misc/profile-form-normal.php:12 templates/misc/profile-form.php:7
+msgid "Edit Profile"
+msgstr ""
+
+#: templates/misc/profile-form-normal.php:36
+msgid "Change Avatar"
+msgstr ""
+
+#: templates/misc/profile-form-normal.php:47
+#: templates/misc/profile-form-normal.php:49
+#: templates/misc/uploaded-file-html.php:20
+#: templates/misc/uploaded-file-html.php:22
+msgid "remove"
+msgstr ""
+
+#: templates/misc/profile-form-normal.php:61
+msgid "Upload Image"
+msgstr ""
+
+#: templates/misc/profile-form-normal.php:68
+msgid "First name"
+msgstr ""
+
+#: templates/misc/profile-form-normal.php:72
+msgid "Last name"
+msgstr ""
+
+#: templates/misc/profile-form-normal.php:92
+msgid "Biographical Info"
+msgstr ""
+
+#: templates/misc/profile-form.php:32
+msgid "Save Profile"
+msgstr ""
+
+#: templates/misc/property-compare.php:24
+msgid "Basic Info"
+msgstr ""
+
+#: templates/misc/property-compare.php:79
+#: templates/misc/property-favorites.php:110
+msgid "No properties found."
+msgstr ""
+
+#: templates/misc/register.php:14
+msgid "User"
+msgstr ""
+
+#: templates/misc/register.php:21
+msgid "Username"
+msgstr ""
+
+#: templates/misc/register.php:23
+msgid "Enter Username"
+msgstr ""
+
+#: templates/misc/register.php:28
+msgid "Enter Email"
+msgstr ""
+
+#: templates/misc/register.php:36
+msgid "Confirm Password"
+msgstr ""
+
+#: templates/misc/register.php:49
+msgid "Register now"
+msgstr ""
+
+#: templates/misc/user-dashboard.php:23
+msgid "Dashboard"
+msgstr ""
+
+#: templates/misc/user-dashboard.php:28
+msgid "Posted Properties"
+msgstr ""
+
+#: templates/misc/user-dashboard.php:34
+msgid "Favorites"
+msgstr ""
+
+#: templates/misc/user-dashboard.php:85 templates/misc/user-reviews.php:69
+msgid "No reviews found."
+msgstr ""
+
+#: templates/misc/user-review-item.php:18 templates/single-agency/review.php:18
+#: templates/single-agent/review.php:18 templates/single-property/review.php:18
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: templates/misc/user-review-item.php:29 templates/single-agency/review.php:29
+#: templates/single-agent/review.php:29 templates/single-property/review.php:29
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: templates/properties-styles/inner-list-favorite.php:43
+#: templates/properties-styles/inner-list.php:43
+msgid "%s ago"
+msgstr ""
+
+#: templates/properties-styles/inner-list-favorite.php:49
+#: templates/properties-styles/inner-list.php:49
+msgid "%d Home Area"
+msgstr ""
+
+#: templates/properties-styles/inner-list-favorite.php:52
+#: templates/properties-styles/inner-list.php:52
+msgid "%d Beds"
+msgstr ""
+
+#: templates/properties-styles/inner-list-favorite.php:55
+#: templates/properties-styles/inner-list.php:55
+msgid "%d Baths"
+msgstr ""
+
+#: templates/single-agency/contact-form.php:20
+#: templates/single-agent/contact-form.php:20
+#: templates/single-property/contact-form.php:35
+msgid "Contact %s"
+msgstr ""
+
+#: templates/single-agency/contact-form.php:43
+#: templates/single-agent/contact-form.php:43
+#: templates/single-property/contact-form.php:58
+msgid "Message"
+msgstr ""
+
+#: templates/single-agency/contact-form.php:53
+#: templates/single-agent/contact-form.php:53
+#: templates/single-property/contact-form.php:68
+msgid "Send Message"
+msgstr ""
+
+#: templates/single-agency/reviews.php:34 templates/single-agent/reviews.php:34
+#: templates/single-property/reviews.php:34
+msgid "There are no reviews yet."
+msgstr ""
+
+#: templates/single-agency/reviews.php:43 templates/single-agent/reviews.php:43
+#: templates/single-property/reviews.php:43
+msgid "Add a review"
+msgstr ""
+
+#: templates/single-agency/reviews.php:43 templates/single-agent/reviews.php:43
+#: templates/single-property/reviews.php:43
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: templates/single-agency/reviews.php:44 templates/single-agent/reviews.php:44
+#: templates/single-property/reviews.php:44
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: templates/single-agency/reviews.php:49 templates/single-agent/reviews.php:49
+#: templates/single-property/reviews.php:49
+msgid "Your Name"
+msgstr ""
+
+#: templates/single-agency/reviews.php:51 templates/single-agent/reviews.php:51
+#: templates/single-property/reviews.php:51
+msgid "your@mail.com"
+msgstr ""
+
+#: templates/single-agency/reviews.php:53 templates/single-agent/reviews.php:53
+#: templates/single-property/reviews.php:53
+msgid "Submit Review"
+msgstr ""
+
+#: templates/single-agency/reviews.php:58 templates/single-agent/reviews.php:58
+#: templates/single-property/reviews.php:58
+msgid "You must be <a href=\"\">logged in</a> to post a review."
+msgstr ""
+
+#: templates/single-agency/reviews.php:60 templates/single-agent/reviews.php:60
+#: templates/single-property/reviews.php:60
+msgid "Review"
+msgstr ""
+
+#: templates/single-agency/reviews.php:60 templates/single-agent/reviews.php:60
+#: templates/single-property/reviews.php:60
+msgid "Write Comment"
+msgstr ""
+
+#: templates/single-agency.php:18 templates/single-agent.php:18
+#: templates/single-property.php:18
+msgid "Page"
+msgstr ""
+
+#: templates/single-property/agent-detail.php:33
+msgid "Agent Info"
+msgstr ""
+
+#: templates/single-property/agent-detail.php:37
+msgid "Name :"
+msgstr ""
+
+#: templates/single-property/agent-detail.php:43
+msgid "Email :"
+msgstr ""
+
+#: templates/single-property/agent-detail.php:49
+msgid "Phone :"
+msgstr ""
+
+#: templates/single-property/agent-detail.php:55
+msgid "Position :"
+msgstr ""
+
+#: templates/single-property/description.php:11
+msgid "Overview"
+msgstr ""
+
+#: templates/single-property/detail.php:11
+msgid "Details"
+msgstr ""
+
+#: templates/single-property/detail.php:15
+msgid "Property ID : "
+msgstr ""
+
+#: templates/single-property/detail.php:21
+msgid "Lot Area : "
+msgstr ""
+
+#: templates/single-property/detail.php:27
+msgid "Home Area : "
+msgstr ""
+
+#: templates/single-property/detail.php:33
+msgid "Lot dimensions : "
+msgstr ""
+
+#: templates/single-property/detail.php:39
+msgid "Rooms : "
+msgstr ""
+
+#: templates/single-property/detail.php:45
+msgid "Beds : "
+msgstr ""
+
+#: templates/single-property/detail.php:51
+msgid "Baths : "
+msgstr ""
+
+#: templates/single-property/detail.php:57
+msgid "Garages : "
+msgstr ""
+
+#: templates/single-property/detail.php:63
+msgid "Price : "
+msgstr ""
+
+#: templates/single-property/detail.php:70
+msgid "Year built : "
+msgstr ""
+
+#: templates/single-property/energy.php:23
+msgid "Energy"
+msgstr ""
+
+#: templates/single-property/energy.php:37
+msgid "kWh/m²a"
+msgstr ""
+
+#: templates/single-property/energy.php:41
+msgid "%s Your energy class is %s"
+msgstr ""
+
+#: templates/single-property/floor-plans.php:26
+msgid "Rooms:"
+msgstr ""
+
+#: templates/single-property/floor-plans.php:29
+msgid "Baths:"
+msgstr ""
+
+#: templates/single-property/floor-plans.php:32
+msgid "Size:"
+msgstr ""
+
+#: templates/single-property/header.php:30
+msgid "posted %s ago"
+msgstr ""
+
+#: templates/single-property/nearby_yelp-content.php:38
+msgid "km"
+msgstr ""
+
+#: templates/single-property/nearby_yelp-content.php:41
+msgid "miles"
+msgstr ""
+
+#: templates/single-property/related.php:53
+msgid "Related Properties"
+msgstr ""
+
+#: templates/single-property/stats_graph.php:3
+msgid "Page Views"
+msgstr ""
+
+#: templates/single-property/subproperties.php:22
+msgid "Subproperties"
+msgstr ""
+
+#: templates/single-property/valuation.php:13
+msgid "%"
+msgstr ""
+
+#: templates/single-property/video.php:14
+msgid "Video"
+msgstr ""
+
+#: templates/single-property/walk_score-content.php:26
+#: templates/single-property/walk_score-content.php:40
+#: templates/single-property/walk_score-content.php:54
+msgid "View more"
+msgstr ""
+
+#: templates/single-property/walk_score-content.php:36
+msgid "Transit Score"
+msgstr ""
+
+#: templates/single-property/walk_score-content.php:50
+msgid "Bike Score"
+msgstr ""
+
+#: templates/single-property/walk_score-content.php:62
+msgid "An error occurred while fetching walk scores."
+msgstr ""
+
+#: templates/submission/my-properties.php:108
+msgid "Urgent"
+msgstr ""
+
+#: templates/submission/my-properties.php:127
+msgid "Created: "
+msgstr ""
+
+#: templates/submission/my-properties.php:151
+msgid "View"
+msgstr ""
+
+#: templates/submission/my-properties.php:185
+msgid "You don't have any properties, yet. Start by creating new one."
+msgstr ""
+
+#: templates/submission/property-submit-done.php:13
+msgid "Property listed successfully. To view your listing <a href=\"%s\">click here</a>."
+msgstr ""
+
+#: templates/submission/property-submit-done.php:16
+msgid "Property submitted successfully. Your listing will be visible once approved."
+msgstr ""
+
+#: templates/submission/property-submit-preview.php:27
+msgid "Submit Property"
+msgstr ""
+
+#: templates/widgets/filter-fields/distance.php:16
+msgid "Radius"
+msgstr ""
+
+#: templates/widgets/filter-fields/distance.php:17
+msgid "%s: <span class=\"text-distance\">%s</span> %s"
+msgstr ""
+
+#: templates/widgets/filter-fields/min_max_text.php:19
+msgid "Min %s"
+msgstr ""
+
+#: templates/widgets/filter-fields/min_max_text.php:24
+msgid "Max %s"
+msgstr ""
+
+#: templates/widgets/filter-fields/number_select.php:6
+msgid "%s : Any"
+msgstr ""
+
+#: templates/widgets/filter-fields/price_range_slider.php:21
+#: templates/widgets/filter-fields/range_slider.php:20
+msgid "From"
+msgstr ""
+
+#: templates/widgets/filter-fields/price_range_slider.php:23
+#: templates/widgets/filter-fields/range_slider.php:22
+msgid "to"
+msgstr ""
+
+#: templates/widgets/filter-fields/regions_select.php:95
+#: templates/widgets/filter-fields/select.php:24
+#: templates/widgets/filter-fields/tax_select.php:11
+msgid "Filter by %s"
+msgstr ""
+
+#: templates/widgets/filter-fields/text_date.php:26
+msgid "Form"
+msgstr ""
+
+#: templates/widgets/filter-fields/text_date.php:34
+msgid "To"
+msgstr ""
+
+#: templates/widgets/property-filter.php:38
+msgid "Advanced Search"
+msgstr ""
+
+#: wp-realestate.php:166
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgid_plural "Expired <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-realestate.php:177
+msgid "Preview <span class=\"count\">(%s)</span>"
+msgid_plural "Preview <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-realestate.php:183
+msgctxt "post status"
+msgid "Pending Approval"
+msgstr ""
+
+#: wp-realestate.php:189
+msgid "Pending Approve <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Approve <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+#. Plugin Name of the plugin/theme
+msgid "WP RealEstate"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://apusthemes.com/wp-realestate/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The latest plugins Real Estate you want. Completely all features, easy customize and override layout, functions. Supported global payment, build market, single, list property, single agent...etc. All fields are defined dynamic, they will help you can build any kind of Real Estate website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Habq"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://apusthemes.com/"
+msgstr ""

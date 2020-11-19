@@ -1,0 +1,6024 @@
+# Copyright (C) 2016 ApusTheme
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Homeo 1.1.12\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/homeo\n"
+"POT-Creation-Date: 2020-08-21 08:21:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:41
+msgid "Sorry About This, But it Seems We Are Unable to Find the Page You Are Looking for."
+msgstr ""
+
+#: 404.php:52
+msgid "Unfortunately the page you were looking for could not be found. It may be temporarily unavailable, moved or no longer exist. Check the Url you entered for any mistakes and try again."
+msgstr ""
+
+#: 404.php:59
+msgid "Back to Home"
+msgstr ""
+
+#: comments.php:25 template-posts/single/inner.php:37
+#: template-properties/single-property/reviews.php:20
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:25 template-posts/single/inner.php:37
+#: template-properties/single-property/reviews.php:20
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:25 template-posts/single/inner.php:37
+#: template-properties/single-property/reviews.php:20
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:38
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:44
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:46
+msgid "Comment"
+msgstr ""
+
+#: comments.php:47
+msgid "Write Your Comment"
+msgstr ""
+
+#: comments.php:53 comments.php:54
+#: inc/vendors/elementor/widgets/testimonials.php:59
+#: template-properties/single-agency/reviews.php:55
+#: template-properties/single-agent/reviews.php:55
+#: template-properties/single-property/reviews.php:54
+#: widgets/contact-form.php:38 widgets/property-contact-form.php:81
+#: woocommerce/single-product-reviews.php:68
+msgid "Name"
+msgstr ""
+
+#: comments.php:57 comments.php:58
+#: template-properties/misc/profile-form-normal.php:77
+#: template-properties/misc/register.php:16
+#: template-properties/single-agency/reviews.php:57
+#: template-properties/single-agent/reviews.php:57
+#: template-properties/single-property/reviews.php:56
+#: woocommerce/single-product-reviews.php:70
+msgid "Email"
+msgstr ""
+
+#: comments.php:61 template-properties/misc/profile-form-normal.php:91
+msgid "Website"
+msgstr ""
+
+#: comments.php:65
+msgid "Submit Comment"
+msgstr ""
+
+#: content-search.php:57 template-posts/loop/inner-grid.php:54
+#: template-posts/loop/inner-list.php:57
+msgid "Read More"
+msgstr ""
+
+#: footer.php:28
+msgid "&copy; %s - Homeo. All Rights Reserved. <br/> Powered by <a href=\"//themeforest.net/user/apustheme\">ApusTheme</a>"
+msgstr ""
+
+#: functions.php:82
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:83
+msgid "Agent Account Menu"
+msgstr ""
+
+#: functions.php:84
+msgid "Agency Account Menu"
+msgstr ""
+
+#: functions.php:85
+msgid "User Account Menu"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+
+#: functions.php:153
+msgctxt "Nunito font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:257
+msgid "Days"
+msgstr ""
+
+#: functions.php:258
+msgid "Hrs"
+msgstr ""
+
+#: functions.php:259
+msgid "Mins"
+msgstr ""
+
+#: functions.php:260
+msgid "Secs"
+msgstr ""
+
+#: functions.php:285
+msgid "Previous"
+msgstr ""
+
+#: functions.php:286 template-posts/single/inner.php:91
+msgid "Next"
+msgstr ""
+
+#: functions.php:287 inc/vendors/elementor/widgets/nav_menu.php:55
+msgid "Menu"
+msgstr ""
+
+#: functions.php:368
+msgid "Sidebar Default"
+msgstr ""
+
+#: functions.php:370
+msgid "Add widgets here to appear in your Sidebar."
+msgstr ""
+
+#: functions.php:378
+msgid "Properties filter sidebar"
+msgstr ""
+
+#: functions.php:380 functions.php:390 functions.php:400 functions.php:410
+#: functions.php:421 functions.php:431 functions.php:441 functions.php:451
+#: functions.php:461 functions.php:471 functions.php:481 functions.php:491
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:388
+msgid "Properties filter sidebar fixed"
+msgstr ""
+
+#: functions.php:398
+msgid "Properties filter Top sidebar"
+msgstr ""
+
+#: functions.php:408
+msgid "Properties filter Top Half Map"
+msgstr ""
+
+#: functions.php:419
+msgid "Property single sidebar"
+msgstr ""
+
+#: functions.php:429
+msgid "Agents filter sidebar"
+msgstr ""
+
+#: functions.php:439
+msgid "Agent single sidebar"
+msgstr ""
+
+#: functions.php:449
+msgid "Agencies filter sidebar"
+msgstr ""
+
+#: functions.php:459
+msgid "Agency single sidebar"
+msgstr ""
+
+#: functions.php:469
+msgid "User Profile sidebar"
+msgstr ""
+
+#: functions.php:479
+msgid "Blog sidebar"
+msgstr ""
+
+#: functions.php:489
+msgid "Shop sidebar"
+msgstr ""
+
+#: functions.php:503
+msgid "Apus Framework For Themes"
+msgstr ""
+
+#: functions.php:510
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: functions.php:516 inc/vendors/elementor/widgets/revslider.php:45
+msgid "Revolution Slider"
+msgstr ""
+
+#: functions.php:523
+msgid "Cmb2"
+msgstr ""
+
+#: functions.php:529
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: functions.php:535
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:542
+msgid "Woocommerce"
+msgstr ""
+
+#: functions.php:549
+msgid "WP RealEstate"
+msgstr ""
+
+#: functions.php:556
+msgid "WP RealEstate - WooCommerce Paid Listings"
+msgstr ""
+
+#: functions.php:563
+msgid "WP Private Message"
+msgstr ""
+
+#: functions.php:570
+msgid "One Click Demo Import"
+msgstr ""
+
+#: headers/mobile/offcanvas-menu.php:23
+#: template-properties/submission/property-submit-preview.php:28
+msgid "Submit Property"
+msgstr ""
+
+#: inc/classes/megamenu.php:116 inc/classes/mobilemenu.php:106
+msgid "New"
+msgstr ""
+
+#: inc/classes/megamenu.php:120 inc/classes/mobilemenu.php:110
+msgid "Hot"
+msgstr ""
+
+#: inc/classes/megamenu.php:124 inc/classes/mobilemenu.php:114
+#: inc/vendors/wp-realestate/functions-property-display.php:443
+#: inc/vendors/wp-realestate/functions-property-display.php:462
+#: template-properties/submission/my-properties.php:126
+msgid "Featured"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "Base Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Header and Sidebar Text Color"
+msgstr ""
+
+#: inc/customizer.php:48 inc/customizer.php:64 inc/customizer.php:69
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Header and Sidebar Background Color"
+msgstr ""
+
+#: inc/customizer.php:118 inc/vendors/cmb2/page.php:45
+#: inc/vendors/cmb2/page.php:93 inc/vendors/cmb2/page.php:136
+#: inc/vendors/cmb2/page.php:177 inc/vendors/elementor/widgets/brands.php:93
+#: inc/vendors/elementor/widgets/heading.php:150
+#: inc/vendors/elementor/widgets/mailchimp.php:48
+#: inc/vendors/elementor/widgets/nav_menu.php:68
+#: inc/vendors/elementor/widgets/posts.php:58
+#: inc/vendors/elementor/widgets/posts.php:78
+#: inc/vendors/elementor/widgets/tabs.php:144
+#: inc/vendors/elementor/widgets/testimonials.php:139
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:58
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:78
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:66
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:86
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:121
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:141
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:113
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:133
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:101
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:121
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:176
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:78
+#: inc/vendors/woocommerce/functions-redux-configs.php:40
+#: inc/vendors/wp-realestate/functions-redux-configs.php:99
+#: inc/vendors/wp-realestate/functions-redux-configs.php:193
+#: inc/vendors/wp-realestate/functions-redux-configs.php:450
+#: inc/vendors/wp-realestate/functions-redux-configs.php:603
+#: inc/widgets/custom_menu.php:40 inc/widgets/property-list.php:32
+#: inc/widgets/property-list.php:43
+#: template-properties/misc/my-saved-searches.php:33
+#: template-properties/misc/property-favorites.php:28
+#: template-properties/submission/my-properties.php:30
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:129 inc/vendors/elementor/widgets/brands.php:94
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Yellow"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Pink"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Purple"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Blue"
+msgstr ""
+
+#: inc/functions-frontend.php:7
+msgid "Tags: "
+msgstr ""
+
+#: inc/functions-frontend.php:32 inc/functions-frontend.php:47
+#: inc/vendors/redux-framework/redux-config.php:166
+#: inc/vendors/redux-framework/redux-config.php:282
+msgid "Blog"
+msgstr ""
+
+#: inc/functions-frontend.php:57 inc/functions-frontend.php:138
+#: inc/functions-frontend.php:174 inc/functions-frontend.php:189
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:26
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:26
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:26
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:26
+#: template-properties/content-single-agency.php:35
+#: template-properties/content-single-agent.php:35
+msgid "Properties"
+msgstr ""
+
+#: inc/functions-frontend.php:63 inc/functions-frontend.php:150
+#: inc/functions-frontend.php:194 inc/functions-frontend.php:209
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:26
+msgid "Agencies"
+msgstr ""
+
+#: inc/functions-frontend.php:69 inc/functions-frontend.php:144
+#: inc/functions-frontend.php:214 inc/functions-frontend.php:229
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:26
+#: template-properties/content-single-agency.php:40
+msgid "Agents"
+msgstr ""
+
+#: inc/functions-frontend.php:74 inc/functions-frontend.php:90
+#: inc/functions-frontend.php:235 inc/functions-frontend.php:272
+msgid "Error 404"
+msgstr ""
+
+#: inc/functions-frontend.php:82 inc/functions-frontend.php:264
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: inc/functions-frontend.php:84 inc/functions-frontend.php:266
+msgid "Posts tagged \"%s\""
+msgstr ""
+
+#: inc/functions-frontend.php:103 inc/samples/sample-data.php:10
+msgid "Home"
+msgstr ""
+
+#: inc/functions-frontend.php:270
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/functions-frontend.php:274
+msgid "The Blogs 1"
+msgstr ""
+
+#: inc/functions-frontend.php:300
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/functions-frontend.php:476
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/functions-frontend.php:526
+msgid "%1$s"
+msgstr ""
+
+#: inc/functions-frontend.php:527
+#: template-properties/submission/my-properties.php:185
+#: template-properties/submission/my-properties.php:206
+#: woocommerce/myaccount/my-address.php:47
+msgid "Edit"
+msgstr ""
+
+#: inc/functions-frontend.php:529 inc/functions-frontend.php:533
+msgid " Reply"
+msgstr ""
+
+#: inc/functions-frontend.php:538
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/functions-frontend.php:580 inc/functions-frontend.php:593
+#: template-properties/content-single-agency.php:84
+#: template-properties/content-single-agent.php:72
+#: template-properties/content-single-property-v2.php:134
+#: template-properties/content-single-property-v3.php:140
+#: template-properties/content-single-property-v4.php:138
+#: template-properties/content-single-property-v5.php:260
+#: template-properties/content-single-property.php:138
+msgid "Close"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: inc/plugins/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:393
+#: inc/plugins/class-tgm-plugin-activation.php:917
+#: inc/plugins/class-tgm-plugin-activation.php:2623
+#: inc/plugins/class-tgm-plugin-activation.php:3670
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:394
+#: inc/plugins/class-tgm-plugin-activation.php:3249
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:395
+#: inc/plugins/class-tgm-plugin-activation.php:3042
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: inc/plugins/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1024
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1024
+#: inc/plugins/class-tgm-plugin-activation.php:1027
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1027
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1211
+#: inc/plugins/class-tgm-plugin-activation.php:3038
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: inc/plugins/class-tgm-plugin-activation.php:2072
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2363
+msgid "Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2366
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2382
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2385
+msgid "External Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2388
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2405
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2409
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2411
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:165
+msgid "Active"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2417
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2420
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2423
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: inc/plugins/class-tgm-plugin-activation.php:2432
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: inc/plugins/class-tgm-plugin-activation.php:2478
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/plugins/class-tgm-plugin-activation.php:2482
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/plugins/class-tgm-plugin-activation.php:2486
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/plugins/class-tgm-plugin-activation.php:2490
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2572
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2580
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2588
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2600
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2623
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2637
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2638
+msgid "Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2639
+msgid "Type"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2643
+msgid "Version"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2644
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:108
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:86
+#: template-properties/submission/my-properties.php:106
+#: woocommerce/myaccount/my-orders.php:36
+#: woocommerce/myaccount/my-orders.php:57
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/plugins/class-tgm-plugin-activation.php:2693
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/plugins/class-tgm-plugin-activation.php:2698
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/plugins/class-tgm-plugin-activation.php:2704
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2774
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2807
+msgid "Install"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2813
+#: template-properties/misc/profile-form-normal.php:103
+msgid "Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2816
+msgid "Activate"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2847
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2849
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2890
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2892
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2998
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3024
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3248
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3588
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3591
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3593
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3597
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3599
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3599
+#: inc/plugins/class-tgm-plugin-activation.php:3607
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3599
+#: inc/plugins/class-tgm-plugin-activation.php:3607
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3600
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3602
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3605
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3607
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3608
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3610
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/template-tags.php:18
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:13 inc/vendors/cmb2/page.php:14
+#: inc/vendors/cmb2/page.php:19 inc/vendors/cmb2/page.php:26
+#: inc/vendors/cmb2/page.php:44 inc/vendors/cmb2/page.php:63
+#: inc/vendors/cmb2/page.php:73 inc/vendors/cmb2/page.php:92
+#: inc/vendors/cmb2/page.php:125 inc/vendors/cmb2/page.php:135
+#: inc/vendors/cmb2/page.php:166 inc/vendors/cmb2/page.php:176
+msgid "Global Setting"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:20 inc/vendors/redux-framework/redux-config.php:48
+msgid "1 Column"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:21 inc/vendors/redux-framework/redux-config.php:49
+msgid "2 Columns"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:22 inc/vendors/redux-framework/redux-config.php:50
+msgid "3 Columns"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:23 inc/vendors/redux-framework/redux-config.php:51
+msgid "4 Columns"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:24 inc/vendors/redux-framework/redux-config.php:53
+msgid "6 Columns"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:40
+msgid "Properties Layout"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:46
+#: inc/vendors/wp-realestate/functions-redux-configs.php:100
+msgid "Half Map"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:47
+#: inc/vendors/wp-realestate/functions-redux-configs.php:101
+msgid "Half Map - v2"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:48
+#: inc/vendors/wp-realestate/functions-redux-configs.php:102
+msgid "Half Map - v3"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:49
+#: inc/vendors/wp-realestate/functions-redux-configs.php:103
+msgid "Top Map"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:53
+#: inc/vendors/wp-realestate/functions-redux-configs.php:111
+msgid "Top Content (Elementor Template)"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:61 inc/vendors/cmb2/page.php:123
+#: inc/vendors/cmb2/page.php:164
+msgid "Default Display Mode"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:64 inc/vendors/cmb2/page.php:126
+#: inc/vendors/cmb2/page.php:167 inc/vendors/elementor/widgets/brands.php:80
+#: inc/vendors/elementor/widgets/features_box.php:164
+#: inc/vendors/elementor/widgets/instagram.php:79
+#: inc/vendors/elementor/widgets/posts.php:110
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:105
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:127
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:184
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:196
+#: inc/vendors/woocommerce/functions-redux-configs.php:70
+#: inc/vendors/wp-realestate/functions-redux-configs.php:151
+#: inc/vendors/wp-realestate/functions-redux-configs.php:432
+#: inc/vendors/wp-realestate/functions-redux-configs.php:585
+msgid "Grid"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:65 inc/vendors/cmb2/page.php:127
+#: inc/vendors/cmb2/page.php:168 inc/vendors/elementor/widgets/posts.php:111
+#: inc/vendors/woocommerce/functions-redux-configs.php:71
+#: inc/vendors/wp-realestate/functions-redux-configs.php:152
+#: inc/vendors/wp-realestate/functions-redux-configs.php:433
+#: inc/vendors/wp-realestate/functions-redux-configs.php:586
+msgid "List"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:71
+msgid "Properties grid style"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:74
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:113
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:168
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:180
+msgid "Grid Default"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:75
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:114
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:169
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:181
+msgid "Grid V1"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:76
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:115
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:170
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:182
+msgid "Grid V2"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:77
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:171
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:183
+msgid "Grid V3"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:78
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:172
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:184
+msgid "Grid V4"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:84
+msgid "Grid Listing Columns"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:90 inc/vendors/cmb2/page.php:133
+#: inc/vendors/cmb2/page.php:174
+#: inc/vendors/wp-realestate/functions-redux-configs.php:191
+#: inc/vendors/wp-realestate/functions-redux-configs.php:448
+#: inc/vendors/wp-realestate/functions-redux-configs.php:601
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:94 inc/vendors/cmb2/page.php:137
+#: inc/vendors/cmb2/page.php:178
+#: inc/vendors/wp-realestate/functions-redux-configs.php:194
+#: inc/vendors/wp-realestate/functions-redux-configs.php:451
+#: inc/vendors/wp-realestate/functions-redux-configs.php:604
+msgid "Load More Button"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:95 inc/vendors/cmb2/page.php:138
+#: inc/vendors/cmb2/page.php:179
+#: inc/vendors/wp-realestate/functions-redux-configs.php:195
+#: inc/vendors/wp-realestate/functions-redux-configs.php:452
+#: inc/vendors/wp-realestate/functions-redux-configs.php:605
+msgid "Infinite Scrolling"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:102
+#: inc/vendors/wp-realestate/functions-redux-configs.php:7
+msgid "Properties Settings"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:116
+#: inc/vendors/wp-realestate/functions-redux-configs.php:440
+msgid "Agent Columns"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:118
+msgid "Apply for display mode is grid and simple."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:144
+msgid "Agents Settings"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:157
+#: inc/vendors/wp-realestate/functions-redux-configs.php:593
+msgid "Agency Columns"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:159
+msgid "Apply for display mode is grid."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:185
+msgid "Agencies Settings"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:196
+msgid "Select Layout"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:200
+msgid "Main Content Only"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:201
+#: inc/vendors/woocommerce/functions-redux-configs.php:125
+#: inc/vendors/woocommerce/functions-redux-configs.php:126
+#: inc/vendors/wp-realestate/functions-redux-configs.php:414
+#: inc/vendors/wp-realestate/functions-redux-configs.php:415
+#: inc/vendors/wp-realestate/functions-redux-configs.php:567
+#: inc/vendors/wp-realestate/functions-redux-configs.php:568
+msgid "Left Sidebar - Main Content"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:202
+#: inc/vendors/woocommerce/functions-redux-configs.php:130
+#: inc/vendors/woocommerce/functions-redux-configs.php:131
+#: inc/vendors/wp-realestate/functions-redux-configs.php:419
+#: inc/vendors/wp-realestate/functions-redux-configs.php:420
+#: inc/vendors/wp-realestate/functions-redux-configs.php:572
+#: inc/vendors/wp-realestate/functions-redux-configs.php:573
+msgid "Main Content - Right Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:208
+#: inc/vendors/redux-framework/redux-config.php:233
+#: inc/vendors/redux-framework/redux-config.php:313
+#: inc/vendors/woocommerce/functions-redux-configs.php:109
+#: inc/vendors/woocommerce/functions-redux-configs.php:232
+#: inc/vendors/wp-realestate/functions-redux-configs.php:90
+#: inc/vendors/wp-realestate/functions-redux-configs.php:220
+#: inc/vendors/wp-realestate/functions-redux-configs.php:398
+#: inc/vendors/wp-realestate/functions-redux-configs.php:475
+#: inc/vendors/wp-realestate/functions-redux-configs.php:551
+#: inc/vendors/wp-realestate/functions-redux-configs.php:627
+msgid "Is Full Width?"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:211 inc/vendors/cmb2/page.php:232
+#: inc/vendors/cmb2/page.php:272 inc/vendors/cmb2/page.php:283
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:127
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:192
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:207
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:214
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:229
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:271
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:286
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:109
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:121
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:283
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:298
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:78
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:134
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:177
+msgid "No"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:212 inc/vendors/cmb2/page.php:233
+#: inc/vendors/cmb2/page.php:273 inc/vendors/cmb2/page.php:284
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:125
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:191
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:206
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:213
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:228
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:270
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:285
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:108
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:120
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:282
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:297
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:77
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:133
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:176
+msgid "Yes"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:218
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:224
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:230
+msgid "Show Breadcrumb?"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:240
+msgid "Breadcrumb Background Color"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:245
+msgid "Breadcrumb Background Image"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:250
+msgid "Breadcrumb Style"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:252
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:163
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:65
+#: inc/vendors/redux-framework/redux-config.php:193
+#: inc/vendors/wp-realestate/functions-redux-configs.php:34
+#: inc/vendors/wp-realestate/functions-redux-configs.php:377
+#: inc/vendors/wp-realestate/functions-redux-configs.php:530
+msgid "Horizontal"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:253
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:164
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:66
+#: inc/vendors/redux-framework/redux-config.php:194
+#: inc/vendors/wp-realestate/functions-redux-configs.php:35
+#: inc/vendors/wp-realestate/functions-redux-configs.php:378
+#: inc/vendors/wp-realestate/functions-redux-configs.php:531
+msgid "Vertical"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:261
+#: inc/vendors/redux-framework/redux-config.php:98
+msgid "Header Layout Type"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:262 inc/vendors/cmb2/page.php:270
+#: inc/vendors/redux-framework/redux-config.php:99
+msgid "Choose a header for your website."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:269
+msgid "Header Transparent"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:280
+msgid "Header Fixed Top"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:281
+msgid "Choose a header position"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:291
+#: inc/vendors/redux-framework/redux-config.php:149
+msgid "Footer Layout Type"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:292
+#: inc/vendors/redux-framework/redux-config.php:150
+msgid "Choose a footer for your website."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:299
+msgid "Extra Class"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:300
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:306
+msgid "Display Settings"
+msgstr ""
+
+#: inc/vendors/elementor/functions.php:33
+msgid "Homeo Elements"
+msgstr ""
+
+#: inc/vendors/elementor/functions.php:41
+msgid "Homeo Header Elements"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:16
+msgid "Apus Header Logo"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:28
+#: inc/vendors/elementor/header-widgets/primary_menu.php:28
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:25
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:26
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:26
+#: inc/vendors/elementor/widgets/achievements.php:92
+#: inc/vendors/elementor/widgets/banner.php:95
+#: inc/vendors/elementor/widgets/brands.php:28
+#: inc/vendors/elementor/widgets/call_to_action.php:28
+#: inc/vendors/elementor/widgets/countdown.php:53
+#: inc/vendors/elementor/widgets/features_box.php:105
+#: inc/vendors/elementor/widgets/popup_video.php:32
+#: inc/vendors/elementor/widgets/social_links.php:32
+#: inc/vendors/elementor/widgets/tabs.php:107
+#: inc/vendors/elementor/widgets/testimonials.php:32
+#: inc/vendors/elementor/widgets/testimonials.php:41
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:28
+#: inc/vendors/elementor/wp-realestate-widgets/compare-btn.php:28
+#: inc/vendors/elementor/wp-realestate-widgets/favorite-btn.php:28
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:28
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:28
+msgid "Content"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:36
+msgid "Main Logo"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:59
+#: inc/vendors/elementor/header-widgets/primary_menu.php:36
+#: inc/vendors/elementor/widgets/achievements.php:116
+#: inc/vendors/elementor/widgets/countdown.php:71
+#: inc/vendors/elementor/widgets/features_box.php:172
+#: inc/vendors/elementor/widgets/heading.php:183
+#: inc/vendors/elementor/widgets/nav_menu.php:79
+#: inc/vendors/elementor/widgets/social_links.php:270
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:45
+#: inc/vendors/elementor/wp-realestate-widgets/compare-btn.php:36
+#: inc/vendors/elementor/wp-realestate-widgets/favorite-btn.php:36
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:283
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:47
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:106
+msgid "Alignment"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:63
+#: inc/vendors/elementor/header-widgets/primary_menu.php:40
+#: inc/vendors/elementor/widgets/achievements.php:120
+#: inc/vendors/elementor/widgets/banner.php:59
+#: inc/vendors/elementor/widgets/banner.php:138
+#: inc/vendors/elementor/widgets/countdown.php:75
+#: inc/vendors/elementor/widgets/features_box.php:176
+#: inc/vendors/elementor/widgets/heading.php:187
+#: inc/vendors/elementor/widgets/nav_menu.php:83
+#: inc/vendors/elementor/widgets/social_links.php:274
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:49
+#: inc/vendors/elementor/wp-realestate-widgets/compare-btn.php:40
+#: inc/vendors/elementor/wp-realestate-widgets/favorite-btn.php:40
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:287
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:51
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:110
+msgid "Left"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:67
+#: inc/vendors/elementor/header-widgets/primary_menu.php:44
+#: inc/vendors/elementor/widgets/achievements.php:124
+#: inc/vendors/elementor/widgets/banner.php:63
+#: inc/vendors/elementor/widgets/banner.php:142
+#: inc/vendors/elementor/widgets/countdown.php:79
+#: inc/vendors/elementor/widgets/features_box.php:180
+#: inc/vendors/elementor/widgets/heading.php:191
+#: inc/vendors/elementor/widgets/nav_menu.php:87
+#: inc/vendors/elementor/widgets/social_links.php:278
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:53
+#: inc/vendors/elementor/wp-realestate-widgets/compare-btn.php:44
+#: inc/vendors/elementor/wp-realestate-widgets/favorite-btn.php:44
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:291
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:55
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:114
+msgid "Center"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:71
+#: inc/vendors/elementor/header-widgets/primary_menu.php:48
+#: inc/vendors/elementor/widgets/achievements.php:128
+#: inc/vendors/elementor/widgets/banner.php:67
+#: inc/vendors/elementor/widgets/banner.php:146
+#: inc/vendors/elementor/widgets/countdown.php:83
+#: inc/vendors/elementor/widgets/features_box.php:184
+#: inc/vendors/elementor/widgets/heading.php:195
+#: inc/vendors/elementor/widgets/nav_menu.php:91
+#: inc/vendors/elementor/widgets/social_links.php:282
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:57
+#: inc/vendors/elementor/wp-realestate-widgets/compare-btn.php:48
+#: inc/vendors/elementor/wp-realestate-widgets/favorite-btn.php:48
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:295
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:59
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:118
+msgid "Right"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:84
+#: inc/vendors/elementor/header-widgets/primary_menu.php:61
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:52
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:43
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:43
+#: inc/vendors/elementor/widgets/achievements.php:146
+#: inc/vendors/elementor/widgets/banner.php:191
+#: inc/vendors/elementor/widgets/banner_account.php:104
+#: inc/vendors/elementor/widgets/brands.php:114
+#: inc/vendors/elementor/widgets/call_to_action.php:95
+#: inc/vendors/elementor/widgets/countdown.php:154
+#: inc/vendors/elementor/widgets/features_box.php:202
+#: inc/vendors/elementor/widgets/instagram.php:130
+#: inc/vendors/elementor/widgets/mailchimp.php:57
+#: inc/vendors/elementor/widgets/nav_menu.php:109
+#: inc/vendors/elementor/widgets/popup_video.php:89
+#: inc/vendors/elementor/widgets/posts.php:227
+#: inc/vendors/elementor/widgets/revslider.php:54
+#: inc/vendors/elementor/widgets/social_links.php:195
+#: inc/vendors/elementor/widgets/tabs.php:158
+#: inc/vendors/elementor/widgets/team.php:117
+#: inc/vendors/elementor/widgets/testimonials.php:151
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:36
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:219
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:278
+#: inc/vendors/elementor/wp-realestate-widgets/compare-btn.php:61
+#: inc/vendors/elementor/wp-realestate-widgets/favorite-btn.php:61
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:78
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:335
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:157
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:130
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:328
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:189
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:89
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:72
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:96
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:97
+msgid "Extra class name"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:86
+#: inc/vendors/elementor/header-widgets/primary_menu.php:63
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:54
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:45
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:45
+#: inc/vendors/elementor/widgets/achievements.php:148
+#: inc/vendors/elementor/widgets/banner.php:193
+#: inc/vendors/elementor/widgets/banner_account.php:106
+#: inc/vendors/elementor/widgets/brands.php:116
+#: inc/vendors/elementor/widgets/call_to_action.php:97
+#: inc/vendors/elementor/widgets/countdown.php:156
+#: inc/vendors/elementor/widgets/features_box.php:204
+#: inc/vendors/elementor/widgets/instagram.php:132
+#: inc/vendors/elementor/widgets/mailchimp.php:59
+#: inc/vendors/elementor/widgets/nav_menu.php:111
+#: inc/vendors/elementor/widgets/popup_video.php:91
+#: inc/vendors/elementor/widgets/posts.php:229
+#: inc/vendors/elementor/widgets/revslider.php:56
+#: inc/vendors/elementor/widgets/social_links.php:197
+#: inc/vendors/elementor/widgets/tabs.php:160
+#: inc/vendors/elementor/widgets/team.php:119
+#: inc/vendors/elementor/widgets/testimonials.php:153
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:38
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:221
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:280
+#: inc/vendors/elementor/wp-realestate-widgets/compare-btn.php:63
+#: inc/vendors/elementor/wp-realestate-widgets/favorite-btn.php:63
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:80
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:337
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:159
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:132
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:330
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:191
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:91
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:74
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:98
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:99
+msgid "If you wish to style particular content element differently, please add a class name to this field and refer to it in your custom CSS file."
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:16
+msgid "Apus Header Primary Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:73
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:34
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:34
+#: inc/vendors/elementor/widgets/achievements.php:82
+#: inc/vendors/elementor/widgets/banner_account.php:36
+#: inc/vendors/elementor/widgets/brands.php:37
+#: inc/vendors/elementor/widgets/call_to_action.php:36
+#: inc/vendors/elementor/widgets/countdown.php:36
+#: inc/vendors/elementor/widgets/heading.php:101
+#: inc/vendors/elementor/widgets/heading.php:108
+#: inc/vendors/elementor/widgets/heading.php:224
+#: inc/vendors/elementor/widgets/instagram.php:40
+#: inc/vendors/elementor/widgets/mailchimp.php:36
+#: inc/vendors/elementor/widgets/nav_menu.php:46
+#: inc/vendors/elementor/widgets/nav_menu.php:122
+#: inc/vendors/elementor/widgets/popup_video.php:40
+#: inc/vendors/elementor/widgets/posts.php:34
+#: inc/vendors/elementor/widgets/posts.php:62
+#: inc/vendors/elementor/widgets/social_links.php:40
+#: inc/vendors/elementor/widgets/social_links.php:206
+#: inc/vendors/elementor/widgets/tabs.php:41
+#: inc/vendors/elementor/widgets/tabs.php:122
+#: inc/vendors/elementor/widgets/team.php:129
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:72
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:34
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:62
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:34
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:70
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:43
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:34
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:125
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:34
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:117
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:53
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:105
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:146
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:34
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:52
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:43
+#: inc/vendors/redux-framework/redux-config.php:386
+#: inc/widgets/property-list.php:36
+#: template-properties/loop/property/properties-save-search-form.php:15
+#: template-properties/loop/property/properties-save-search-form.php:17
+#: template-properties/misc/my-saved-searches.php:67
+msgid "Title"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:80
+msgid "Effect Dropdown Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:83
+msgid "Effect 1"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:84
+msgid "Effect 2"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:85
+msgid "Effect 3"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:94
+msgid "Padding Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:105
+msgid "Color Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:116
+msgid "Color Hover Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:127
+msgid "Color Dropdown Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:138
+msgid "Color Hover Dropdown Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:149
+msgid "Background Color Dropdown Menu"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:14
+msgid "Apus Packages"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:33
+msgid "Number Product"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:36
+msgid "Number Product to display"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:43
+#: inc/vendors/elementor/widgets/brands.php:103
+#: inc/vendors/elementor/widgets/features_box.php:137
+#: inc/vendors/elementor/widgets/instagram.php:67
+#: inc/vendors/elementor/widgets/posts.php:124
+#: inc/vendors/elementor/widgets/testimonials.php:95
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:118
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:140
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:197
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:209
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:92
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:143
+msgid "Columns"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:62
+#: inc/vendors/elementor/widgets/achievements.php:158
+#: inc/vendors/elementor/widgets/banner.php:164
+#: inc/vendors/elementor/widgets/brands.php:90
+#: inc/vendors/elementor/widgets/countdown.php:140
+#: inc/vendors/elementor/widgets/countdown.php:165
+#: inc/vendors/elementor/widgets/features_box.php:147
+#: inc/vendors/elementor/widgets/instagram.php:117
+#: inc/vendors/elementor/widgets/instagram.php:144
+#: inc/vendors/elementor/widgets/mailchimp.php:45
+#: inc/vendors/elementor/widgets/mailchimp.php:68
+#: inc/vendors/elementor/widgets/nav_menu.php:65
+#: inc/vendors/elementor/widgets/popup_video.php:77
+#: inc/vendors/elementor/widgets/social_links.php:183
+#: inc/vendors/elementor/widgets/tabs.php:141
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:62
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:173
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:75
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:82
+msgid "Style"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:70
+msgid "Background for Highlight"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:96
+#: template-paid-listings/packages.php:22
+msgid "Free"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:15
+msgid "Apus Transactions"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:58
+msgid "Transactions"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:69
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:69
+msgid "Please login to see this page."
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:103
+msgid "Order ID"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:104
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:82
+msgid "Package"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:105
+msgid "Amount"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:106
+#: inc/vendors/elementor/widgets/posts.php:59
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:59
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:67
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:122
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:114
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:102
+#: inc/widgets/property-list.php:33 woocommerce/myaccount/my-orders.php:35
+#: woocommerce/myaccount/my-orders.php:54
+msgid "Date"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:107
+msgid "Payment Mode"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:135
+msgid "Successfull"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:138
+msgid "Processing"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:141
+msgid "Refunded"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:144
+#: template-properties/misc/user-dashboard.php:78
+msgid "Pending"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:155
+msgid "Cash on Delivery"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:183
+msgid "Don't have any items"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:15
+msgid "Apus User Packages"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:81
+#: inc/vendors/elementor/widgets/posts.php:60
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:60
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:68
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:123
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:115
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:103
+#: inc/widgets/property-list.php:34
+msgid "ID"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:83
+msgid "Package Type"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:84
+msgid "Package Info"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:121
+msgid "Featured:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:133
+msgid "Posted:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:137
+msgid "Limit Posts:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:141
+msgid "Listing Duration:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:163
+msgid "Finished"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:176
+msgid "Don't have any packages"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:16
+msgid "Apus Achievements"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:32
+msgid "Achievements"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:40
+#: inc/vendors/elementor/widgets/features_box.php:42
+msgid "Image or Icon"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:43
+#: inc/vendors/elementor/widgets/achievements.php:53
+#: inc/vendors/elementor/widgets/features_box.php:45
+#: inc/vendors/elementor/widgets/features_box.php:55
+#: inc/vendors/elementor/widgets/nav_menu.php:70
+#: inc/vendors/elementor/widgets/social_links.php:59
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:102
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:152
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:52
+msgid "Icon"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:44
+#: inc/vendors/elementor/widgets/banner.php:46
+#: inc/vendors/elementor/widgets/brands.php:149
+#: inc/vendors/elementor/widgets/brands.php:168
+#: inc/vendors/elementor/widgets/features_box.php:46
+#: inc/vendors/elementor/widgets/team.php:89
+#: template-properties/submission/my-properties.php:96
+#: woocommerce/cart/cart.php:28
+msgid "Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:65
+#: inc/vendors/elementor/widgets/features_box.php:67
+#: inc/vendors/elementor/widgets/testimonials.php:50
+msgid "Choose Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:84
+#: inc/vendors/elementor/widgets/features_box.php:97
+msgid "This is the heading"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:85
+#: inc/vendors/elementor/widgets/features_box.php:98
+#: inc/vendors/elementor/widgets/heading.php:113
+msgid "Enter your title"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:94
+msgid "Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:95
+#: inc/vendors/elementor/widgets/features_box.php:108
+msgid "Enter your description"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:105
+#: inc/vendors/elementor/widgets/features_box.php:118
+msgid "Link to"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:107
+#: inc/vendors/elementor/widgets/features_box.php:120
+#: inc/vendors/elementor/widgets/social_links.php:146
+#: inc/vendors/elementor/widgets/testimonials.php:79
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:132
+#: inc/vendors/elementor/widgets/banner.php:71
+#: inc/vendors/elementor/widgets/banner.php:150
+#: inc/vendors/elementor/widgets/countdown.php:87
+#: inc/vendors/elementor/widgets/features_box.php:188
+#: inc/vendors/elementor/widgets/heading.php:199
+#: inc/vendors/elementor/widgets/nav_menu.php:95
+#: inc/vendors/elementor/widgets/social_links.php:286
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:299
+msgid "Justified"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:165
+#: inc/vendors/elementor/widgets/features_box.php:433
+msgid "Icon Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:177
+#: inc/vendors/elementor/widgets/features_box.php:501
+msgid "Icon Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:186
+#: inc/vendors/elementor/widgets/call_to_action.php:117
+#: inc/vendors/elementor/widgets/countdown.php:173
+#: inc/vendors/elementor/widgets/instagram.php:151
+#: inc/vendors/elementor/widgets/mailchimp.php:76
+#: inc/vendors/elementor/widgets/nav_menu.php:130
+#: inc/vendors/elementor/widgets/popup_video.php:109
+#: inc/vendors/elementor/widgets/posts.php:248
+#: inc/vendors/elementor/widgets/social_links.php:214
+#: inc/vendors/elementor/widgets/testimonials.php:171
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:201
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:149
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:249
+msgid "Title Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:198
+#: inc/vendors/elementor/widgets/call_to_action.php:129
+#: inc/vendors/elementor/widgets/countdown.php:185
+#: inc/vendors/elementor/widgets/instagram.php:163
+#: inc/vendors/elementor/widgets/mailchimp.php:88
+#: inc/vendors/elementor/widgets/nav_menu.php:142
+#: inc/vendors/elementor/widgets/popup_video.php:121
+#: inc/vendors/elementor/widgets/posts.php:260
+#: inc/vendors/elementor/widgets/social_links.php:226
+#: inc/vendors/elementor/widgets/testimonials.php:183
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:213
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:261
+msgid "Title Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:207
+#: inc/vendors/elementor/widgets/call_to_action.php:138
+#: inc/vendors/elementor/widgets/countdown.php:194
+#: inc/vendors/elementor/widgets/popup_video.php:130
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:168
+msgid "Description Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:219
+#: inc/vendors/elementor/widgets/call_to_action.php:150
+#: inc/vendors/elementor/widgets/countdown.php:206
+#: inc/vendors/elementor/widgets/popup_video.php:142
+msgid "Description Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:16
+msgid "Apus Banner"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:28
+msgid "Banner"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:37
+#: inc/vendors/elementor/widgets/banner_account.php:53
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:45
+msgid "Image Background"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:39
+#: inc/vendors/elementor/widgets/banner_account.php:55
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:47
+msgid "Upload Image Background Here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:48
+#: inc/vendors/elementor/widgets/team.php:91
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:63
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:87
+msgid "Upload Image Here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:55
+msgid "Image Alignment"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:85
+#: inc/vendors/elementor/widgets/banner_account.php:93
+#: inc/vendors/elementor/widgets/countdown.php:101
+msgid "URL"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:88
+#: inc/vendors/elementor/widgets/banner_account.php:96
+#: inc/vendors/elementor/widgets/call_to_action.php:67
+#: inc/vendors/elementor/widgets/countdown.php:104
+msgid "Enter your Button Link here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:97
+#: inc/vendors/elementor/widgets/countdown.php:55
+msgid "Enter your content here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:104
+#: inc/vendors/elementor/widgets/banner_account.php:63
+#: inc/vendors/elementor/widgets/call_to_action.php:54
+#: inc/vendors/elementor/widgets/countdown.php:110
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:140
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:224
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:36
+msgid "Button Text"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:106
+#: inc/vendors/elementor/widgets/banner_account.php:65
+#: inc/vendors/elementor/widgets/call_to_action.php:57
+#: inc/vendors/elementor/widgets/countdown.php:112
+msgid "Enter your button text here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:113
+#: inc/vendors/elementor/widgets/banner_account.php:72
+#: inc/vendors/elementor/widgets/call_to_action.php:74
+#: inc/vendors/elementor/widgets/countdown.php:119
+msgid "Button Style"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:116
+#: inc/vendors/elementor/widgets/banner_account.php:75
+#: inc/vendors/elementor/widgets/countdown.php:122
+msgid "Theme Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:117
+#: inc/vendors/elementor/widgets/banner_account.php:76
+#: inc/vendors/elementor/widgets/countdown.php:123
+msgid "Theme Outline Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:118
+#: inc/vendors/elementor/widgets/banner_account.php:77
+#: inc/vendors/elementor/widgets/call_to_action.php:77
+#: inc/vendors/elementor/widgets/countdown.php:124
+msgid "Default "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:119
+#: inc/vendors/elementor/widgets/banner_account.php:78
+#: inc/vendors/elementor/widgets/call_to_action.php:78
+#: inc/vendors/elementor/widgets/countdown.php:125
+msgid "Primary "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:120
+#: inc/vendors/elementor/widgets/banner_account.php:79
+#: inc/vendors/elementor/widgets/call_to_action.php:79
+#: inc/vendors/elementor/widgets/countdown.php:126
+msgid "Success "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:121
+#: inc/vendors/elementor/widgets/banner_account.php:80
+#: inc/vendors/elementor/widgets/call_to_action.php:80
+#: inc/vendors/elementor/widgets/countdown.php:127
+msgid "Info "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:122
+#: inc/vendors/elementor/widgets/banner_account.php:81
+#: inc/vendors/elementor/widgets/call_to_action.php:81
+#: inc/vendors/elementor/widgets/countdown.php:128
+msgid "Warning "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:123
+#: inc/vendors/elementor/widgets/banner_account.php:82
+#: inc/vendors/elementor/widgets/call_to_action.php:82
+#: inc/vendors/elementor/widgets/countdown.php:129
+msgid "Danger "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:124
+#: inc/vendors/elementor/widgets/banner_account.php:83
+#: inc/vendors/elementor/widgets/call_to_action.php:83
+#: inc/vendors/elementor/widgets/countdown.php:130
+msgid "Pink "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:125
+#: inc/vendors/elementor/widgets/banner_account.php:84
+#: inc/vendors/elementor/widgets/call_to_action.php:84
+#: inc/vendors/elementor/widgets/countdown.php:131
+msgid "White "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:134
+msgid "Content Alignment"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:167
+#: inc/vendors/elementor/widgets/countdown.php:143
+#: inc/vendors/elementor/widgets/features_box.php:150
+#: inc/vendors/elementor/widgets/instagram.php:120
+#: inc/vendors/elementor/widgets/popup_video.php:80
+#: inc/vendors/elementor/widgets/tabs.php:145
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:65
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:177
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:79
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:85
+#: inc/vendors/woocommerce/functions-redux-configs.php:41
+#: inc/widgets/socials.php:38
+msgid "Style 1"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:168
+#: inc/vendors/elementor/widgets/features_box.php:151
+#: inc/vendors/elementor/widgets/instagram.php:121
+#: inc/vendors/elementor/widgets/popup_video.php:81
+#: inc/vendors/elementor/widgets/tabs.php:146
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:66
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:178
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:80
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:86
+#: inc/widgets/socials.php:39
+msgid "Style 2"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:169
+#: inc/vendors/elementor/widgets/features_box.php:152
+#: inc/vendors/elementor/widgets/tabs.php:147
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:67
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:179
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:87
+msgid "Style 3"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:170
+#: inc/vendors/elementor/widgets/tabs.php:148
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:68
+msgid "Style 4"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:178
+msgid "Vertical Content"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:181
+msgid "Top"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:182
+msgid "Middle"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:183
+msgid "Bottom"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner_account.php:16
+msgid "Apus Banner Create Account"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner_account.php:28
+msgid "Banner Account"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner_account.php:44
+#: inc/vendors/elementor/widgets/call_to_action.php:45
+#: inc/vendors/elementor/widgets/features_box.php:107
+#: inc/vendors/elementor/widgets/popup_video.php:48
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:44
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:44
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:61
+#: inc/vendors/redux-framework/redux-config.php:392
+#: inc/vendors/wp-realestate/functions-redux-configs.php:245
+#: inc/vendors/wp-realestate/functions-redux-configs.php:316
+msgid "Description"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:16
+msgid "Apus Brands"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:39
+msgid "Brand Title"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:48
+msgid "Brand Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:50
+#: inc/vendors/elementor/widgets/testimonials.php:52
+msgid "Upload Brand Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:57
+#: inc/vendors/elementor/widgets/heading.php:131
+#: inc/vendors/elementor/widgets/social_links.php:137
+msgid "Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:60
+msgid "Enter your brand link here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:67
+msgid "Brands"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:69
+msgid "Enter your brands here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:77
+#: inc/vendors/elementor/widgets/features_box.php:160
+#: inc/vendors/elementor/widgets/instagram.php:76
+#: inc/vendors/elementor/widgets/posts.php:106
+#: inc/vendors/elementor/widgets/testimonials.php:136
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:102
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:124
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:181
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:193
+#: inc/vendors/redux-framework/redux-config.php:209
+msgid "Layout"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:81
+#: inc/vendors/elementor/widgets/features_box.php:163
+#: inc/vendors/elementor/widgets/instagram.php:80
+#: inc/vendors/elementor/widgets/posts.php:109
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:106
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:128
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:185
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:197
+msgid "Carousel"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:106
+msgid "Enter your column number here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:16
+msgid "Apus Call To Action"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:39
+#: inc/vendors/elementor/widgets/countdown.php:38
+#: inc/vendors/elementor/widgets/instagram.php:43
+#: inc/vendors/elementor/widgets/mailchimp.php:38
+#: inc/vendors/elementor/widgets/nav_menu.php:48
+#: inc/vendors/elementor/widgets/posts.php:37
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:37
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:37
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:45
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:37
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:37
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:149
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:37
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:55
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:187
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:39
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:45
+msgid "Enter your title here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:47
+msgid "Enter your description here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:64
+msgid "Button Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:85
+msgid "Theme "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:86
+msgid "Yellow "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:109
+#: inc/vendors/elementor/widgets/popup_video.php:101
+#: inc/vendors/elementor/widgets/posts.php:240
+#: inc/vendors/elementor/widgets/testimonials.php:163
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:169
+msgid "Tyles"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:159
+#: inc/vendors/elementor/widgets/mailchimp.php:166
+#: inc/vendors/elementor/widgets/mailchimp.php:220
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:218
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:269
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:333
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:384
+msgid "Button Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:172
+#: inc/vendors/elementor/widgets/mailchimp.php:179
+#: inc/vendors/elementor/widgets/mailchimp.php:234
+msgid "Button Background"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:185
+msgid "Button Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:16
+msgid "Apus Countdown"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:28
+msgid "Countdown"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:45
+#: widgets/mortgage-calculator.php:21 woocommerce/cart/cart.php:30
+#: woocommerce/cart/cart.php:82
+msgid "Price"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:47
+msgid "Enter your Price here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:60
+msgid "End Date"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:144
+msgid "Style 2(showdow)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:145
+msgid "Style 3(circle)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:16
+msgid "Apus Features Box"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:32
+#: inc/vendors/elementor/widgets/features_box.php:128
+msgid "Features Box"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:95
+msgid "Title & Description"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:213
+msgid "Box Style"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:225
+#: inc/vendors/elementor/widgets/features_box.php:427
+#: inc/vendors/elementor/widgets/heading.php:268
+#: inc/vendors/elementor/widgets/mailchimp.php:160
+#: inc/vendors/elementor/widgets/social_links.php:186
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:211
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:326
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:109
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:119
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:177
+msgid "Normal"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:232
+#: inc/vendors/elementor/widgets/features_box.php:282
+#: inc/vendors/elementor/widgets/features_box.php:350
+#: inc/vendors/elementor/widgets/social_links.php:245
+#: inc/vendors/elementor/wp-realestate-widgets/compare-btn.php:72
+#: inc/vendors/elementor/wp-realestate-widgets/favorite-btn.php:72
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:133
+msgid "Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:252
+#: inc/vendors/elementor/widgets/features_box.php:300
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:290
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:405
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:171
+msgid "Border Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:263
+#: inc/vendors/elementor/widgets/features_box.php:311
+#: inc/vendors/elementor/widgets/mailchimp.php:140
+#: inc/vendors/elementor/widgets/mailchimp.php:204
+#: inc/vendors/elementor/widgets/mailchimp.php:261
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:333
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:448
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:276
+#: inc/vendors/elementor/widgets/features_box.php:463
+#: inc/vendors/elementor/widgets/mailchimp.php:214
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:262
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:377
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:141
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:139
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:195
+msgid "Hover"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:321
+msgid "Color Line Under"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:343
+msgid "Heading Style"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:361
+msgid "Color Hover"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:372
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:384
+msgid "Icon Style"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:392
+msgid "Icon Width"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:408
+msgid "Icon Height"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:470
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:42
+msgid "Apus Heading"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:114
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:122
+msgid "Line Decor Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:124
+msgid "Decor Background Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:146
+msgid "Size"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:151
+#: inc/vendors/elementor/widgets/instagram.php:93
+msgid "Small"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:152
+msgid "Medium"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:153
+#: inc/vendors/elementor/widgets/instagram.php:94
+msgid "Large"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:154
+msgid "XL"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:155
+msgid "XXL"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:163
+msgid "HTML Tag"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:213
+#: template-properties/submission/my-properties.php:109
+#: woocommerce/myaccount/my-orders.php:83
+msgid "View"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:232
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:351
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:466
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:116
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:148
+msgid "Text Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:265
+msgid "Blend Mode"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:16
+msgid "Apus Instagram"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:32
+msgid "Instagram"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:49
+msgid "Instagram Username"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:57
+#: inc/vendors/elementor/widgets/posts.php:44
+msgid "Number"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:59
+msgid "Number images to display"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:89
+msgid "Photo size"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:92
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:95
+msgid "Original"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:104
+msgid "Open links in"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:107
+msgid "Current window (_self)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:108
+msgid "New window (_blank)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:16
+msgid "Apus MailChimp Sign-Up Form"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:28
+msgid "MailChimp Sign-Up Form"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:97
+msgid "Input Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:110
+msgid "Input Placeholder Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:126
+msgid "Input Background"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:150
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:202
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:317
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:83
+msgid "Button"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:191
+#: inc/vendors/elementor/widgets/mailchimp.php:247
+msgid "Button Border"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:16
+msgid "Apus Navigation Menu"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:38
+msgid "Navigation Menu"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:69
+msgid "Line"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:154
+msgid "Menu Item"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:162
+msgid "Menu Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:173
+msgid "Menu Color Hover"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:185
+msgid "Menu Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/popup_video.php:16
+msgid "Apus Popup Video"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/popup_video.php:56
+msgid "Youtube Video Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/popup_video.php:66
+msgid "Background Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/popup_video.php:68
+msgid "Upload Background Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:14
+msgid "Apus Posts"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:26
+msgid "Posts"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:47
+msgid "Number posts to display"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:55
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:55
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:63
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:118
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:110
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:98
+msgid "Order by"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:61
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:61
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:69
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:124
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:116
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:104
+#: inc/widgets/property-list.php:35
+msgid "Author"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:63
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:63
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:71
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:126
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:118
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:106
+#: inc/widgets/property-list.php:37
+msgid "Modified"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:64
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:64
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:72
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:127
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:119
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:107
+#: inc/widgets/property-list.php:38
+msgid "Random"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:65
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:65
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:73
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:128
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:120
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:108
+#: inc/widgets/property-list.php:39
+msgid "Comment count"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:66
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:66
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:74
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:129
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:121
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:109
+#: inc/widgets/property-list.php:40
+msgid "Menu order"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:75
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:75
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:83
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:138
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:130
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:118
+msgid "Sort order"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:79
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:79
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:87
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:142
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:134
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:122
+#: inc/widgets/property-list.php:44
+msgid "Ascending"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:80
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:80
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:88
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:143
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:135
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:123
+#: inc/widgets/property-list.php:45
+msgid "Descending"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:89
+msgid "Item Style"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:92
+msgid "Item 1"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:93
+msgid "Item 2"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:138
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:129
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:151
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:208
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:220
+msgid "Slides to Scroll"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:140
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:131
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:153
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:210
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:222
+msgid "Set how many slides are scrolled per swipe."
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:154
+#: inc/vendors/elementor/widgets/testimonials.php:114
+msgid "Show Nav"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:157
+#: inc/vendors/elementor/widgets/posts.php:171
+#: inc/vendors/elementor/widgets/posts.php:184
+#: inc/vendors/elementor/widgets/testimonials.php:107
+#: inc/vendors/elementor/widgets/testimonials.php:117
+#: inc/vendors/elementor/widgets/testimonials.php:128
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:162
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:177
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:184
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:199
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:244
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:55
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:241
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:256
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:301
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:85
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:97
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:253
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:268
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:122
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:206
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:65
+msgid "Hide"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:158
+#: inc/vendors/elementor/widgets/posts.php:172
+#: inc/vendors/elementor/widgets/posts.php:185
+#: inc/vendors/elementor/widgets/testimonials.php:108
+#: inc/vendors/elementor/widgets/testimonials.php:118
+#: inc/vendors/elementor/widgets/testimonials.php:129
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:161
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:176
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:183
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:198
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:245
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:56
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:240
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:255
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:302
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:84
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:96
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:252
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:267
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:121
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:205
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:66
+msgid "Show"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:168
+#: inc/vendors/elementor/widgets/testimonials.php:125
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:174
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:196
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:253
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:94
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:265
+msgid "Show Pagination"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:181
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:241
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:298
+msgid "View All"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:192
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:252
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:309
+msgid "Text View All"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:205
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:265
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:322
+msgid "View Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:208
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:268
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:325
+msgid "Enter your Link here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:269
+msgid "Post Title Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:281
+msgid "Post Title Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:290
+msgid "Post Excerpt Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:302
+msgid "Post Excerpt Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:311
+msgid "Post Tag Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:323
+msgid "Post Tag Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:332
+msgid "Post Read More Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:344
+msgid "Post Read More Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:14
+msgid "Apus Slider Revolution"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:33
+msgid "No sliders found"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:38
+msgid "Revslider"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:48
+msgid "Select your Revolution Slider."
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:16
+msgid "Apus Social Links"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:49
+#: inc/vendors/elementor/widgets/social_links.php:51
+#: inc/vendors/elementor/widgets/team.php:41
+#: inc/vendors/elementor/widgets/team.php:43
+msgid "Social Title"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:153
+msgid "Social Icons"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:237
+msgid "Social"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:257
+msgid "Hover Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:16
+msgid "Apus Tabs"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:32
+#: inc/vendors/elementor/widgets/tabs.php:132
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:156
+msgid "Tabs"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:65
+msgid "Select"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:78
+msgid "Content Type"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:82
+msgid "Template"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:83
+msgid "Editor"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:92
+msgid "Choose Template"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:109
+msgid "Tab Item Content"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:124
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:51
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:75
+msgid "Enter title here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:149
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:69
+msgid "Style 5"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:220
+msgid "Edit Template"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:249 widgets/elementor-template.php:16
+msgid "Template is not defined."
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:253 widgets/elementor-template.php:13
+msgid "The tabs are working. Please, note, that you have to add a template to the library in order to be able to display it inside the tabs."
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:259
+msgid "You Haven’t Saved Templates Yet."
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:261
+msgid "What is Library?"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:262
+msgid "Read our tutorial on using Library templates."
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:16
+msgid "Apus Teams"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:32
+msgid "Team"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:51
+msgid "Social Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:54
+#: inc/vendors/elementor/widgets/testimonials.php:78
+msgid "Enter your social link here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:61
+msgid "Social Icon"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:69
+#: inc/vendors/elementor/widgets/team.php:71
+msgid "Member Name"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:78
+#: inc/vendors/elementor/widgets/team.php:80
+msgid "Member Property"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:97
+#: inc/vendors/elementor/widgets/team.php:99
+msgid "Member Description"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:107
+msgid "Socials"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:137
+msgid "Background Hover Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:16
+msgid "Apus Testimonials"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:68
+msgid "Property"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:76
+msgid "Link To"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:86
+msgid "Testimonials"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:104
+msgid "Show Icon Quote"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:140
+msgid "White"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:141
+msgid "Special 1"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:142
+msgid "Special 2"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:192
+msgid "Testimonial Title Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:204
+msgid "Testimonial Title Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:213
+msgid "Content Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:225
+msgid "Content Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:234
+msgid "Property Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:246
+msgid "Property Typography"
+msgstr ""
+
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:16
+msgid "Apus Message Notification"
+msgstr ""
+
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:80
+msgid "Color Icon"
+msgstr ""
+
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:96
+msgid "Color Hover Icon"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:14
+msgid "Apus Agencies"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:44
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:52
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:107
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:99
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:166
+msgid "Limit"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:47
+msgid "Limit agencies to display"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:89
+msgid "Get Agencies By"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:92
+msgid "Featured Agencies"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:93
+msgid "Recent Agencies"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:145
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:167
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:224
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:236
+msgid "Rows"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:148
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:170
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:227
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:239
+msgid "Enter your rows number here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:159
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:181
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:238
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:82
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:250
+msgid "Show Navigation"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:189
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:211
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:268
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:106
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:280
+msgid "Autoplay"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agencies.php:204
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:226
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:283
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:118
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:295
+msgid "Infinite Loop"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:14
+msgid "Apus Agents"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:55
+msgid "Limit agents to display"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:97
+msgid "Get Agents By"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:100
+msgid "Featured Agents"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:101
+msgid "Recent Agents"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/agents.php:110
+msgid "Agent Item Style"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/compare-btn.php:16
+msgid "Apus Header Compare Button"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/compare-btn.php:80
+#: inc/vendors/elementor/wp-realestate-widgets/favorite-btn.php:80
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:141
+msgid "Color Text"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/compare-btn.php:90
+#: inc/vendors/elementor/wp-realestate-widgets/favorite-btn.php:90
+msgid "Color Hover Text"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/compare-btn.php:110
+#: inc/vendors/wp-realestate/functions.php:634
+#: inc/vendors/wp-realestate/functions.php:644
+#: inc/vendors/wp-realestate/functions.php:673
+msgid "Compare"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/favorite-btn.php:16
+msgid "Apus Header Favorite Button"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/favorite-btn.php:115
+#: template-properties/misc/property-favorites.php:9
+msgid "Favorite"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:14
+msgid "Apus Location Banner"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:26
+msgid "Location Banner"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:34
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:74
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:66
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:65
+msgid "Location Slug"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:36
+msgid "Enter your Location Slug here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:52
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:62
+msgid "Show Number Properties"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:70
+msgid "Style 6"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:89
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:107
+msgid "Style Box"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:97
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:177
+msgid "Height"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:118
+msgid "Height Image Top"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:139
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:229
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:281
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:344
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:396
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:127
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:147
+msgid "Background"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:151
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:164
+msgid "Background Overlay"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:170
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:178
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:206
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:218
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:226
+msgid "Border Radius"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:193
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:141
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:343
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:458
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:241
+msgid "Typography"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:222
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:270
+msgid "Number Color"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:234
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:282
+msgid "Number Typography"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/location_banner.php:285
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:339
+msgid "<span>%d</span> Property"
+msgid_plural "<span>%d</span> Properties"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:14
+msgid "Apus Properties"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:52
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:44
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:43
+msgid "Statuses Slug"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:56
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:67
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:78
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:89
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:100
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:48
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:59
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:70
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:81
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:92
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:47
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:58
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:69
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:80
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:91
+msgid "Enter slugs spearate by comma(,)"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:63
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:55
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:54
+msgid "Types Slug"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:85
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:77
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:76
+msgid "Amenities Slug"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:96
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:88
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:87
+msgid "Materials Slug"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:110
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:102
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:169
+msgid "Limit properties to display"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:152
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:144
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:132
+msgid "Get Properties By"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:155
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:147
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:135
+#: inc/widgets/property-list.php:48
+msgid "Featured Properties"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:156
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:148
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:137
+#: inc/widgets/property-list.php:50
+msgid "Recent Properties"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties.php:165
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:177
+msgid "Property Item Style"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties_maps.php:14
+msgid "Apus Properties Maps"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:14
+msgid "Apus Properties Slider"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:35
+msgid "Property ID"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:37
+msgid "Enter property ID"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:72
+msgid "Sliders"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:74
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:158
+msgid "Enter your property tabs here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:255
+#: template-properties/properties-styles/inner-grid-v1.php:38
+#: template-properties/properties-styles/inner-grid-v2.php:56
+#: template-properties/properties-styles/inner-grid-v3.php:56
+#: template-properties/properties-styles/inner-grid-v4.php:56
+#: template-properties/properties-styles/inner-grid.php:56
+#: template-properties/properties-styles/inner-list-compare-small.php:8
+#: template-properties/properties-styles/inner-list-member.php:67
+#: template-properties/properties-styles/inner-list-simple.php:8
+#: template-properties/properties-styles/inner-list.php:67
+#: template-properties/single-property/description.php:9
+#: template-properties/single-property/detail.php:44
+msgid "Beds:"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties_slider.php:256
+#: template-properties/properties-styles/inner-grid-v1.php:39
+#: template-properties/properties-styles/inner-grid-v2.php:57
+#: template-properties/properties-styles/inner-grid-v3.php:57
+#: template-properties/properties-styles/inner-grid-v4.php:57
+#: template-properties/properties-styles/inner-grid.php:57
+#: template-properties/properties-styles/inner-list-compare-small.php:9
+#: template-properties/properties-styles/inner-list-member.php:68
+#: template-properties/properties-styles/inner-list-simple.php:9
+#: template-properties/properties-styles/inner-list.php:68
+#: template-properties/single-property/description.php:10
+#: template-properties/single-property/detail.php:50
+#: template-properties/single-property/floor-plans-print.php:29
+#: template-properties/single-property/floor-plans.php:29
+msgid "Baths:"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:14
+msgid "Apus Properties Tabs"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:35
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:184
+msgid "Tab Title"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:136
+#: inc/widgets/property-list.php:49
+msgid "Urgent Properties"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:310
+msgid "View More Button Text"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:312
+msgid "Enter your view more text here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:319
+msgid "View More URL"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/properties_tabs.php:321
+msgid "Enter your view more url here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:14
+msgid "Apus Properties Search Form"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:26
+msgid "Search Form"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:42
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:99
+msgid "Choose a field"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:56
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:114
+msgid "Filter field"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:65
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:122
+#: inc/vendors/woocommerce/functions.php:299
+#: inc/vendors/woocommerce/functions.php:339
+msgid "Placeholder"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:74
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:130
+msgid "Enable autocompleate search"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:87
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:38
+msgid "%d Columns"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:110
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:194
+msgid "Main Search Fields"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:119
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:203
+msgid "Show Advanced Search"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:131
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:215
+msgid "Advanced Search Fields"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:150
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:234
+msgid "Button Columns"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:160
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:62
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:36
+#: inc/vendors/wp-realestate/functions.php:355
+#: inc/vendors/wp-realestate/functions.php:358
+msgid "Layout Type"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:180
+msgid "Style Icon"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:239
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:324
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:354
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:439
+msgid "Border"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:247
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:304
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:362
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:419
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:226
+msgid "Padding"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:432
+#: inc/vendors/elementor/wp-realestate-widgets/search_form.php:533
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:588
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:681
+msgid "Advanced"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:14
+msgid "Apus Properties Search Form Tabs"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:44
+msgid "Search Form: General"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:165
+msgid "Tab: "
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:173
+msgid "Show this tab"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:250
+msgid "Tab"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:258
+msgid "Tab Active BG Color"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/search_form_tabs.php:271
+msgid "Margin"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:16
+msgid "Apus Header Submit Button"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:128
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:160
+msgid "Background Color"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/submit-btn.php:185
+msgid "Hover Animation"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:14
+msgid "Apus Type Properties Banner"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:26
+msgid "Type Banner"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:34
+msgid "Type Slug"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:36
+msgid "Enter your Type Slug here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:73
+msgid "Custom URL"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/type-banner.php:75
+msgid "Enter your custom url"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:16
+msgid "Apus Header User Info"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:39
+msgid "Popup"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:40
+#: page-dashboard.php:55 page.php:50 template-posts/single/inner.php:61
+#: template-properties/single-agency.php:27
+#: template-properties/single-agent.php:27
+#: template-properties/single-property.php:36
+msgid "Page"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:49
+msgid "Login Title"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:61
+msgid "Login Image"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:73
+msgid "Register Title"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:85
+msgid "Register Image"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:153
+msgid "Color Hover Link"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:228
+msgid "Sign in"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:228
+msgid "Login / Register"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:231
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:232
+#: template-properties/misc/login.php:43
+#: template-properties/misc/register.php:73
+#: woocommerce/myaccount/form-login.php:32
+msgid "Login"
+msgstr ""
+
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:237
+#: inc/vendors/elementor/wp-realestate-widgets/user_info.php:238
+#: template-properties/misc/login.php:47
+#: woocommerce/myaccount/form-login.php:67
+#: woocommerce/myaccount/form-login.php:101
+msgid "Register"
+msgstr ""
+
+#: inc/vendors/one-click-demo-import/functions.php:21
+msgid "Import process may take 5-10 minutes. If you facing any issues please contact our support."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:52
+msgid "5 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:54
+msgid "7 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:55
+msgid "8 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:62
+msgid "Preload Website"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:68
+msgid "Preload Icon"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:69
+msgid "Upload a .png or .gif image that will be your preload icon."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:75
+msgid "Image Lazy Loading"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:81
+msgid "General"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:87
+msgid "Header"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:93
+msgid "Header Settings"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:101
+msgid "You can add or edit a header in <a href=\"%s\" target=\"_blank\">Headers Builder</a>"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:106
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:113
+msgid "Header Mobile Settings"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:118
+msgid "Mobile Logo Upload"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:119
+#: inc/vendors/wp-realestate/functions-redux-configs.php:308
+msgid "Upload a .png or .gif image that will be your logo."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:124
+msgid "Enable Header Mobile Menu"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:130
+msgid "Enable Header Mobile Login"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:136
+msgid "Enable Header Mobile \"Add Property\" button"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:144
+msgid "Footer"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:156
+msgid "Back To Top Button"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:157
+msgid "Toggle whether or not to enable a back to top button on your pages."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:171
+#: inc/vendors/woocommerce/functions-redux-configs.php:19
+#: inc/vendors/wp-realestate/functions-redux-configs.php:12
+#: inc/vendors/wp-realestate/functions-redux-configs.php:355
+#: inc/vendors/wp-realestate/functions-redux-configs.php:508
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:175
+#: inc/vendors/woocommerce/functions-redux-configs.php:23
+#: inc/vendors/wp-realestate/functions-redux-configs.php:16
+#: inc/vendors/wp-realestate/functions-redux-configs.php:359
+#: inc/vendors/wp-realestate/functions-redux-configs.php:512
+msgid "Breadcrumbs Background Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:176
+#: inc/vendors/woocommerce/functions-redux-configs.php:24
+#: inc/vendors/wp-realestate/functions-redux-configs.php:17
+#: inc/vendors/wp-realestate/functions-redux-configs.php:360
+#: inc/vendors/wp-realestate/functions-redux-configs.php:513
+msgid "The breadcrumbs background color of the site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:184
+#: inc/vendors/woocommerce/functions-redux-configs.php:32
+#: inc/vendors/wp-realestate/functions-redux-configs.php:25
+#: inc/vendors/wp-realestate/functions-redux-configs.php:368
+#: inc/vendors/wp-realestate/functions-redux-configs.php:521
+msgid "Breadcrumbs Background"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:185
+#: inc/vendors/woocommerce/functions-redux-configs.php:33
+#: inc/vendors/wp-realestate/functions-redux-configs.php:26
+#: inc/vendors/wp-realestate/functions-redux-configs.php:369
+#: inc/vendors/wp-realestate/functions-redux-configs.php:522
+msgid "Upload a .jpg or .png image that will be your breadcrumbs."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:190
+#: inc/vendors/woocommerce/functions-redux-configs.php:38
+#: inc/vendors/wp-realestate/functions-redux-configs.php:31
+#: inc/vendors/wp-realestate/functions-redux-configs.php:374
+#: inc/vendors/wp-realestate/functions-redux-configs.php:527
+msgid "Breadcrumbs Style"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:191
+#: inc/vendors/wp-realestate/functions-redux-configs.php:32
+#: inc/vendors/wp-realestate/functions-redux-configs.php:375
+#: inc/vendors/wp-realestate/functions-redux-configs.php:528
+msgid "Choose a style for breadcrumbs."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:203
+msgid "Blog & Post Archives"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:210
+#: inc/vendors/redux-framework/redux-config.php:290
+msgid "Select the variation you want to apply on your store."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:213
+#: inc/vendors/redux-framework/redux-config.php:214
+#: inc/vendors/redux-framework/redux-config.php:293
+#: inc/vendors/redux-framework/redux-config.php:294
+#: inc/vendors/woocommerce/functions-redux-configs.php:212
+#: inc/vendors/woocommerce/functions-redux-configs.php:213
+msgid "Main Only"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:218
+#: inc/vendors/redux-framework/redux-config.php:219
+#: inc/vendors/redux-framework/redux-config.php:298
+#: inc/vendors/redux-framework/redux-config.php:299
+#: inc/vendors/woocommerce/functions-redux-configs.php:217
+#: inc/vendors/woocommerce/functions-redux-configs.php:218
+#: inc/vendors/wp-realestate/functions-redux-configs.php:131
+#: inc/vendors/wp-realestate/functions-redux-configs.php:132
+msgid "Left - Main Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:223
+#: inc/vendors/redux-framework/redux-config.php:224
+#: inc/vendors/redux-framework/redux-config.php:303
+#: inc/vendors/redux-framework/redux-config.php:304
+#: inc/vendors/woocommerce/functions-redux-configs.php:222
+#: inc/vendors/woocommerce/functions-redux-configs.php:223
+#: inc/vendors/wp-realestate/functions-redux-configs.php:136
+#: inc/vendors/wp-realestate/functions-redux-configs.php:137
+msgid "Main - Right Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:239
+#: inc/vendors/woocommerce/functions-redux-configs.php:140
+msgid "Archive Left Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:240
+#: inc/vendors/redux-framework/redux-config.php:320
+#: inc/vendors/woocommerce/functions-redux-configs.php:141
+#: inc/vendors/woocommerce/functions-redux-configs.php:239
+msgid "Choose a sidebar for left sidebar."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:246
+#: inc/vendors/woocommerce/functions-redux-configs.php:147
+msgid "Archive Right Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:247
+#: inc/vendors/redux-framework/redux-config.php:327
+#: inc/vendors/woocommerce/functions-redux-configs.php:148
+#: inc/vendors/woocommerce/functions-redux-configs.php:246
+msgid "Choose a sidebar for right sidebar."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:254
+msgid "Display Mode"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:256
+msgid "Grid 1"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:257
+msgid "Grid 2"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:258
+msgid "List 1"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:265
+msgid "Blog Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:272
+msgid "Thumbnail Size"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:273
+msgid "This featured for the site is using Visual Composer."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:274
+msgid "Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height) ."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:289
+msgid "Archive Blog Layout"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:319
+msgid "Single Blog Left Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:326
+msgid "Single Blog Right Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:333
+#: inc/vendors/woocommerce/functions-redux-configs.php:189
+#: inc/vendors/wp-realestate/functions-redux-configs.php:240
+#: inc/vendors/wp-realestate/functions-redux-configs.php:481
+#: inc/vendors/wp-realestate/functions-redux-configs.php:633
+msgid "Show Social Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:339
+msgid "Show Releated Posts"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:345
+msgid "Number of related posts to show"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:356
+msgid "Releated Blogs Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:369
+msgid "404 Page"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:372
+msgid "Images Icon"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:373
+msgid "Icon for 404 error."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:378
+msgid "Images Background"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:379
+msgid "Background for 404 error."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:401
+msgid "Custom Style"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:407
+msgid "Custom Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:410
+msgid "Main Theme Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:411
+#: inc/vendors/redux-framework/redux-config.php:418
+#: inc/vendors/redux-framework/redux-config.php:425
+msgid "The main color of the site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:417
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:424
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:432
+msgid "Header Mobile Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:433
+msgid "The header mobile color of the site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:444
+msgid "Custom Typography"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:447
+msgid "Main Font Face"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:448
+msgid "Pick the Main Font for your site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:464
+msgid "Heading Font Face"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:465
+msgid "Pick the Heading Font for your site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:487
+msgid "Social Media"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:492
+msgid "Enable Facebook Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:498
+msgid "Enable twitter Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:504
+msgid "Enable linkedin Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:510
+msgid "Enable pinterest Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:516
+msgid "Enable More Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:524
+msgid "Import / Export"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:525
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:566
+#: inc/vendors/redux-framework/redux-config.php:567
+msgid "Theme Options"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:8
+msgid "Shop Settings"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:14
+msgid "Breadcrumbs Setting"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:49
+msgid "Product Archives"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:56
+#: inc/vendors/woocommerce/functions-redux-configs.php:164
+#: inc/vendors/wp-realestate/functions-redux-configs.php:85
+#: inc/vendors/wp-realestate/functions-redux-configs.php:215
+#: inc/vendors/wp-realestate/functions-redux-configs.php:393
+#: inc/vendors/wp-realestate/functions-redux-configs.php:470
+#: inc/vendors/wp-realestate/functions-redux-configs.php:546
+#: inc/vendors/wp-realestate/functions-redux-configs.php:622
+#: inc/vendors/wp-realestate/functions-redux-configs.php:665
+msgid "General Setting"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:61
+msgid "Show Shop/Category Title ?"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:67
+msgid "Products Layout"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:68
+msgid "Choose a default layout archive product."
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:78
+msgid "Product Columns"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:86
+msgid "Number of Products Per Page"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:96
+msgid "Enable Swap Image"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:104
+#: inc/vendors/woocommerce/functions-redux-configs.php:202
+msgid "Sidebar Setting"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:116
+#: inc/vendors/wp-realestate/functions-redux-configs.php:405
+#: inc/vendors/wp-realestate/functions-redux-configs.php:558
+msgid "Archive Product Layout"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:117
+msgid "Select the layout you want to apply on your archive product page."
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:120
+#: inc/vendors/woocommerce/functions-redux-configs.php:121
+#: inc/vendors/wp-realestate/functions-redux-configs.php:126
+#: inc/vendors/wp-realestate/functions-redux-configs.php:127
+#: inc/vendors/wp-realestate/functions-redux-configs.php:409
+#: inc/vendors/wp-realestate/functions-redux-configs.php:410
+#: inc/vendors/wp-realestate/functions-redux-configs.php:562
+#: inc/vendors/wp-realestate/functions-redux-configs.php:563
+msgid "Main Content"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:157
+msgid "Single Product"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:169
+msgid "Thumbnails Position"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:171
+msgid "Thumbnails Left"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:172
+msgid "Thumbnails Right"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:173
+msgid "Thumbnails Bottom"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:179
+msgid "Number Thumbnails Per Row"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:195
+msgid "Show Product Review Tab"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:208
+msgid "Single Product Sidebar Layout"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:209
+msgid "Select the layout you want to apply on your Single Product Page."
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:238
+msgid "Single Product Left Sidebar"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:245
+msgid "Single Product Right Sidebar"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:253
+msgid "Product Block Setting"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:258
+msgid "Show Products Releated"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:263
+msgid "Number of related products to show"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:274
+msgid "Releated Products Columns"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:283
+msgid "Show Products upsells"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:289
+msgid "Upsells Products Columns"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:102
+#: template-properties/agencies-styles/inner-grid.php:36
+#: template-properties/agencies-styles/inner-list.php:36
+#: woocommerce/single-product/short-description.php:35
+msgid "View More"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:103
+msgid "View Less"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:150
+msgid "Shop"
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:9
+msgid "Send Private Message"
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:13
+msgid "Send message to \"%s\""
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:19
+#: widgets/private-message-form.php:42
+msgid "Subject"
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:22
+#: widgets/private-message-form.php:45
+msgid "Enter text here..."
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:28 widgets/contact-form.php:61
+#: widgets/private-message-form.php:51 widgets/property-contact-form.php:104
+#: wp-private-message/reply-message-form.php:12
+msgid "Send Message"
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:38
+#: widgets/private-message-form.php:61
+msgid "Please login to send a private message"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-agency-display.php:31
+#: inc/vendors/wp-realestate/functions-property-display.php:226
+msgid "Property Type:"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-agency-display.php:76
+#: inc/vendors/wp-realestate/functions-agent-display.php:27
+#: inc/vendors/wp-realestate/functions-property-display.php:298
+#: inc/vendors/wp-realestate/functions-property-display.php:334
+msgid "Location:"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-agency-display.php:107
+#: inc/vendors/wp-realestate/functions-agency-display.php:308
+#: inc/vendors/wp-realestate/functions-agent-display.php:58
+msgid "%d Property"
+msgid_plural "%d Properties"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/wp-realestate/functions-agency-display.php:115
+#: inc/vendors/wp-realestate/functions-agent-display.php:77
+msgid "featured"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-agency-display.php:137
+#: inc/vendors/wp-realestate/functions-agent-display.php:99
+#: inc/vendors/wp-realestate/functions.php:756
+msgid "Phone:"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-agency-display.php:154
+#: inc/vendors/wp-realestate/functions-agent-display.php:117
+#: inc/vendors/wp-realestate/functions.php:774
+msgid "show"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-agency-display.php:173
+#: inc/vendors/wp-realestate/functions-agent-display.php:137
+msgid "Fax:"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-agency-display.php:205
+#: inc/vendors/wp-realestate/functions-agent-display.php:169
+#: woocommerce/checkout/thankyou.php:49
+msgid "Email:"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-agency-display.php:236
+#: inc/vendors/wp-realestate/functions-agent-display.php:201
+msgid "Website:"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-agency.php:176
+#: inc/vendors/wp-realestate/functions-agency.php:199
+msgid "Cover Photo"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-agent-display.php:69
+msgid "<span class=\"text-blue\">%d</span> <span class=\"text\">View</span>"
+msgid_plural "<span class=\"text-blue\">%d</span> <span class=\"text\">Views</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/wp-realestate/functions-agent.php:163
+#: inc/vendors/wp-realestate/functions-agent.php:178
+msgid "Fax"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-property-display.php:175
+msgid "Status:"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-property-display.php:389
+#: template-properties/single-property/detail.php:62
+msgid "Price:"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-property-display.php:409
+msgid "%s ago"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-property-display.php:420
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-property-display.php:543
+#: widgets/mortgage-calculator.php:30
+msgid "%"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-property-display.php:592
+#: inc/vendors/wp-realestate/functions-property-display.php:594
+msgid "Print"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:43
+msgid "Other Settings"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:48
+msgid "Show Full Phone Number"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:54
+msgid "Enable Favorite"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:60
+msgid "Enable Compare"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:66
+msgid "Choose a Elementor Template"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:78
+msgid "Property Archives"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:96
+msgid "Properties Layout Style"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:97
+msgid "Choose a default layout archive property."
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:112
+msgid "Choose a Elementor Template to show in top."
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:122
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:123
+msgid "Select a sidebar layout"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:148
+msgid "Properties display mode"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:149
+#: inc/vendors/wp-realestate/functions-redux-configs.php:430
+#: inc/vendors/wp-realestate/functions-redux-configs.php:583
+msgid "Choose a default display mode for archive property."
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:160
+msgid "Properties Item Style"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:161
+msgid "Choose a default display item style for archive property."
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:163
+msgid "Grid style default"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:164
+msgid "Grid style v1"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:165
+msgid "Grid style v2"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:166
+msgid "Grid style v3"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:167
+msgid "Grid style v4"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:176
+msgid "Property Columns"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:184
+msgid "Show Property gallery"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:202
+msgid "Placeholder Image"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:203
+msgid "Upload a .jpg or .png image that will be your placeholder."
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:226
+msgid "Property Layout"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:227
+msgid "Choose a default layout single property."
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:229
+msgid "Layout 1"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:230
+msgid "Layout 2"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:231
+msgid "Layout 3"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:232
+msgid "Layout 4"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:233
+msgid "Layout 5"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:246
+#: inc/vendors/wp-realestate/functions-redux-configs.php:317
+msgid "EU Energy"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:247
+#: inc/vendors/wp-realestate/functions-redux-configs.php:318
+msgid "Detail"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:248
+msgid "Attachments"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:249
+#: inc/vendors/wp-realestate/functions-redux-configs.php:319
+#: template-properties/single-property/amenities.php:13
+msgid "Amenities"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:250
+#: template-properties/content-single-property-v5.php:61
+#: template-properties/single-property/materials.php:14
+msgid "Materials"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:251
+#: template-properties/single-agency/location.php:14
+#: template-properties/single-agent/location.php:16
+#: template-properties/single-property/location.php:19
+msgid "Location"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:252
+#: inc/vendors/wp-realestate/functions-redux-configs.php:320
+msgid "Floor plans"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:253
+msgid "Video & Virtual tour"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:254
+#: inc/vendors/wp-realestate/functions-redux-configs.php:321
+#: template-properties/content-single-property-v5.php:74
+msgid "Facilities"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:255
+#: inc/vendors/wp-realestate/functions-redux-configs.php:322
+#: template-properties/content-single-property-v5.php:77
+msgid "Valuation"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:256
+msgid "Stats graph"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:257
+msgid "Yelp Nearby"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:258
+msgid "Walk Score"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:259
+#: template-properties/content-single-property-v5.php:89
+#: template-properties/single-property/subproperties.php:23
+msgid "Subproperties"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:260
+msgid "Related"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:266
+#: inc/vendors/wp-realestate/functions-redux-configs.php:329
+msgid "Show %s"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:272
+msgid "Number of Subproperties to show"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:283
+msgid "Number of related properties to show"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:296
+msgid "Print Property Setting"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:301
+msgid "Show Print Button"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:307
+msgid "Print Logo Upload"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:313
+msgid "Print Header"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:314
+msgid "Qrcode"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:315
+msgid "Agent Info"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:323
+msgid "Gallery"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:336
+msgid "Single Property"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:350
+msgid "Agent Settings"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:386
+msgid "Agent Archives"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:406
+msgid "Select the layout you want to apply on your archive agents page."
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:429
+msgid "Agents display mode"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:463
+msgid "Single Agent"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:487
+msgid "Show Agent Properties"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:503
+msgid "Agency Settings"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:539
+msgid "Agency Archives"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:559
+msgid "Select the layout you want to apply on your archive agencies page."
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:582
+msgid "Agencies display mode"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:615
+msgid "Single Agency"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:640
+msgid "Agency Block Setting"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:645
+msgid "Show Agency Agents"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:651
+msgid "Show Agency Properties"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:659
+msgid "Register Form"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:670
+msgid "Enable Register Agency"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions-redux-configs.php:676
+msgid "Enable Register Agent"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:280
+msgid "Monthly Payment: "
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:281
+msgid "Remove Compare"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:282
+msgid "Add Compare"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:283
+msgid "Remove Favorite"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:284
+msgid "Add Favorite"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:295
+msgid "Unable to find any listing that match the currenty query"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:362
+msgid "Global Settings"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:363
+msgid "Version 1"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:364
+msgid "Version 2"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:365
+msgid "Version 3"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:366
+msgid "Version 4"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:367
+msgid "Version 5"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:387
+msgid "Map Pin"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:388
+msgid "Enter your map pin"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:612
+msgid "Compare Properties"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:637
+#: inc/vendors/wp-realestate/functions.php:676
+msgid "Clear"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:914
+msgid "Contact Agent"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:940
+#: template-properties/content-single-agency.php:31
+#: template-properties/content-single-agent.php:31
+#: template-properties/single-property/description.php:24
+msgid "Overview"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:992
+msgid "Property images"
+msgstr ""
+
+#: inc/vendors/wp-realestate/functions.php:1025
+#: inc/vendors/wp-realestate/functions.php:1046
+#: inc/vendors/wp-realestate/functions.php:1059
+#: inc/vendors/wp-realestate/functions.php:1073
+msgid "Demo users are not allowed to modify information."
+msgstr ""
+
+#: inc/widgets/contact-form.php:7
+msgid "Agent|Agency Detail:: Contact Form"
+msgstr ""
+
+#: inc/widgets/contact-form.php:8
+msgid "Show agent|agency contact form"
+msgstr ""
+
+#: inc/widgets/contact-form.php:29 inc/widgets/custom_menu.php:44
+#: inc/widgets/mortgage_calculator.php:28
+#: inc/widgets/private-message-form.php:29
+#: inc/widgets/property-contact-form.php:29 inc/widgets/property-list.php:54
+#: inc/widgets/recent_post.php:32 inc/widgets/search.php:30
+#: inc/widgets/socials.php:48 inc/widgets/user-short-profile.php:42
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/contact-form.php:31
+msgid "Enter %1s for agent|agency name"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:7
+msgid "Apus Custom Menu Widget"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:8
+msgid "Show custom menu"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:49
+msgid "Menu:"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:61 inc/widgets/socials.php:81
+msgid "Style:"
+msgstr ""
+
+#: inc/widgets/elementor-template.php:7
+msgid "Apus Show Elementor Template Widget"
+msgstr ""
+
+#: inc/widgets/elementor-template.php:8
+msgid "Show Elementor Template"
+msgstr ""
+
+#: inc/widgets/elementor-template.php:39
+msgid "Choose Template:"
+msgstr ""
+
+#: inc/widgets/mortgage_calculator.php:7
+msgid "Apus Mortgage Calculator Widget"
+msgstr ""
+
+#: inc/widgets/mortgage_calculator.php:8
+msgid "Show Mortgage Calculator"
+msgstr ""
+
+#: inc/widgets/private-message-form.php:7
+msgid "Private Message Form"
+msgstr ""
+
+#: inc/widgets/private-message-form.php:8
+msgid "Show property|agent|agency private message form"
+msgstr ""
+
+#: inc/widgets/private-message-form.php:31
+msgid "Enter %1s for property|agent|agency name"
+msgstr ""
+
+#: inc/widgets/property-contact-form.php:7
+msgid "Property Detail:: Contact Form"
+msgstr ""
+
+#: inc/widgets/property-contact-form.php:8
+msgid "Show property contact form"
+msgstr ""
+
+#: inc/widgets/property-contact-form.php:31
+msgid "Enter %1s for property name"
+msgstr ""
+
+#: inc/widgets/property-list.php:7
+msgid "Apus Simple Properties List"
+msgstr ""
+
+#: inc/widgets/property-list.php:8
+msgid "Show list of property"
+msgstr ""
+
+#: inc/widgets/property-list.php:59
+msgid "Order By:"
+msgstr ""
+
+#: inc/widgets/property-list.php:70
+msgid "Order:"
+msgstr ""
+
+#: inc/widgets/property-list.php:81
+msgid "Get properties by:"
+msgstr ""
+
+#: inc/widgets/property-list.php:91 inc/widgets/recent_post.php:49
+msgid "Num Posts:"
+msgstr ""
+
+#: inc/widgets/recent_post.php:7
+msgid "Apus Recent Posts Widget"
+msgstr ""
+
+#: inc/widgets/recent_post.php:8
+msgid "Show list of recent post"
+msgstr ""
+
+#: inc/widgets/recent_post.php:37 inc/widgets/search.php:35
+msgid "Type:"
+msgstr ""
+
+#: inc/widgets/search.php:7
+msgid "Apus Search Widget"
+msgstr ""
+
+#: inc/widgets/search.php:8
+msgid "Show search form in sidebar"
+msgstr ""
+
+#: inc/widgets/socials.php:7
+msgid "Apus Socials"
+msgstr ""
+
+#: inc/widgets/socials.php:8
+msgid "Socials for website."
+msgstr ""
+
+#: inc/widgets/socials.php:52
+msgid "Select socials:"
+msgstr ""
+
+#: inc/widgets/user-short-profile.php:7
+msgid "Apus User Short Profile"
+msgstr ""
+
+#: inc/widgets/user-short-profile.php:8
+msgid "Show User Short Profile in sidebar"
+msgstr ""
+
+#: inc/widgets/user-short-profile.php:30
+msgid "Choose a menu"
+msgstr ""
+
+#: inc/widgets/user-short-profile.php:47
+msgid "Agent Account Menu:"
+msgstr ""
+
+#: inc/widgets/user-short-profile.php:59
+msgid "Agency Account Menu:"
+msgstr ""
+
+#: inc/widgets/user-short-profile.php:71
+msgid "User Account Menu:"
+msgstr ""
+
+#: page-dashboard.php:51 page.php:46 template-posts/single/inner.php:57
+msgid "Pages:"
+msgstr ""
+
+#: page-properties.php:73 template-properties/archive-property.php:45
+msgid "Filter & Map"
+msgstr ""
+
+#: page-properties.php:84 page-properties.php:184
+#: template-properties/archive-property.php:56
+#: template-properties/archive-property.php:153
+msgid "Show Filter"
+msgstr ""
+
+#: page-properties.php:96 page-properties.php:110 page-properties.php:160
+#: template-properties/archive-property.php:68
+#: template-properties/archive-property.php:82
+#: template-properties/archive-property.php:128
+#: template-properties/single-property/location.php:31
+msgid "Map View"
+msgstr ""
+
+#: page-properties.php:97 page-properties.php:111 page-properties.php:161
+#: template-properties/archive-property.php:69
+#: template-properties/archive-property.php:83
+#: template-properties/archive-property.php:129
+msgid "Properties View"
+msgstr ""
+
+#: searchform.php:13 widgets/search.php:14
+msgid "Search"
+msgstr ""
+
+#: template-paid-listings/choose-package-form.php:27
+msgid "Choose a package"
+msgstr ""
+
+#: template-paid-listings/choose-package-form.php:49
+msgid "Sorry, you can't post a property."
+msgstr ""
+
+#: template-paid-listings/packages.php:8
+msgid "Packages"
+msgstr ""
+
+#: template-paid-listings/packages.php:30
+msgid "Add to cart"
+msgstr ""
+
+#: template-paid-listings/user-packages.php:7
+msgid "Your Packages"
+msgstr ""
+
+#: template-paid-listings/user-packages.php:28
+msgid "%s property posted out of %d"
+msgid_plural "%s properties posted out of %d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-paid-listings/user-packages.php:30
+msgid "%s property posted"
+msgid_plural "%s properties posted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-paid-listings/user-packages.php:34
+msgid "listed for %s day"
+msgid_plural "listed for %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-paid-listings/user-packages.php:44
+msgid "Add Listing"
+msgstr ""
+
+#: template-parts/posts-releated.php:32
+msgid "Related Posts"
+msgstr ""
+
+#: template-parts/sharebox-property.php:11
+msgid "Share"
+msgstr ""
+
+#: template-parts/sharebox.php:8
+msgid "Share Link"
+msgstr ""
+
+#: template-posts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-posts/content-none.php:15
+msgid "Try again please, use the search form below."
+msgstr ""
+
+#: template-posts/single/inner.php:95
+msgid "Prev"
+msgstr ""
+
+#: template-properties/agents-styles/inner-grid.php:38
+#: template-properties/agents-styles/inner-list.php:36
+msgid "View My Listings"
+msgstr ""
+
+#: template-properties/content-single-agency.php:45
+#: template-properties/content-single-agent.php:40
+#: template-properties/content-single-property-v5.php:93
+#: template-properties/misc/user-dashboard.php:108
+#: template-properties/misc/user-reviews.php:44
+msgid "Reviews"
+msgstr ""
+
+#: template-properties/content-single-property-v5.php:55
+#: template-properties/single-property/detail.php:10
+msgid "Details"
+msgstr ""
+
+#: template-properties/content-single-property-v5.php:58
+msgid "Features"
+msgstr ""
+
+#: template-properties/content-single-property-v5.php:65
+msgid "Locations"
+msgstr ""
+
+#: template-properties/content-single-property-v5.php:68
+msgid "Plans"
+msgstr ""
+
+#: template-properties/content-single-property-v5.php:71
+msgid "Video"
+msgstr ""
+
+#: template-properties/content-single-property-v5.php:80
+msgid "Stats"
+msgstr ""
+
+#: template-properties/content-single-property-v5.php:83
+msgid "Nearby yelp"
+msgstr ""
+
+#: template-properties/content-single-property-v5.php:86
+msgid "Walkscore"
+msgstr ""
+
+#: template-properties/content-single-property-v5.php:116
+msgid "Send an email"
+msgstr ""
+
+#: template-properties/loop/agency/archive-inner.php:59
+msgid "No agency found."
+msgstr ""
+
+#: template-properties/loop/agency/pagination.php:17
+#: template-properties/loop/agent/pagination.php:17
+#: template-properties/loop/property/pagination.php:17
+#: template-properties/single-agency/agents.php:38
+#: template-properties/single-agency/properties.php:53
+#: template-properties/single-agent/properties.php:39
+#: wp-private-message/dashboard.php:81 wp-private-message/reply-section.php:46
+msgid "Load more"
+msgstr ""
+
+#: template-properties/loop/agency/pagination.php:18
+msgid "All agencies loaded."
+msgstr ""
+
+#: template-properties/loop/agent/archive-inner.php:60
+msgid "No agent found."
+msgstr ""
+
+#: template-properties/loop/agent/pagination.php:18
+#: template-properties/single-agency/agents.php:39
+msgid "All agents loaded."
+msgstr ""
+
+#: template-properties/loop/property/archive-inner.php:60
+msgid "No property found."
+msgstr ""
+
+#: template-properties/loop/property/pagination.php:18
+#: template-properties/single-agency/properties.php:54
+#: template-properties/single-agent/properties.php:40
+msgid "All properties loaded."
+msgstr ""
+
+#: template-properties/loop/property/properties-save-search-form.php:10
+msgid "Save Search"
+msgstr ""
+
+#: template-properties/loop/property/properties-save-search-form.php:21
+msgid "Email Frequency"
+msgstr ""
+
+#: template-properties/loop/property/properties-save-search-form.php:44
+msgid "Save"
+msgstr ""
+
+#: template-properties/misc/agency-members.php:22
+msgid "Team Members"
+msgstr ""
+
+#: template-properties/misc/agency-members.php:26
+msgid "All Members"
+msgstr ""
+
+#: template-properties/misc/agency-members.php:39
+#: template-properties/misc/my-saved-searches.php:162
+#: template-properties/misc/property-favorites.php:108
+#: template-properties/single-agency.php:25
+#: template-properties/single-agent.php:25
+#: template-properties/single-property.php:34
+msgid "Previous page"
+msgstr ""
+
+#: template-properties/misc/agency-members.php:40
+#: template-properties/misc/my-saved-searches.php:163
+#: template-properties/misc/property-favorites.php:109
+#: template-properties/single-agency.php:26
+#: template-properties/single-agent.php:26
+#: template-properties/single-property.php:35
+msgid "Next page"
+msgstr ""
+
+#: template-properties/misc/agency-members.php:47
+msgid "No agents found."
+msgstr ""
+
+#: template-properties/misc/agency-members.php:53
+msgid "Add Member"
+msgstr ""
+
+#: template-properties/misc/agency-members.php:58
+msgid "Search.."
+msgstr ""
+
+#: template-properties/misc/agency-members.php:61
+msgid "Add Agent"
+msgstr ""
+
+#: template-properties/misc/login.php:22
+msgid "Username Or Email"
+msgstr ""
+
+#: template-properties/misc/login.php:24
+msgid "Enter username or email"
+msgstr ""
+
+#: template-properties/misc/login.php:28
+#: template-properties/misc/register.php:20
+#: woocommerce/myaccount/form-login.php:41
+#: woocommerce/myaccount/form-login.php:87
+msgid "Password"
+msgstr ""
+
+#: template-properties/misc/login.php:30 template-properties/misc/login.php:64
+msgid "Enter Password"
+msgstr ""
+
+#: template-properties/misc/login.php:35
+msgid "Keep me signed in"
+msgstr ""
+
+#: template-properties/misc/login.php:39
+msgid "Forgot Password"
+msgstr ""
+
+#: template-properties/misc/login.php:39
+msgid "Lost Your Password?"
+msgstr ""
+
+#: template-properties/misc/login.php:45
+msgid "Don't you have an account?"
+msgstr ""
+
+#: template-properties/misc/login.php:59
+msgid "Reset Password"
+msgstr ""
+
+#: template-properties/misc/login.php:62
+msgid "Username or E-mail"
+msgstr ""
+
+#: template-properties/misc/login.php:76
+msgid "Get New Password"
+msgstr ""
+
+#: template-properties/misc/login.php:77 woocommerce/myaccount/my-orders.php:77
+msgid "Cancel"
+msgstr ""
+
+#: template-properties/misc/login.php:80
+msgid "Back To Login"
+msgstr ""
+
+#: template-properties/misc/my-saved-searches.php:13
+msgid "My Saved Search"
+msgstr ""
+
+#: template-properties/misc/my-saved-searches.php:20
+#: template-properties/misc/property-favorites.php:15
+#: template-properties/submission/my-properties.php:18
+msgid "Search ..."
+msgstr ""
+
+#: template-properties/misc/my-saved-searches.php:34
+#: template-properties/misc/property-favorites.php:29
+#: template-properties/submission/my-properties.php:31
+msgid "Newest"
+msgstr ""
+
+#: template-properties/misc/my-saved-searches.php:35
+#: template-properties/misc/property-favorites.php:30
+#: template-properties/submission/my-properties.php:32
+msgid "Oldest"
+msgstr ""
+
+#: template-properties/misc/my-saved-searches.php:43
+#: template-properties/misc/property-favorites.php:38
+#: template-properties/submission/my-properties.php:40
+msgid "Sort by: "
+msgstr ""
+
+#: template-properties/misc/my-saved-searches.php:68
+msgid "Saved Search Query"
+msgstr ""
+
+#: template-properties/misc/my-saved-searches.php:69
+msgid "Number Properties"
+msgstr ""
+
+#: template-properties/misc/my-saved-searches.php:70
+msgid "Times"
+msgstr ""
+
+#: template-properties/misc/my-saved-searches.php:71
+msgid "Actions"
+msgstr ""
+
+#: template-properties/misc/my-saved-searches.php:137
+msgid "Properties found %d"
+msgstr ""
+
+#: template-properties/misc/my-saved-searches.php:168
+msgid "No property alert found."
+msgstr ""
+
+#: template-properties/misc/password-form.php:6
+#: template-properties/misc/password-form.php:31
+msgid "Change Password"
+msgstr ""
+
+#: template-properties/misc/password-form.php:13
+msgid "Old password"
+msgstr ""
+
+#: template-properties/misc/password-form.php:19
+msgid "New password"
+msgstr ""
+
+#: template-properties/misc/password-form.php:25
+msgid "Retype password"
+msgstr ""
+
+#: template-properties/misc/profile-form-normal.php:12
+#: template-properties/misc/profile-form.php:7
+msgid "Edit Profile"
+msgstr ""
+
+#: template-properties/misc/profile-form-normal.php:36
+msgid "Change Avatar"
+msgstr ""
+
+#: template-properties/misc/profile-form-normal.php:47
+#: template-properties/misc/profile-form-normal.php:49
+msgid "remove"
+msgstr ""
+
+#: template-properties/misc/profile-form-normal.php:61
+msgid "Upload Image"
+msgstr ""
+
+#: template-properties/misc/profile-form-normal.php:68
+#: woocommerce/myaccount/form-edit-account.php:21
+msgid "First name"
+msgstr ""
+
+#: template-properties/misc/profile-form-normal.php:72
+msgid "Last Name"
+msgstr ""
+
+#: template-properties/misc/profile-form-normal.php:82
+#: widgets/contact-form.php:48 widgets/property-contact-form.php:91
+msgid "Phone"
+msgstr ""
+
+#: template-properties/misc/profile-form-normal.php:86
+msgid "Address"
+msgstr ""
+
+#: template-properties/misc/profile-form-normal.php:97
+msgid "Biographical Info"
+msgstr ""
+
+#: template-properties/misc/profile-form.php:30
+msgid "Save Profile"
+msgstr ""
+
+#: template-properties/misc/property-compare.php:88
+#: template-properties/misc/property-favorites.php:118
+msgid "No properties found."
+msgstr ""
+
+#: template-properties/misc/register.php:12
+msgid "User Name"
+msgstr ""
+
+#: template-properties/misc/register.php:25
+msgid "Re-enter Password"
+msgstr ""
+
+#: template-properties/misc/register.php:31
+msgid "Select Role"
+msgstr ""
+
+#: template-properties/misc/register.php:32
+msgid "User"
+msgstr ""
+
+#: template-properties/misc/register.php:35
+msgid "Agent"
+msgstr ""
+
+#: template-properties/misc/register.php:39
+msgid "Agency"
+msgstr ""
+
+#: template-properties/misc/register.php:59
+msgid "I have read and accept the <a href=\"%s\">Terms and Privacy Policy</a>"
+msgstr ""
+
+#: template-properties/misc/register.php:67
+msgid "Sign Up"
+msgstr ""
+
+#: template-properties/misc/register.php:71
+msgid "Already have an account?"
+msgstr ""
+
+#: template-properties/misc/user-dashboard.php:61
+msgid "Hello "
+msgstr ""
+
+#: template-properties/misc/user-dashboard.php:67
+msgid "Published"
+msgstr ""
+
+#: template-properties/misc/user-dashboard.php:89
+msgid "Favorites"
+msgstr ""
+
+#: template-properties/misc/user-dashboard.php:122
+msgid "Recent Reviews"
+msgstr ""
+
+#: template-properties/misc/user-dashboard.php:135
+#: template-properties/misc/user-reviews.php:72
+msgid "No reviews found."
+msgstr ""
+
+#: template-properties/misc/user-dashboard.php:152
+#: wp-private-message/dashboard.php:20
+msgid "Messages"
+msgstr ""
+
+#: template-properties/misc/user-review-item.php:26
+#: template-properties/single-agency/review.php:24
+#: template-properties/single-agent/review.php:24
+#: template-properties/single-property/review.php:24
+#: woocommerce/single-product/review.php:33
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: template-properties/misc/user-review-item.php:33
+#: template-properties/single-agency/review.php:30
+#: template-properties/single-agent/review.php:29
+#: template-properties/single-property/review.php:31
+#: woocommerce/single-product/review.php:39
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: template-properties/misc/user-reviews.php:46
+msgid "All Reviews"
+msgstr ""
+
+#: template-properties/single-agency/agents.php:47
+msgid "No agents found"
+msgstr ""
+
+#: template-properties/single-agency/properties.php:60
+#: template-properties/single-agent/properties.php:46
+msgid "No properties found"
+msgstr ""
+
+#: template-properties/single-agency/reviews.php:21
+#: template-properties/single-agent/reviews.php:21
+msgid "%d Reviews"
+msgstr ""
+
+#: template-properties/single-agency/reviews.php:50
+#: template-properties/single-agent/reviews.php:50
+#: template-properties/single-property/reviews.php:49
+#: woocommerce/single-product-reviews.php:62
+msgid "Add a review"
+msgstr ""
+
+#: template-properties/single-agency/reviews.php:50
+#: template-properties/single-agent/reviews.php:50
+#: template-properties/single-property/reviews.php:49
+#: woocommerce/single-product-reviews.php:62
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: template-properties/single-agency/reviews.php:51
+#: template-properties/single-agent/reviews.php:51
+#: template-properties/single-property/reviews.php:50
+#: woocommerce/single-product-reviews.php:63
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: template-properties/single-agency/reviews.php:56
+#: template-properties/single-agent/reviews.php:56
+#: template-properties/single-property/reviews.php:55
+msgid "Your Name"
+msgstr ""
+
+#: template-properties/single-agency/reviews.php:58
+#: template-properties/single-agent/reviews.php:58
+#: template-properties/single-property/reviews.php:57
+msgid "your@mail.com"
+msgstr ""
+
+#: template-properties/single-agency/reviews.php:60
+#: template-properties/single-agent/reviews.php:60
+#: template-properties/single-property/reviews.php:59
+msgid "Submit Review"
+msgstr ""
+
+#: template-properties/single-agency/reviews.php:65
+#: template-properties/single-agent/reviews.php:65
+#: template-properties/single-property/reviews.php:64
+msgid "You must be <a href=\"\">logged in</a> to post a review."
+msgstr ""
+
+#: template-properties/single-agency/reviews.php:67
+#: template-properties/single-agent/reviews.php:67
+#: template-properties/single-property/reviews.php:66
+#: woocommerce/single-product-reviews.php:93
+msgid "Review"
+msgstr ""
+
+#: template-properties/single-agency/reviews.php:67
+#: template-properties/single-agent/reviews.php:67
+#: template-properties/single-property/reviews.php:66
+msgid "Write Comment"
+msgstr ""
+
+#: template-properties/single-property/detail.php:14
+msgid "Property ID:"
+msgstr ""
+
+#: template-properties/single-property/detail.php:20
+msgid "Lot Area:"
+msgstr ""
+
+#: template-properties/single-property/detail.php:26
+msgid "Home Area:"
+msgstr ""
+
+#: template-properties/single-property/detail.php:32
+msgid "Lot dimensions:"
+msgstr ""
+
+#: template-properties/single-property/detail.php:38
+#: template-properties/single-property/floor-plans-print.php:26
+#: template-properties/single-property/floor-plans.php:26
+msgid "Rooms:"
+msgstr ""
+
+#: template-properties/single-property/detail.php:56
+msgid "Garages:"
+msgstr ""
+
+#: template-properties/single-property/detail.php:69
+msgid "Year built:"
+msgstr ""
+
+#: template-properties/single-property/detail.php:76
+msgid "Property Status:"
+msgstr ""
+
+#: template-properties/single-property/energy.php:11
+msgid "A+"
+msgstr ""
+
+#: template-properties/single-property/energy.php:12
+msgid "A"
+msgstr ""
+
+#: template-properties/single-property/energy.php:13
+msgid "B"
+msgstr ""
+
+#: template-properties/single-property/energy.php:14
+msgid "C"
+msgstr ""
+
+#: template-properties/single-property/energy.php:15
+msgid "D"
+msgstr ""
+
+#: template-properties/single-property/energy.php:16
+msgid "E"
+msgstr ""
+
+#: template-properties/single-property/energy.php:17
+msgid "F"
+msgstr ""
+
+#: template-properties/single-property/energy.php:18
+msgid "G"
+msgstr ""
+
+#: template-properties/single-property/energy.php:19
+msgid "H"
+msgstr ""
+
+#: template-properties/single-property/energy.php:23
+msgid "Energy"
+msgstr ""
+
+#: template-properties/single-property/energy.php:37
+msgid "kWh/m²a"
+msgstr ""
+
+#: template-properties/single-property/energy.php:41
+msgid "%s Your energy class is %s"
+msgstr ""
+
+#: template-properties/single-property/floor-plans-print.php:12
+#: template-properties/single-property/floor-plans.php:12
+msgid "Floor Plans"
+msgstr ""
+
+#: template-properties/single-property/floor-plans-print.php:32
+#: template-properties/single-property/floor-plans.php:32
+msgid "Size:"
+msgstr ""
+
+#: template-properties/single-property/gallery-v2.php:65
+msgid "View Photos"
+msgstr ""
+
+#: template-properties/single-property/location.php:29
+msgid "Street View"
+msgstr ""
+
+#: template-properties/single-property/related.php:53
+msgid "Related Properties"
+msgstr ""
+
+#: template-properties/single-property/tabs-video-virtual.php:26
+msgid "Property video"
+msgstr ""
+
+#: template-properties/single-property/tabs-video-virtual.php:33
+msgid "Virtual Tour"
+msgstr ""
+
+#: template-properties/single-property/walk_score-content.php:22
+msgid "Walk Scores"
+msgstr ""
+
+#: template-properties/single-property/walk_score-content.php:33
+msgid "Transit Score"
+msgstr ""
+
+#: template-properties/single-property/walk_score-content.php:44
+msgid "Bike Score"
+msgstr ""
+
+#: template-properties/single-property/walk_score-content.php:53
+msgid "An error occurred while fetching walk scores."
+msgstr ""
+
+#: template-properties/single-property/walk_score-content.php:59
+msgid "More Details Here"
+msgstr ""
+
+#: template-properties/submission/my-properties.php:12
+msgid "My Properties"
+msgstr ""
+
+#: template-properties/submission/my-properties.php:100
+msgid "Information"
+msgstr ""
+
+#: template-properties/submission/my-properties.php:103
+msgid "Expiry"
+msgstr ""
+
+#: template-properties/submission/my-properties.php:112
+msgid "Action"
+msgstr ""
+
+#: template-properties/submission/my-properties.php:194
+msgid "Relist"
+msgstr ""
+
+#: template-properties/submission/my-properties.php:216
+msgid "Continue"
+msgstr ""
+
+#: template-properties/submission/my-properties.php:224
+#: woocommerce/cart/cart.php:33
+msgid "Remove"
+msgstr ""
+
+#: template-properties/submission/my-properties.php:245
+msgid "You don't have any properties yet. Start by creating new one."
+msgstr ""
+
+#: template-properties/submission/property-submit-form.php:7
+msgid "Add New Property"
+msgstr ""
+
+#: template-properties/submission/property-submit-preview.php:29
+msgid "Edit Property"
+msgstr ""
+
+#: template-properties/widgets/filter-fields/number_select.php:6
+msgid "%s : Any"
+msgstr ""
+
+#: template-properties/widgets/filter-fields/range_slider.php:21
+msgid "From"
+msgstr ""
+
+#: template-properties/widgets/filter-fields/range_slider.php:23
+msgid "to"
+msgstr ""
+
+#: template-properties/widgets/filter-fields/select.php:24
+#: template-properties/widgets/filter-fields/tax_select.php:11
+msgid "Filter by %s"
+msgstr ""
+
+#: template-properties/widgets/filter-fields/text_date.php:27
+msgid "Form"
+msgstr ""
+
+#: template-properties/widgets/filter-fields/text_date.php:36
+msgid "To"
+msgstr ""
+
+#: template-properties/widgets/property-filter.php:40
+msgid "Advanced Search"
+msgstr ""
+
+#: widgets/contact-form.php:43 widgets/property-contact-form.php:86
+msgid "E-mail"
+msgstr ""
+
+#: widgets/contact-form.php:53 widgets/property-contact-form.php:96
+msgid "Message"
+msgstr ""
+
+#: widgets/mortgage-calculator.php:25
+msgid "Deposit"
+msgstr ""
+
+#: widgets/mortgage-calculator.php:29
+msgid "Rate"
+msgstr ""
+
+#: widgets/mortgage-calculator.php:33
+msgid "Loan Term"
+msgstr ""
+
+#: widgets/mortgage-calculator.php:34
+msgid "Year"
+msgstr ""
+
+#: widgets/mortgage-calculator.php:36
+msgid "Calculate"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+msgid "Product Name"
+msgstr ""
+
+#. translators: %s: Quantity.
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:88
+#: woocommerce/global/quantity-input.php:31
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:110
+#: woocommerce/cart/mini-cart.php:94 woocommerce/myaccount/my-orders.php:37
+#: woocommerce/myaccount/my-orders.php:60
+#: woocommerce/order/order-details.php:55
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:62 woocommerce/order/order-details.php:54
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:77
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:121 woocommerce/cart/mini-cart.php:58
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:140
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:140
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:140
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:145
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:23
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart-button.php:4
+msgid "View your shopping cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart-content.php:5
+msgid "My Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:85
+msgid "Currently Empty"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:87
+msgid "Continue shopping"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:99
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:100
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:25
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:54
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:21
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+
+#: woocommerce/checkout/payment.php:44
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:46
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:25
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28 woocommerce/myaccount/my-orders.php:70
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:73
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:54
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:59
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:77
+msgid "COUNTINUE SHOPPING"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Sort by:"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:57
+msgid "Add payment method"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:63
+msgid "New payment methods can only be added during checkout. Please contact us if you require assistance."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:25
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:30
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "This will be how your name will be displayed in the account section and in reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:34
+#: woocommerce/myaccount/form-login.php:81
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid "Password Change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:40
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:44
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Confirm New Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:56
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:38
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:50
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:53
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:56
+msgid "sign in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:75
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:92
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:20
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:67
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:34
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:49
+msgid "Order Number"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:61
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/order/order-details.php:48
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:96
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/single-product/countdown.php:9
+msgid "Start for you in: "
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:39
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:41
+msgid "<span class=\"sub_title\">Tag:</span>"
+msgid_plural "<span class=\"sub_title\">Tags:</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-image-carousel.php:42
+#: woocommerce/single-product/product-image.php:42
+msgid "Watch video"
+msgstr ""
+
+#: woocommerce/single-product/product-image-carousel.php:56
+#: woocommerce/single-product/product-image-carousel.php:83
+#: woocommerce/single-product/product-image.php:56
+#: woocommerce/single-product/product-image.php:77
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:45
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:34
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:45
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:42
+msgid "Up-Sells Products"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:48
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+msgid "submit review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: wp-private-message/dashboard.php:23
+msgid "Show messages box"
+msgstr ""
+
+#: wp-private-message/dashboard.php:32
+msgid "Search Contacts..."
+msgstr ""
+
+#: wp-private-message/dashboard.php:45
+msgid "All"
+msgstr ""
+
+#: wp-private-message/dashboard.php:46
+msgid "Read"
+msgstr ""
+
+#: wp-private-message/dashboard.php:47
+msgid "Unread"
+msgstr ""
+
+#: wp-private-message/dashboard.php:97
+msgid "No message found"
+msgstr ""
+
+#: wp-private-message/reply-item.php:23
+msgid "Today"
+msgstr ""
+
+#: wp-private-message/reply-item.php:25
+msgid "Yesterday"
+msgstr ""
+
+#: wp-private-message/reply-message-form.php:11
+msgid "Write your message..."
+msgstr ""
+
+#: wp-private-message/reply-section.php:38
+msgid "Delete Conversation"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Homeo"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themeforest.net/item/homeo-real-estate-wordpress-theme/26372986"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Homeo is clean theme, it's used Apus Framework."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ApusTheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://apusthemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "404 Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Agencies Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Agents Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Dashboard Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Properties Template"
+msgstr ""

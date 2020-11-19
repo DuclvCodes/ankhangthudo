@@ -1,0 +1,693 @@
+# Copyright (C) 2016 WP Private Message
+# This file is distributed under the same license as the WP Private Message package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Private Message 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-private-message\n"
+"POT-Creation-Date: 2020-03-27 09:13:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/admin/class-settings.php:64
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:84
+msgid "General"
+msgstr ""
+
+#: includes/admin/class-settings.php:85 includes/admin/class-settings.php:184
+msgid "Email Notification"
+msgstr ""
+
+#: includes/admin/class-settings.php:146 includes/admin/class-settings.php:150
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:157
+msgid "Messages Box Page"
+msgstr ""
+
+#: includes/admin/class-settings.php:158
+msgid "This lets the plugin know the location of the Messages Box Page. The <code>[wp_private_message_dashboard]</code> shortcode should be on this page."
+msgstr ""
+
+#: includes/admin/class-settings.php:165
+msgid "Number message per page"
+msgstr ""
+
+#: includes/admin/class-settings.php:166
+msgid "Number of message to display per page."
+msgstr ""
+
+#: includes/admin/class-settings.php:173
+msgid "Number replied per page"
+msgstr ""
+
+#: includes/admin/class-settings.php:174
+msgid "Number of replied to display per page."
+msgstr ""
+
+#: includes/admin/class-settings.php:188
+msgid "Email New Message Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:195
+msgid "User Notice of New Message"
+msgstr ""
+
+#: includes/admin/class-settings.php:198 includes/admin/class-settings.php:225
+msgid "Send a notice to the site administrator when a new message is submitted on the frontend."
+msgstr ""
+
+#: includes/admin/class-settings.php:201 includes/admin/class-settings.php:228
+#: templates/widgets/send-message-form.php:25
+msgid "Subject"
+msgstr ""
+
+#: includes/admin/class-settings.php:207 includes/admin/class-settings.php:234
+msgid "Content"
+msgstr ""
+
+#: includes/admin/class-settings.php:211 includes/admin/class-settings.php:238
+msgid "Enter email content. You can add variables: {{user_name}}, {{message_dashboard}}, {{message_detail_url}}, {{message_subject}}, {{message_content}}, {{website_url}}, {{website_name}}"
+msgstr ""
+
+#: includes/admin/class-settings.php:215
+msgid "Email Reply Message Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:222
+msgid "User Notice of Reply Message"
+msgstr ""
+
+#: includes/admin/class-settings.php:273
+msgid "Settings updated."
+msgstr ""
+
+#: includes/admin/class-settings.php:410
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class-private-message.php:42 includes/class-private-message.php:118
+#: includes/class-private-message.php:199
+#: includes/class-private-message.php:220
+#: includes/class-private-message.php:371
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+#: includes/class-private-message.php:47
+msgid "Please login to send a message."
+msgstr ""
+
+#: includes/class-private-message.php:55
+msgid "Recipient did not exists."
+msgstr ""
+
+#: includes/class-private-message.php:81
+msgid "Sent message successful."
+msgstr ""
+
+#: includes/class-private-message.php:85
+msgid "Send message error."
+msgstr ""
+
+#: includes/class-private-message.php:123
+msgid "Please login to reply a message."
+msgstr ""
+
+#: includes/class-private-message.php:131
+msgid "Message did not exists."
+msgstr ""
+
+#: includes/class-private-message.php:190
+msgid "Reply message error."
+msgstr ""
+
+#: includes/class-private-message.php:205
+#: includes/class-private-message.php:329
+#: includes/class-private-message.php:377
+msgid "Message is not exactly"
+msgstr ""
+
+#: includes/class-private-message.php:274 templates/dashboard.php:91
+msgid "No message found"
+msgstr ""
+
+#: includes/class-private-message.php:282 templates/dashboard.php:78
+#: templates/reply-section.php:46
+msgid "Load more"
+msgstr ""
+
+#: includes/class-private-message.php:395
+msgid "Message is successful"
+msgstr ""
+
+#: includes/class-private-message.php:399
+msgid "Message is error."
+msgstr ""
+
+#: includes/class-recaptcha.php:31
+msgid "reCAPTCHA is a required field"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:24
+#: includes/post-types/class-post-type-private-message.php:36
+#: templates/dashboard.php:19
+msgid "Messages"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:25
+#: templates/reply-message-form.php:13
+#: templates/widgets/send-message-form.php:28
+msgid "Message"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:26
+#: includes/post-types/class-post-type-private-message.php:27
+msgid "Add New Message"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:28
+msgid "Edit Message"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:29
+msgid "New Message"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:30
+msgid "All Messages"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:31
+msgid "View Message"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:32
+msgid "Search Message"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:33
+msgid "No Messages found"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:34
+msgid "No Messages found in Trash"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:62
+#: includes/widgets/class-widget-send-message.php:69
+msgid "Title"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:63
+msgid "Sender"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:64
+msgid "Recipients"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:65
+msgid "Sent"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:66
+#: libraries/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:67
+msgid "Parent"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:83
+msgid "-"
+msgstr ""
+
+#: includes/post-types/class-post-type-private-message.php:83
+#: templates/message-item.php:36 templates/message-item.php:39
+msgid "%s"
+msgstr ""
+
+#: includes/widgets/class-widget-send-message.php:24
+msgid "Send Message Form"
+msgstr ""
+
+#: includes/widgets/class-widget-send-message.php:26
+msgid "Send message form widget."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: libraries/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libraries/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libraries/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libraries/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:393
+#: libraries/class-tgm-plugin-activation.php:920
+#: libraries/class-tgm-plugin-activation.php:2626
+#: libraries/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:394
+#: libraries/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:395
+#: libraries/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: libraries/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:1027
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:1027
+#: libraries/class-tgm-plugin-activation.php:1030
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:1030
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:1214
+#: libraries/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: libraries/class-tgm-plugin-activation.php:2075
+msgid "TGMPA v%s"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: libraries/class-tgm-plugin-activation.php:2435
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: libraries/class-tgm-plugin-activation.php:2481
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: libraries/class-tgm-plugin-activation.php:2485
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: libraries/class-tgm-plugin-activation.php:2489
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: libraries/class-tgm-plugin-activation.php:2493
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libraries/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: libraries/class-tgm-plugin-activation.php:2696
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: libraries/class-tgm-plugin-activation.php:2701
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: libraries/class-tgm-plugin-activation.php:2707
+msgid "Activate %2$s"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: libraries/class-tgm-plugin-activation.php:3591
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: libraries/class-tgm-plugin-activation.php:3594
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:3596
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3600
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3602
+#: libraries/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3602
+#: libraries/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: libraries/class-tgm-plugin-activation.php:3605
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3608
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: libraries/class-tgm-plugin-activation.php:3610
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: libraries/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: libraries/class-tgm-plugin-activation.php:3613
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: templates/dashboard.php:22
+msgid "Show messages box"
+msgstr ""
+
+#: templates/dashboard.php:31
+msgid "Search"
+msgstr ""
+
+#: templates/dashboard.php:42
+msgid "All"
+msgstr ""
+
+#: templates/dashboard.php:43
+msgid "Read"
+msgstr ""
+
+#: templates/dashboard.php:44
+msgid "Unread"
+msgstr ""
+
+#: templates/not-allowed.php:8
+msgid "You are not allowed to access this page."
+msgstr ""
+
+#: templates/reply-item.php:23
+msgid "Today"
+msgstr ""
+
+#: templates/reply-item.php:25
+msgid "Yesterday"
+msgstr ""
+
+#: templates/reply-message-form.php:16
+msgid "Send"
+msgstr ""
+
+#: templates/reply-section.php:38
+msgid "Delete Conversation"
+msgstr ""
+
+#: templates/widgets/send-message-form.php:34
+msgid "Send Message"
+msgstr ""
+
+#: templates/widgets/send-message-form.php:37
+msgid "Login to send a private message"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "WP Private Message"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://apusthemes.com/wp-private-message/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Powerful plugin to create a private message on your website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Habq"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://apusthemes.com/"
+msgstr ""

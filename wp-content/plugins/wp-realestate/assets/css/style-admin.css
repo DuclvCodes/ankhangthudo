@@ -1,0 +1,90 @@
+.wp-realestate-filter-fields li {
+	background: #fafafa;
+	border: 1px solid #dfdfdf;
+	cursor: move;
+}
+
+.wp-realestate-filter-fields li.invisible {
+	opacity: .4;
+}
+
+.wp-realestate-filter-fields li p {
+	font-size: 12px;
+	margin: 7px 15px;
+}
+
+.wp-realestate-filter-fields li i {
+	font-size: 10px;
+	margin: 0 5px 0 0;
+}
+
+.wp-realestate-filter-fields li .visibility {
+	cursor: pointer;
+	float: right;
+	position: relative;
+	color: #0085ba;
+}
+
+.wp-realestate-filter-fields li.invisible .visibility {
+	color: #000;
+}
+
+.wp-realestate-filter-fields li .visibility i {
+	cursor: pointer;
+	font-size: 15px;
+	left: 0;
+	position: absolute;
+	pointer-events: none;
+	top: 2px;
+}
+
+.wp-realestate-filter-fields li .visibility .field-visibility {
+	background-color: transparent !important;
+	border: 0 !important;
+	box-shadow: none !important;
+}
+
+.wp-realestate-filter-fields li .visibility .field-visibility:before {
+	display: none;
+}
+
+.post-type-property .widefat th.column-title {
+	width: 20%;
+}
+.widefat th.column-agent-logo {
+	width: 50px;
+}
+.widefat td.thumbnail img.attachment-thumbnail-small {
+    width: 52px;
+    height: 52px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    box-shadow: 0 1px 0 1px rgba(0,0,0,.1);
+    -webkit-box-shadow: 0 1px 0 1px rgba(0,0,0,.1);
+    -moz-box-shadow: 0 1px 0 1px rgba(0,0,0,.1);
+    border: 1px solid #fff;
+}
+
+.status-active {
+	color: #0073aa;
+}
+.status-expired {
+	color: #a00;
+}
+.status-pending {
+	color: #ffba00;
+}
+.status-draft {
+	color: #999;
+}
+.property-type-bg {
+	border-radius: 3px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 13px;
+    height: 28px;
+    line-height: 26px;
+    margin: 0;
+    padding: 0 10px 1px;
+}

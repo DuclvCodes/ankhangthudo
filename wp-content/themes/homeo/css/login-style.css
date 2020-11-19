@@ -1,0 +1,93 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.inner-social a {
+  color: #fff;
+  display: block;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -o-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+  text-decoration: none;
+}
+.wrapper-social-login .line-header{
+	text-align:center;
+	margin:0 0 10px;
+	font-weight: 700;
+	color: #7f7f7f;
+	text-transform: uppercase;
+	position: relative;
+  width: 100%;
+}
+.wrapper-social-login .line-header:before{
+	content:'';
+	width:100%;
+	height: 1px;
+	background-color: #e5e5e5;
+	position: absolute;
+	top:50%;
+	left: 0;
+}
+.wrapper-social-login .line-header span{
+	padding:0 5px;
+	background-color: #fff;
+	position: relative;
+	z-index: 2;
+}
+.inner-social a i {
+  font-size: 18px;
+  margin-right: 3px;
+}
+.rtl .inner-social .inner a i {
+  margin-left: 3px;
+  margin-right: inherit;
+}
+.inner-social .facebook-login-btn {
+  background: #3b5999;
+}
+.inner-social .facebook-login-btn:hover, .inner-social .facebook-login-btn:focus {
+  background: #344e87;
+}
+.inner-social .google-login-btn {
+  background: #dd4b39;
+}
+.inner-social .google-login-btn:hover, .inner-social .google-login-btn:focus {
+  background: #d73925;
+}
+.inner-social .linkedin-login-btn {
+  background: #0077B5;
+}
+.inner-social .linkedin-login-btn:hover, .inner-social .linkedin-login-btn:focus {
+  background: #00669c;
+}
+.inner-social .twitter-login-btn {
+  background: #55acee;
+}
+.inner-social .twitter-login-btn:hover, .inner-social .twitter-login-btn:focus {
+  background: #3ea1ec;
+}
+.inner-social{
+	margin-left: -7px;
+	margin-right: -7px;
+	overflow: hidden;
+	clear: both;
+}
+.inner-social > div{
+	width: 50%;
+	float:left;
+	padding-left: 7px;
+	padding-right: 7px;
+	margin-bottom: 14px;
+}
+.rtl .inner-social > div{
+	float:right;
+}

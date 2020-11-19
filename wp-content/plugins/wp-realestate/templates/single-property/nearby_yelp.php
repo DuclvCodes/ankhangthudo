@@ -1,0 +1,1 @@
+<div id="property-section-nearby_yelp" class="property-section property-nearby_yelp" data-property_id="<?php the_ID(); ?>" data-nonce="<?php echo esc_attr(wp_create_nonce( 'wp-realestate-property-yelp-nonce' )); ?>"></div>

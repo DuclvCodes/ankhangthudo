@@ -1,0 +1,8 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">apus_brand</custom-type>
+        <custom-type translate="1">apus_footer</custom-type>
+        <custom-type translate="1">apus_megamenu</custom-type>
+        <custom-type translate="1">apus_testimonial</custom-type>
+    </custom-types>
+</wpml-config>

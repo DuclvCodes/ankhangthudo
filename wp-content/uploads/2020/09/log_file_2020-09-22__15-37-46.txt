@@ -1,0 +1,127 @@
+
+---Downloaded files---
+The import files for: Home were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/homeo
+Data file = C:\xampp\htdocs\homeo/wp-content/themes/homeo/inc/vendors/one-click-demo-import/data/dummy-data.xml
+Widget file = C:\xampp\htdocs\homeo/wp-content/themes/homeo/inc/vendors/one-click-demo-import/data/widgets.wie
+Customizer file = not defined!
+Redux files:
+homeo_theme_options -> C:\xampp\htdocs\homeo/wp-content/themes/homeo/inc/vendors/one-click-demo-import/data/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Sidebar Default : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+
+Properties filter sidebar : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+Apus Simple Properties List - Latest Properties - Imported
+
+Properties filter sidebar fixed : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+
+Properties filter Top sidebar : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+
+Properties filter Top Half Map : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+
+Property single sidebar : 
+
+Property Detail:: Contact Form - Contact %1s - Imported
+Apus Show Elementor Template Widget - No Title - Imported
+Apus Simple Properties List - Latest Properties - Imported
+Private Message Form - Send Message to %1s - Imported
+Apus Mortgage Calculator Widget - Mortgage Calculator - Imported
+
+Agents filter sidebar : 
+
+Agency Filter - Find Agent - Imported
+Apus Simple Properties List - Latest Properties - Imported
+
+Agent single sidebar : 
+
+Agent|Agency Detail:: Contact Form - Contact %1s - Imported
+Agent Filter - Find Agents - Imported
+Private Message Form - Send Message to %1s - Imported
+
+Agencies filter sidebar : 
+
+Agency Filter - Find Agencies - Imported
+Apus Simple Properties List - Latest Properties - Imported
+
+Agency single sidebar : 
+
+Private Message Form - Send Message to %1s - Imported
+Agency Filter - Find Agencies - Imported
+Agent|Agency Detail:: Contact Form - Contact %1s - Imported
+
+User Profile sidebar : 
+
+Image - No Title - Imported
+Apus User Short Profile - No Title - Imported
+
+Blog sidebar : 
+
+Apus Search Widget - No Title - Imported
+Categories - Categories - Imported
+Apus Simple Properties List - Latest Properties - Imported
+Tag Cloud - Tags - Imported
+
+Shop sidebar : 
+
+Apus Search Widget - No Title - Imported
+Product Categories - Product categories - Imported
+Products - Recent Products - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: homeo_theme_options finished successfully!
+
+---pt-ocdi/after_import---
+

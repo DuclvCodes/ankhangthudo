@@ -1,0 +1,1 @@
+<div id="property-section-walk_score" class="property-section property-walk_score" data-property_id="<?php the_ID(); ?>" data-nonce="<?php echo esc_attr(wp_create_nonce( 'wp-realestate-property-walk-score-nonce' )); ?>"></div>
